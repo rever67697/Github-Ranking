@@ -62,6 +62,7 @@ ai_categories = [
     "Computer Vision",
     "Reinforcement Learning",
     "Generative AI",
+    "Skills",
 ]
 # AI 分类目录（追加到主目录后面）
 ai_table_of_contents = """
@@ -72,7 +73,8 @@ ai_table_of_contents = """
 * [Natural Language Processing](#natural-language-processing)
 * [Computer Vision](#computer-vision)
 * [Reinforcement Learning](#reinforcement-learning)
-* [Generative AI](#generative-ai)"""
+* [Generative AI](#generative-ai)
+* [Skills](#skills)"""
 
 
 class ProcessorGQL(object):
@@ -171,6 +173,7 @@ class ProcessorGQL(object):
 
         # 获取 AI 分类的仓库
         repos_ai = {}
+        # topic 可以是单个字符串，也可以是列表（多 topic 合并去重）
         ai_topic_map = {
             "Artificial Intelligence": "artificial-intelligence",
             "Machine Learning": "machine-learning",
@@ -180,12 +183,28 @@ class ProcessorGQL(object):
             "Computer Vision": "computer-vision",
             "Reinforcement Learning": "reinforcement-learning",
             "Generative AI": "generative-ai",
+            "Skills": ["ai-skills", "agent-skills", "claude-skills"],
         }
         for cat in ai_categories:
-            topic = ai_topic_map.get(cat, cat.lower().replace(" ", "-"))
-            print("Get most stars repos of AI category: {} (topic:{})...".format(cat, topic))
-            repos_ai[cat] = self.get_repos(self.gql_stars_ai % (topic, '%s'))
-            print("Get most stars repos of AI category: {} success!".format(cat))
+            topics = ai_topic_map.get(cat, cat.lower().replace(" ", "-"))
+            # 统一转为列表
+            if isinstance(topics, str):
+                topics = [topics]
+            # 多 topic 查询并合并去重
+            merged = []
+            seen_urls = set()
+            for topic in topics:
+                print("Get most stars repos of AI category: {} (topic:{})...".format(cat, topic))
+                topic_repos = self.get_repos(self.gql_stars_ai % (topic, '%s'))
+                for repo in topic_repos:
+                    if repo['html_url'] not in seen_urls:
+                        seen_urls.add(repo['html_url'])
+                        merged.append(repo)
+            # 按 stars 降序排序
+            merged.sort(key=lambda r: r['stargazers_count'], reverse=True)
+            repos_ai[cat] = merged
+            print("Get most stars repos of AI category: {} success! ({} repos from {} topics)".format(
+                cat, len(merged), len(topics)))
 
         return repos_stars, repos_forks, repos_languages, repos_ai
 
