@@ -5,13 +5,13 @@
 
 | Ranking | Project Name | Stars | Forks | Language | Open Issues | Description | Last Commit |
 | ------- | ------------ | ----- | ----- | -------- | ----------- | ----------- | ----------- |
-| 1 | [julia](https://github.com/JuliaLang/julia) | 48920 | 5806 | Julia | 3764 | The Julia Programming Language | 2026-07-09T07:57:16Z |
+| 1 | [julia](https://github.com/JuliaLang/julia) | 48919 | 5806 | Julia | 3764 | The Julia Programming Language | 2026-07-09T07:57:16Z |
 | 2 | [Flux.jl](https://github.com/FluxML/Flux.jl) | 4726 | 622 | Julia | 141 | Relax! Flux is the ML library that doesn't make you tensor | 2026-07-07T16:12:20Z |
 | 3 | [DifferentialEquations.jl](https://github.com/SciML/DifferentialEquations.jl) | 3129 | 249 | Julia | 167 | Multi-language suite for high-performance solvers of differential equations and scientific machine learning (SciML) components. Ordinary differential equations (ODEs), stochastic differential equations (SDEs), delay differential equations (DDEs), differential-algebraic equations (DAEs), and more in Julia. | 2026-06-26T21:32:45Z |
 | 4 | [IJulia.jl](https://github.com/JuliaLang/IJulia.jl) | 2892 | 426 | Julia | 30 | Julia kernel for Jupyter | 2026-06-23T05:55:43Z |
 | 5 | [computational-thinking](https://github.com/mitmath/computational-thinking) | 2820 | 498 | Julia | 5 | Course 18.S191 at MIT, Fall 2022 - Introduction to computational thinking with Julia | 2026-05-06T09:38:21Z |
 | 6 | [Makie.jl](https://github.com/MakieOrg/Makie.jl) | 2788 | 390 | Julia | 868 | Interactive data visualizations and plotting in Julia | 2026-07-08T19:18:02Z |
-| 7 | [JuMP.jl](https://github.com/jump-dev/JuMP.jl) | 2452 | 420 | Julia | 8 | Modeling language for Mathematical Optimization (linear, mixed-integer, conic, semidefinite, nonlinear) | 2026-07-09T07:47:40Z |
+| 7 | [JuMP.jl](https://github.com/jump-dev/JuMP.jl) | 2452 | 420 | Julia | 8 | Modeling language for Mathematical Optimization (linear, mixed-integer, conic, semidefinite, nonlinear) | 2026-07-09T08:34:36Z |
 | 8 | [Genie.jl](https://github.com/GenieFramework/Genie.jl) | 2408 | 186 | Julia | 115 | 🧞The highly productive Julia web framework | 2026-06-22T06:55:48Z |
 | 9 | [Turing.jl](https://github.com/TuringLang/Turing.jl) | 2242 | 239 | Julia | 20 | Bayesian inference with probabilistic programming. | 2026-07-08T21:40:00Z |
 | 10 | [Plots.jl](https://github.com/JuliaPlots/Plots.jl) | 1948 | 386 | Julia | 905 | Powerful convenience for Julia visualizations and data analysis | 2026-06-23T18:22:37Z |
@@ -69,7 +69,7 @@
 | 62 | [POMDPs.jl](https://github.com/JuliaPOMDP/POMDPs.jl) | 763 | 105 | Julia | 23 | MDPs and POMDPs in Julia - An interface for defining, solving, and simulating fully and partially observable Markov decision processes on discrete and continuous spaces. | 2026-07-05T23:59:55Z |
 | 63 | [JuliaDB.jl](https://github.com/JuliaData/JuliaDB.jl) | 763 | 59 | Julia | 113 | Parallel analytical database in pure Julia | 2023-10-29T00:14:52Z |
 | 64 | [DataStructures.jl](https://github.com/JuliaCollections/DataStructures.jl) | 744 | 262 | Julia | 122 | Julia implementation of Data structures | 2026-07-02T14:57:13Z |
-| 65 | [General](https://github.com/JuliaRegistries/General) | 719 | 582 | Julia | 11 | The official registry of general Julia packages | 2026-07-09T08:25:22Z |
+| 65 | [General](https://github.com/JuliaRegistries/General) | 719 | 582 | Julia | 11 | The official registry of general Julia packages | 2026-07-09T09:08:41Z |
 | 66 | [TimerOutputs.jl](https://github.com/KristofferC/TimerOutputs.jl) | 718 | 56 | Julia | 29 | Formatted output of timed sections in Julia | 2026-01-22T12:02:35Z |
 | 67 | [Lux.jl](https://github.com/LuxDL/Lux.jl) | 715 | 86 | Julia | 82 | Elegant and Performant Deep Learning | 2026-07-06T01:52:50Z |
 | 68 | [Catlab.jl](https://github.com/AlgebraicJulia/Catlab.jl) | 714 | 69 | Julia | 146 | A framework for applied category theory in the Julia language | 2026-07-02T15:38:10Z |

@@ -5,14 +5,14 @@
 
 | Ranking | Project Name | Stars | Forks | Language | Open Issues | Description | Last Commit |
 | ------- | ------------ | ----- | ----- | -------- | ----------- | ----------- | ----------- |
-| 1 | [minimind](https://github.com/jingyaogong/minimind) | 53050 | 6860 | Python | 24 | 🧠「大模型」2小时完全从0训练64M的小参数LLM！Train a 64M-parameter LLM from scratch in just 2h! | 2026-06-28T10:03:46Z |
-| 2 | [Scrapegraph-ai](https://github.com/ScrapeGraphAI/Scrapegraph-ai) | 28196 | 2719 | Python | 0 | Python scraper based on AI | 2026-07-08T15:42:38Z |
+| 1 | [minimind](https://github.com/jingyaogong/minimind) | 53055 | 6860 | Python | 24 | 🧠「大模型」2小时完全从0训练64M的小参数LLM！Train a 64M-parameter LLM from scratch in just 2h! | 2026-06-28T10:03:46Z |
+| 2 | [Scrapegraph-ai](https://github.com/ScrapeGraphAI/Scrapegraph-ai) | 28198 | 2721 | Python | 0 | Python scraper based on AI | 2026-07-08T15:42:38Z |
 | 3 | [PocketFlow-Tutorial-Codebase-Knowledge](https://github.com/The-Pocket/PocketFlow-Tutorial-Codebase-Knowledge) | 12428 | 1420 | Python | 55 | Pocket Flow: Codebase to Tutorial | 2026-05-31T01:26:41Z |
 | 4 | [PocketFlow](https://github.com/The-Pocket/PocketFlow) | 10946 | 1186 | Python | 60 | Pocket Flow: 100-line LLM framework. Let Agents build Agents! | 2026-03-27T18:48:41Z |
 | 5 | [KAG](https://github.com/OpenSPG/KAG) | 8881 | 693 | Python | 163 | KAG is a logical form-guided reasoning and retrieval framework based on OpenSPG engine and LLMs.  It is used to build logical reasoning and factual Q&A solutions for professional domain knowledge bases. It can effectively overcome the shortcomings of the traditional RAG vector similarity calculation model. | 2026-01-28T13:30:54Z |
-| 6 | [rig](https://github.com/0xPlaygrounds/rig) | 7867 | 873 | Rust | 52 | ⚙️🦀 Build modular and scalable LLM Applications in Rust | 2026-07-09T08:08:41Z |
+| 6 | [rig](https://github.com/0xPlaygrounds/rig) | 7867 | 873 | Rust | 52 | ⚙️🦀 Build modular and scalable LLM Applications in Rust | 2026-07-09T08:37:43Z |
 | 7 | [InternLM](https://github.com/InternLM/InternLM) | 7238 | 508 | Python | 9 | Official release of InternLM series (InternLM, InternLM2, InternLM2.5, InternLM3). | 2025-10-30T00:35:43Z |
-| 8 | [opencompass](https://github.com/open-compass/opencompass) | 7177 | 800 | Python | 348 | OpenCompass is an LLM evaluation platform, supporting a wide range of models (Llama3, Mistral, InternLM2,GPT-4,LLaMa2, Qwen,GLM, Claude, etc) over 100+ datasets. | 2026-07-08T07:39:14Z |
+| 8 | [opencompass](https://github.com/open-compass/opencompass) | 7178 | 800 | Python | 346 | OpenCompass is an LLM evaluation platform, supporting a wide range of models (Llama3, Mistral, InternLM2,GPT-4,LLaMa2, Qwen,GLM, Claude, etc) over 100+ datasets. | 2026-07-09T09:06:48Z |
 | 9 | [atomic-agents](https://github.com/Eigenwise/atomic-agents) | 6032 | 512 | Python | 8 | Building AI agents, atomically | 2026-07-05T18:17:50Z |
 | 10 | [enchanted](https://github.com/gluonfield/enchanted) | 5974 | 420 | Swift | 102 | Enchanted is iOS and macOS app for chatting with private self hosted language models such as Llama2, Mistral or Vicuna using Ollama. | 2026-07-07T19:34:55Z |
 | 11 | [tiny-llm](https://github.com/skyzh/tiny-llm) | 4347 | 342 | Python | 7 | A course of learning LLM inference serving on Apple Silicon for systems engineers: build a tiny vLLM + Qwen. | 2026-06-13T19:14:56Z |
@@ -37,8 +37,8 @@
 | 30 | [SLAM-LLM](https://github.com/X-LANCE/SLAM-LLM) | 1045 | 117 | Python | 31 | A Framework for Speech, Language, Audio, Music Processing with Large Language Model | 2026-01-15T12:37:22Z |
 | 31 | [EasyJailbreak](https://github.com/EasyJailbreak/EasyJailbreak) | 869 | 85 | Python | 18 | An easy-to-use Python framework to generate adversarial jailbreak prompts. | 2026-03-30T03:25:13Z |
 | 32 | [Medical-Graph-RAG](https://github.com/ImprintLab/Medical-Graph-RAG) | 812 | 143 | Python | 18 | A Graph RAG System for Evidenced-based Medical Information Retrieval  [ACL 2025] | 2025-10-18T20:25:42Z |
-| 33 | [Steel-LLM](https://github.com/zhanshijinwat/Steel-LLM) | 810 | 80 | Jupyter Notebook | 4 | Train a 1B LLM with 1T tokens from scratch by personal | 2025-04-27T16:38:25Z |
-| 34 | [AwesomeOPD](https://github.com/thinkwee/AwesomeOPD) | 729 | 17 | None | 0 | Awesome List for On-Policy Distillation | 2026-06-23T19:48:24Z |
+| 33 | [Steel-LLM](https://github.com/zhanshijinwat/Steel-LLM) | 811 | 80 | Jupyter Notebook | 4 | Train a 1B LLM with 1T tokens from scratch by personal | 2025-04-27T16:38:25Z |
+| 34 | [AwesomeOPD](https://github.com/thinkwee/AwesomeOPD) | 730 | 17 | None | 0 | Awesome List for On-Policy Distillation | 2026-06-23T19:48:24Z |
 | 35 | [Awesome-LLM-Eval](https://github.com/onejune2018/Awesome-LLM-Eval) | 648 | 77 | None | 7 | Awesome-LLM-Eval: a curated list of tools, datasets/benchmark, demos, leaderboard, papers, docs and models, mainly for Evaluation on LLMs.  一个由工具、基准/数据、演示、排行榜和大模型等组成的精选列表，主要面向基础大模型评测，旨在探求生成式AI的技术边界. | 2025-11-24T01:59:12Z |
 | 36 | [Awesome-Story-Generation](https://github.com/yingpengma/Awesome-Story-Generation) | 637 | 32 | Python | 6 | This repository collects an extensive list of awesome papers about Story Generation / Storytelling, exclusively focusing on the era of Large Language Models (LLMs). | 2026-03-20T17:52:38Z |
 | 37 | [awesome-llm-unlearning](https://github.com/chrisliu298/awesome-llm-unlearning) | 608 | 32 | None | 0 | A resource repository for machine unlearning in large language models | 2026-07-08T01:43:33Z |

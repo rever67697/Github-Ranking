@@ -53,7 +53,7 @@
 | 46 | [rvest](https://github.com/tidyverse/rvest) | 1520 | 347 | R | 31 | Simple web scraping for R | 2025-09-09T10:02:49Z |
 | 47 | [broom](https://github.com/tidymodels/broom) | 1520 | 304 | R | 12 | Convert statistical analysis objects from R into tidy format | 2026-05-14T16:34:12Z |
 | 48 | [tofsims](https://github.com/fossasia/tofsims) | 1491 | 6 | R | 0 | None | 2017-11-29T19:16:12Z |
-| 49 | [janitor](https://github.com/sfirke/janitor) | 1445 | 132 | R | 36 | simple tools for data cleaning in R | 2024-12-23T14:20:04Z |
+| 49 | [janitor](https://github.com/sfirke/janitor) | 1446 | 132 | R | 36 | simple tools for data cleaning in R | 2024-12-23T14:20:04Z |
 | 50 | [sf](https://github.com/r-spatial/sf) | 1438 | 301 | R | 59 | Simple Features for R | 2026-07-06T09:58:07Z |
 | 51 | [plumber](https://github.com/rstudio/plumber) | 1436 | 258 | R | 118 | Turn your R code into a web API. | 2026-02-09T15:10:26Z |
 | 52 | [tidyr](https://github.com/tidyverse/tidyr) | 1434 | 419 | R | 45 | Tidy Messy Data | 2026-06-02T17:43:26Z |
@@ -102,7 +102,7 @@
 | 95 | [generativeart](https://github.com/cutterkom/generativeart) | 965 | 162 | R | 5 | Create Generative Art with R | 2022-04-27T07:53:49Z |
 | 96 | [ggforce](https://github.com/thomasp85/ggforce) | 955 | 110 | R | 68 | Accelerating ggplot2 | 2025-09-15T19:27:31Z |
 | 97 | [MoRad](https://github.com/hyu020/MoRad) | 952 | 68 | R | 0 | None | 2025-10-04T02:30:50Z |
-| 98 | [r-pkgs](https://github.com/hadley/r-pkgs) | 947 | 647 | R | 34 | Building R packages | 2026-07-09T08:28:20Z |
+| 98 | [r-pkgs](https://github.com/hadley/r-pkgs) | 948 | 647 | R | 34 | Building R packages | 2026-07-09T08:28:20Z |
 | 99 | [see](https://github.com/easystats/see) | 947 | 47 | R | 30 | :art: Visualisation toolbox for beautiful and publication-ready figures | 2026-07-07T13:39:33Z |
 | 100 | [golem](https://github.com/ThinkR-open/golem) | 943 | 138 | R | 21 | A Framework for Building Robust Shiny Apps  | 2026-07-07T15:10:56Z |
 

@@ -38,8 +38,8 @@
 | 31 | [sojourn-station](https://github.com/sojourn-13/sojourn-station) | 52 | 285 | DM | 25 | None | 2026-07-02T19:09:25Z |
 | 32 | [Civ13](https://github.com/Civ13/Civ13) | 49 | 175 | DM | 8 | Historical SS13 | 2026-07-06T16:49:16Z |
 | 33 | [fulpstation](https://github.com/fulpstation/fulpstation) | 48 | 160 | DM | 3 | Fulp downstream of TG | 2026-06-28T10:05:39Z |
-| 34 | [burgerstation](https://github.com/BurgerLUA/burgerstation) | 46 | 125 | DM | 45 | My main project. This is the repository for the upcoming BYOND game Burgerstation. Currently in development. | 2026-05-03T06:10:12Z |
-| 35 | [learningai](https://github.com/JackBlogs/learningai) | 45 | 6 | DM | 0 | 完备的AI学习路线 | 2026-06-16T16:39:13Z |
+| 34 | [learningai](https://github.com/JackBlogs/learningai) | 45 | 6 | DM | 0 | 完备的AI学习路线 | 2026-06-16T16:39:13Z |
+| 35 | [burgerstation](https://github.com/BurgerLUA/burgerstation) | 45 | 125 | DM | 45 | My main project. This is the repository for the upcoming BYOND game Burgerstation. Currently in development. | 2026-05-03T06:10:12Z |
 | 36 | [Ratwood-Keep](https://github.com/Rotwood-Vale/Ratwood-Keep) | 43 | 357 | DM | 3 | Ratwood \| Anthro-Allowed Renaissance-Punk Roleplay | 2025-08-15T23:42:57Z |
 | 37 | [Foundation-19](https://github.com/Foundation-19/Foundation-19) | 43 | 185 | DM | 102 | SCP themed version of SS13. Contains technical debt and legacy code. | 2026-05-14T07:24:50Z |
 | 38 | [dom5inspector](https://github.com/larzm42/dom5inspector) | 43 | 33 | DM | 6 | Dominions 5 data and mod browser. | 2024-01-15T18:26:58Z |

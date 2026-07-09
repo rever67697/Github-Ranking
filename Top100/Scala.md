@@ -5,9 +5,9 @@
 
 | Ranking | Project Name | Stars | Forks | Language | Open Issues | Description | Last Commit |
 | ------- | ------------ | ----- | ----- | -------- | ----------- | ----------- | ----------- |
-| 1 | [the-algorithm](https://github.com/twitter/the-algorithm) | 73507 | 13263 | Scala | 321 | Source code for the X Recommendation Algorithm | 2025-09-08T18:40:54Z |
-| 2 | [spark](https://github.com/apache/spark) | 43587 | 29275 | Scala | 49 | Apache Spark - A unified analytics engine for large-scale data processing | 2026-07-09T06:15:23Z |
-| 3 | [lila](https://github.com/lichess-org/lila) | 18409 | 2716 | Scala | 1245 | ♞ lichess.org: the forever free, adless and open source chess server ♞ | 2026-07-09T07:06:39Z |
+| 1 | [the-algorithm](https://github.com/twitter/the-algorithm) | 73508 | 13263 | Scala | 321 | Source code for the X Recommendation Algorithm | 2025-09-08T18:40:54Z |
+| 2 | [spark](https://github.com/apache/spark) | 43588 | 29275 | Scala | 49 | Apache Spark - A unified analytics engine for large-scale data processing | 2026-07-09T06:15:23Z |
+| 3 | [lila](https://github.com/lichess-org/lila) | 18409 | 2716 | Scala | 1244 | ♞ lichess.org: the forever free, adless and open source chess server ♞ | 2026-07-09T08:56:57Z |
 | 4 | [prisma1](https://github.com/prisma/prisma1) | 16385 | 840 | Scala | 2 | 💾 Database Tools incl. ORM, Migrations and Admin UI (Postgres, MySQL & MongoDB) [deprecated] | 2022-09-01T18:57:41Z |
 | 5 | [scala](https://github.com/scala/scala) | 14533 | 3087 | Scala | 0 | Scala 2 compiler and standard library. Scala 2 bugs at https://github.com/scala/bug; Scala 3 at https://github.com/scala/scala3 | 2026-07-08T22:05:52Z |
 | 6 | [akka-core](https://github.com/akka/akka-core) | 13274 | 3546 | Scala | 874 | A platform to build and run apps that are elastic, agile, and resilient. SDK, libraries, and hosted environments. | 2026-07-07T12:42:38Z |
@@ -19,7 +19,7 @@
 | 12 | [delta](https://github.com/delta-io/delta) | 8899 | 2133 | Scala | 837 | An open-source storage framework that enables building a Lakehouse architecture with compute engines including Spark, PrestoDB, Flink, Trino, and Hive and APIs | 2026-07-09T03:52:06Z |
 | 13 | [finagle](https://github.com/twitter/finagle) | 8861 | 1432 | Scala | 59 | A fault tolerant, protocol-agnostic RPC system | 2026-04-30T16:11:00Z |
 | 14 | [snowflake](https://github.com/twitter-archive/snowflake) | 7774 | 1116 | Scala | 2 | Snowflake is a network service for generating unique ID numbers at high scale with some simple guarantees. | 2020-07-22T18:08:14Z |
-| 15 | [XiangShan](https://github.com/OpenXiangShan/XiangShan) | 7127 | 919 | Scala | 100 | Open-source high-performance RISC-V processor | 2026-07-09T07:51:23Z |
+| 15 | [XiangShan](https://github.com/OpenXiangShan/XiangShan) | 7127 | 920 | Scala | 100 | Open-source high-performance RISC-V processor | 2026-07-09T09:26:48Z |
 | 16 | [snowplow](https://github.com/snowplow/snowplow) | 7018 | 1172 | Scala | 59 | The leader in Customer Data Infrastructure | 2026-06-26T12:44:39Z |
 | 17 | [gatling](https://github.com/gatling/gatling) | 6932 | 1205 | Scala | 18 | Modern Load Testing as Code | 2026-07-01T21:58:10Z |
 | 18 | [ArnoldC](https://github.com/lhartikk/ArnoldC) | 6880 | 294 | Scala | 69 | Arnold Schwarzenegger based programming language | 2024-01-31T22:40:52Z |
@@ -50,7 +50,7 @@
 | 43 | [breeze](https://github.com/scalanlp/breeze) | 3454 | 690 | Scala | 88 | Breeze is/was a numerical processing library for Scala. | 2025-10-04T22:40:06Z |
 | 44 | [shapeless](https://github.com/milessabin/shapeless) | 3402 | 520 | Scala | 27 | Generic programming for Scala | 2026-06-25T09:18:06Z |
 | 45 | [flockdb](https://github.com/twitter-archive/flockdb) | 3318 | 248 | Scala | 0 | A distributed, fault-tolerant graph database | 2017-03-16T23:11:18Z |
-| 46 | [joern](https://github.com/joernio/joern) | 3313 | 427 | Scala | 311 | Open-source code analysis platform for C/C++/Java/Binary/Javascript/Python/Kotlin based on code property graphs. Discord https://discord.gg/vv4MH284Hc | 2026-07-08T14:02:26Z |
+| 46 | [joern](https://github.com/joernio/joern) | 3314 | 427 | Scala | 311 | Open-source code analysis platform for C/C++/Java/Binary/Javascript/Python/Kotlin based on code property graphs. Discord https://discord.gg/vv4MH284Hc | 2026-07-09T08:54:03Z |
 | 47 | [shadowsocksr-v2ray-trojan-android](https://github.com/xxf098/shadowsocksr-v2ray-trojan-android) | 3176 | 378 | Scala | 92 | A simple client for Android | 2024-02-25T00:32:29Z |
 | 48 | [Spark-The-Definitive-Guide](https://github.com/databricks/Spark-The-Definitive-Guide) | 3137 | 2902 | Scala | 25 | Spark: The Definitive Guide's Code Repository | 2020-08-26T08:17:35Z |
 | 49 | [elasticmq](https://github.com/softwaremill/elasticmq) | 2895 | 203 | Scala | 19 | In-memory message queue with an Amazon SQS-compatible interface. Runs stand-alone or embedded. | 2026-06-30T01:09:26Z |
@@ -90,7 +90,7 @@
 | 83 | [Vale](https://github.com/ValeLang/Vale) | 1999 | 58 | Scala | 243 | Compiler for the Vale programming language - http://vale.dev/ | 2024-05-14T13:00:21Z |
 | 84 | [textteaser](https://github.com/MojoJolo/textteaser) | 1969 | 249 | Scala | 6 | TextTeaser is an automatic summarization algorithm. | 2018-02-07T06:42:57Z |
 | 85 | [scalacheck](https://github.com/typelevel/scalacheck) | 1965 | 396 | Scala | 54 | Property-based testing for Scala | 2026-06-29T05:53:53Z |
-| 86 | [sangria](https://github.com/sangria-graphql/sangria) | 1961 | 219 | Scala | 51 | Scala GraphQL implementation | 2026-07-07T08:15:51Z |
+| 86 | [sangria](https://github.com/sangria-graphql/sangria) | 1961 | 219 | Scala | 51 | Scala GraphQL implementation | 2026-07-09T09:24:58Z |
 | 87 | [cassandra-spark-connector](https://github.com/apache/cassandra-spark-connector) | 1948 | 930 | Scala | 0 | Apache Spark to Apache Cassandra connector | 2025-04-29T09:28:59Z |
 | 88 | [feathr](https://github.com/feathr-ai/feathr) | 1934 | 245 | Scala | 140 | Feathr – A scalable, unified data and AI engineering platform for enterprise | 2024-04-04T19:17:41Z |
 | 89 | [monix](https://github.com/monix/monix) | 1933 | 244 | Scala | 84 | Asynchronous, Reactive Programming for Scala and Scala.js. | 2026-06-02T12:29:27Z |
