@@ -7,9 +7,7 @@
 
 ## Sponsor me
 
-[Buy Me a Coffee | Alipay & WeChat Pay](https://afdian.com/a/EvanLi/plan)
 
-[afdian 爱发电 EvanLi | 支付宝/微信支付](https://afdian.com/a/EvanLi/plan)
 
 ## Table of Contents
 
