@@ -6,26 +6,26 @@
 | Ranking | Project Name | Stars | Forks | Language | Open Issues | Description | Last Commit |
 | ------- | ------------ | ----- | ----- | -------- | ----------- | ----------- | ----------- |
 | 1 | [the-algorithm](https://github.com/twitter/the-algorithm) | 73507 | 13263 | Scala | 321 | Source code for the X Recommendation Algorithm | 2025-09-08T18:40:54Z |
-| 2 | [spark](https://github.com/apache/spark) | 43589 | 29276 | Scala | 49 | Apache Spark - A unified analytics engine for large-scale data processing | 2026-07-09T06:15:23Z |
-| 3 | [lila](https://github.com/lichess-org/lila) | 18409 | 2716 | Scala | 1245 | ♞ lichess.org: the forever free, adless and open source chess server ♞ | 2026-07-08T20:33:58Z |
+| 2 | [spark](https://github.com/apache/spark) | 43588 | 29275 | Scala | 49 | Apache Spark - A unified analytics engine for large-scale data processing | 2026-07-09T06:15:23Z |
+| 3 | [lila](https://github.com/lichess-org/lila) | 18408 | 2716 | Scala | 1245 | ♞ lichess.org: the forever free, adless and open source chess server ♞ | 2026-07-09T07:06:39Z |
 | 4 | [prisma1](https://github.com/prisma/prisma1) | 16385 | 840 | Scala | 2 | 💾 Database Tools incl. ORM, Migrations and Admin UI (Postgres, MySQL & MongoDB) [deprecated] | 2022-09-01T18:57:41Z |
 | 5 | [scala](https://github.com/scala/scala) | 14533 | 3087 | Scala | 0 | Scala 2 compiler and standard library. Scala 2 bugs at https://github.com/scala/bug; Scala 3 at https://github.com/scala/scala3 | 2026-07-08T22:05:52Z |
 | 6 | [akka-core](https://github.com/akka/akka-core) | 13274 | 3545 | Scala | 874 | A platform to build and run apps that are elastic, agile, and resilient. SDK, libraries, and hosted environments. | 2026-07-07T12:42:38Z |
 | 7 | [playframework](https://github.com/playframework/playframework) | 12618 | 4032 | Scala | 408 | The Community Maintained High Velocity Web Framework For Java and Scala. | 2026-07-08T14:43:27Z |
-| 8 | [predictionio](https://github.com/apache/predictionio) | 12522 | 1901 | Scala | 0 | PredictionIO, a machine learning server for developers and ML engineers. | 2021-01-09T10:30:58Z |
+| 8 | [predictionio](https://github.com/apache/predictionio) | 12521 | 1901 | Scala | 0 | PredictionIO, a machine learning server for developers and ML engineers. | 2021-01-09T10:30:58Z |
 | 9 | [bfg-repo-cleaner](https://github.com/rtyley/bfg-repo-cleaner) | 12155 | 583 | Scala | 265 | Removes large or troublesome blobs like git-filter-branch does, but faster. And written in Scala | 2025-01-19T18:52:14Z |
 | 10 | [CMAK](https://github.com/yahoo/CMAK) | 11926 | 2476 | Scala | 498 | CMAK is a tool for managing Apache Kafka clusters | 2023-08-02T19:26:23Z |
 | 11 | [gitbucket](https://github.com/gitbucket/gitbucket) | 9377 | 1265 | Scala | 300 | A Git platform powered by Scala with easy installation, high extensibility & GitHub API compatibility | 2026-07-07T21:45:44Z |
 | 12 | [delta](https://github.com/delta-io/delta) | 8899 | 2133 | Scala | 837 | An open-source storage framework that enables building a Lakehouse architecture with compute engines including Spark, PrestoDB, Flink, Trino, and Hive and APIs | 2026-07-09T03:52:06Z |
 | 13 | [finagle](https://github.com/twitter/finagle) | 8861 | 1432 | Scala | 59 | A fault tolerant, protocol-agnostic RPC system | 2026-04-30T16:11:00Z |
 | 14 | [snowflake](https://github.com/twitter-archive/snowflake) | 7774 | 1116 | Scala | 2 | Snowflake is a network service for generating unique ID numbers at high scale with some simple guarantees. | 2020-07-22T18:08:14Z |
-| 15 | [XiangShan](https://github.com/OpenXiangShan/XiangShan) | 7127 | 919 | Scala | 96 | Open-source high-performance RISC-V processor | 2026-07-09T06:29:44Z |
+| 15 | [XiangShan](https://github.com/OpenXiangShan/XiangShan) | 7127 | 919 | Scala | 100 | Open-source high-performance RISC-V processor | 2026-07-09T07:51:23Z |
 | 16 | [snowplow](https://github.com/snowplow/snowplow) | 7018 | 1172 | Scala | 59 | The leader in Customer Data Infrastructure | 2026-06-26T12:44:39Z |
 | 17 | [gatling](https://github.com/gatling/gatling) | 6932 | 1205 | Scala | 18 | Modern Load Testing as Code | 2026-07-01T21:58:10Z |
 | 18 | [ArnoldC](https://github.com/lhartikk/ArnoldC) | 6880 | 294 | Scala | 69 | Arnold Schwarzenegger based programming language | 2024-01-31T22:40:52Z |
 | 19 | [openwhisk](https://github.com/apache/openwhisk) | 6784 | 1179 | Scala | 405 | Apache OpenWhisk is an open source serverless cloud platform | 2026-06-27T19:17:52Z |
-| 20 | [scala3](https://github.com/scala/scala3) | 6273 | 1163 | Scala | 1735 | The Scala 3 compiler, also known as Dotty. | 2026-07-08T18:02:58Z |
-| 21 | [frontend](https://github.com/guardian/frontend) | 5892 | 570 | Scala | 132 | The Guardian DotCom. | 2026-07-08T16:40:24Z |
+| 20 | [scala3](https://github.com/scala/scala3) | 6273 | 1163 | Scala | 1736 | The Scala 3 compiler, also known as Dotty. | 2026-07-08T18:02:58Z |
+| 21 | [frontend](https://github.com/guardian/frontend) | 5891 | 570 | Scala | 132 | The Guardian DotCom. | 2026-07-09T07:19:50Z |
 | 22 | [fpinscala](https://github.com/fpinscala/fpinscala) | 5831 | 3033 | Scala | 79 | Code, exercises, answers, and hints to go along with the book "Functional Programming in Scala" | 2024-12-11T18:19:58Z |
 | 23 | [cats](https://github.com/typelevel/cats) | 5452 | 1244 | Scala | 224 | Lightweight, modular, and extensible library for functional programming. | 2026-06-29T05:43:40Z |
 | 24 | [linkerd](https://github.com/linkerd/linkerd) | 5314 | 493 | Scala | 133 | Old repo for Linkerd 1.x. See the linkerd2 repo for Linkerd   2.x. | 2023-03-04T18:59:40Z |
@@ -64,7 +64,7 @@
 | 57 | [scala-exercises](https://github.com/scala-exercises/scala-exercises) | 2647 | 537 | Scala | 47 | The easy way to learn Scala. | 2025-09-23T13:18:05Z |
 | 58 | [Ammonite](https://github.com/com-lihaoyi/Ammonite) | 2633 | 368 | Scala | 127 | Scala Scripting | 2026-06-22T01:22:39Z |
 | 59 | [lagom](https://github.com/lagom/lagom) | 2628 | 620 | Scala | 446 | Reactive Microservices for the JVM | 2023-08-14T13:43:48Z |
-| 60 | [scio](https://github.com/spotify/scio) | 2626 | 528 | Scala | 111 | A Scala API for Apache Beam and Google Cloud Dataflow. | 2026-07-01T19:58:35Z |
+| 60 | [scio](https://github.com/spotify/scio) | 2625 | 528 | Scala | 111 | A Scala API for Apache Beam and Google Cloud Dataflow. | 2026-07-01T19:58:35Z |
 | 61 | [http4s](https://github.com/http4s/http4s) | 2620 | 810 | Scala | 266 | A minimal, idiomatic Scala interface for HTTP | 2026-07-07T00:10:45Z |
 | 62 | [circe](https://github.com/circe/circe) | 2541 | 545 | Scala | 111 | Yet another JSON library for Scala | 2026-07-07T14:15:20Z |
 | 63 | [spray](https://github.com/spray/spray) | 2493 | 552 | Scala | 69 | A suite of scala libraries for building and consuming RESTful web services on top of Akka: lightweight, asynchronous, non-blocking, actor-based, testable | 2017-02-21T11:03:37Z |
@@ -99,7 +99,7 @@
 | 92 | [graphcool-framework](https://github.com/Graphcool/graphcool-framework) | 1755 | 125 | Scala | 498 | None | 2020-09-04T16:57:58Z |
 | 93 | [giter8](https://github.com/foundweekends/giter8) | 1752 | 225 | Scala | 49 | a command line tool to apply templates defined on GitHub  | 2026-07-07T21:46:38Z |
 | 94 | [refined](https://github.com/fthomas/refined) | 1730 | 152 | Scala | 63 | Refinement types for Scala | 2026-07-02T17:06:33Z |
-| 95 | [OBP-API](https://github.com/OpenBankProject/OBP-API) | 1723 | 475 | Scala | 195 | An open source RESTful API platform for banks that supports Open Banking, XS2A, PSD2 and Open Finance through access to accounts, transactions, counterparties, payments, entitlements and metadata - plus a host of internal banking and management APIs. | 2026-07-03T09:59:32Z |
+| 95 | [OBP-API](https://github.com/OpenBankProject/OBP-API) | 1723 | 475 | Scala | 195 | An open source RESTful API platform for banks that supports Open Banking, XS2A, PSD2 and Open Finance through access to accounts, transactions, counterparties, payments, entitlements and metadata - plus a host of internal banking and management APIs. | 2026-07-09T07:21:34Z |
 | 96 | [OpenComputers](https://github.com/MightyPirates/OpenComputers) | 1720 | 483 | Scala | 131 | Home of the OpenComputers mod for Minecraft. | 2026-05-31T10:55:34Z |
 | 97 | [Monocle](https://github.com/optics-dev/Monocle) | 1696 | 208 | Scala | 51 | Optics library for Scala | 2026-06-30T20:29:11Z |
 | 98 | [skunk](https://github.com/typelevel/skunk) | 1659 | 177 | Scala | 79 | A data access library for Scala + Postgres. | 2026-07-08T00:58:58Z |

@@ -5,17 +5,17 @@
 
 | Ranking | Project Name | Stars | Forks | Language | Open Issues | Description | Last Commit |
 | ------- | ------------ | ----- | ----- | -------- | ----------- | ----------- | ----------- |
-| 1 | [uni-app](https://github.com/dcloudio/uni-app) | 41571 | 3710 | Objective-C | 684 | A cross-platform framework using Vue.js | 2026-07-09T06:47:45Z |
+| 1 | [uni-app](https://github.com/dcloudio/uni-app) | 41572 | 3710 | Objective-C | 684 | A cross-platform framework using Vue.js | 2026-07-09T07:36:06Z |
 | 2 | [AFNetworking](https://github.com/AFNetworking/AFNetworking) | 33423 | 10602 | Objective-C | 0 | A delightful networking framework for iOS, macOS, watchOS, and tvOS. | 2023-01-17T19:30:05Z |
 | 3 | [SDWebImage](https://github.com/SDWebImage/SDWebImage) | 25642 | 5962 | Objective-C | 122 | Asynchronous image downloader with cache support as a UIImageView category | 2026-04-15T03:36:16Z |
 | 4 | [WeChatExtension-ForMac](https://github.com/MustangYM/WeChatExtension-ForMac) | 22600 | 3559 | Objective-C | 907 | A plugin for Mac WeChat | 2025-02-13T21:53:57Z |
-| 5 | [TrollStore](https://github.com/opa334/TrollStore) | 21705 | 1602 | Objective-C | 47 | Jailed iOS app that can install IPAs permanently with arbitary entitlements and root helpers because it trolls Apple | 2026-04-01T09:43:17Z |
+| 5 | [TrollStore](https://github.com/opa334/TrollStore) | 21706 | 1602 | Objective-C | 47 | Jailed iOS app that can install IPAs permanently with arbitary entitlements and root helpers because it trolls Apple | 2026-04-01T09:43:17Z |
 | 6 | [GPUImage](https://github.com/BradLarson/GPUImage) | 20295 | 4556 | Objective-C | 914 | An open source iOS framework for GPU-based image and video processing | 2024-02-16T22:29:30Z |
 | 7 | [Masonry](https://github.com/SnapKit/Masonry) | 18150 | 3147 | Objective-C | 128 | Harness the power of AutoLayout NSLayoutConstraints with a simplified, chainable and expressive syntax. Supports iOS and OSX Auto Layout | 2023-04-13T18:23:56Z |
-| 8 | [iTerm2](https://github.com/gnachman/iTerm2) | 17796 | 1430 | Objective-C | 0 | iTerm2 is a terminal emulator for Mac OS X that does amazing things. | 2026-07-09T02:04:47Z |
+| 8 | [iTerm2](https://github.com/gnachman/iTerm2) | 17796 | 1430 | Objective-C | 0 | iTerm2 is a terminal emulator for Mac OS X that does amazing things. | 2026-07-09T07:13:21Z |
 | 9 | [realm-swift](https://github.com/realm/realm-swift) | 16613 | 2231 | Objective-C | 475 | Realm is a mobile database: a replacement for Core Data & SQLite | 2026-06-14T23:57:29Z |
 | 10 | [MBProgressHUD](https://github.com/jdg/MBProgressHUD) | 15942 | 3565 | Objective-C | 82 | MBProgressHUD + Customizations | 2024-08-14T01:48:59Z |
-| 11 | [hammerspoon](https://github.com/Hammerspoon/hammerspoon) | 15701 | 697 | Objective-C | 658 | Staggeringly powerful macOS desktop automation with Lua | 2026-07-08T21:13:24Z |
+| 11 | [hammerspoon](https://github.com/Hammerspoon/hammerspoon) | 15702 | 697 | Objective-C | 658 | Staggeringly powerful macOS desktop automation with Lua | 2026-07-08T21:13:24Z |
 | 12 | [keycastr](https://github.com/keycastr/keycastr) | 14947 | 569 | Objective-C | 90 | KeyCastr, an open-source keystroke visualizer | 2026-05-11T00:50:56Z |
 | 13 | [FLEX](https://github.com/FLEXTool/FLEX) | 14613 | 1786 | Objective-C | 34 | An in-app debugging and exploration tool for iOS | 2026-06-11T20:34:01Z |
 | 14 | [WebViewJavascriptBridge](https://github.com/marcuswestin/WebViewJavascriptBridge) | 14314 | 2960 | Objective-C | 81 | An iOS/OSX bridge for sending messages between Obj-C and JavaScript in UIWebViews/WebViews | 2024-08-01T09:17:17Z |
@@ -24,20 +24,20 @@
 | 17 | [fmdb](https://github.com/ccgus/fmdb) | 13844 | 2735 | Objective-C | 237 | A Cocoa / Objective-C wrapper around SQLite | 2026-03-15T21:06:50Z |
 | 18 | [MJRefresh](https://github.com/CoderMJLee/MJRefresh) | 13815 | 3525 | Objective-C | 51 | An easy way to use pull-to-refresh. | 2025-11-11T04:44:40Z |
 | 19 | [spectacle](https://github.com/eczarny/spectacle) | 13632 | 852 | Objective-C | 0 | Spectacle allows you to organize your windows without using a mouse. | 2022-01-15T17:32:42Z |
-| 20 | [CocoaLumberjack](https://github.com/CocoaLumberjack/CocoaLumberjack) | 13331 | 2273 | Objective-C | 4 | A fast & simple, yet powerful & flexible logging framework for macOS, iOS, tvOS, watchOS and visionOS | 2026-07-01T06:11:30Z |
-| 21 | [IGListKit](https://github.com/Instagram/IGListKit) | 13072 | 1539 | Objective-C | 59 | A data-driven UICollectionView framework for building fast and flexible lists. | 2026-05-29T00:21:28Z |
-| 22 | [LuLu](https://github.com/objective-see/LuLu) | 12911 | 577 | Objective-C | 509 | LuLu is the free open-source macOS firewall | 2026-06-24T14:45:19Z |
+| 20 | [CocoaLumberjack](https://github.com/CocoaLumberjack/CocoaLumberjack) | 13332 | 2273 | Objective-C | 4 | A fast & simple, yet powerful & flexible logging framework for macOS, iOS, tvOS, watchOS and visionOS | 2026-07-01T06:11:30Z |
+| 21 | [IGListKit](https://github.com/Instagram/IGListKit) | 13071 | 1539 | Objective-C | 59 | A data-driven UICollectionView framework for building fast and flexible lists. | 2026-05-29T00:21:28Z |
+| 22 | [LuLu](https://github.com/objective-see/LuLu) | 12912 | 578 | Objective-C | 509 | LuLu is the free open-source macOS firewall | 2026-06-24T14:45:19Z |
 | 23 | [darling](https://github.com/darlinghq/darling) | 12862 | 508 | Objective-C | 380 | Darwin/macOS emulation layer for Linux | 2026-06-09T04:41:09Z |
 | 24 | [SVProgressHUD](https://github.com/SVProgressHUD/SVProgressHUD) | 12455 | 2665 | Objective-C | 47 | A clean and lightweight progress HUD for your iOS and tvOS app. | 2026-02-27T17:42:19Z |
 | 25 | [CocoaAsyncSocket](https://github.com/robbiehanson/CocoaAsyncSocket) | 12450 | 2994 | Objective-C | 0 | Asynchronous socket networking library for Mac and iOS | 2026-06-23T18:02:32Z |
 | 26 | [chameleon](https://github.com/vicc/chameleon) | 12320 | 1287 | Objective-C | 38 | Color framework for Swift & Objective-C (Gradient colors, hexcode support, colors from images & more). | 2021-05-03T07:11:02Z |
-| 27 | [iCarousel](https://github.com/nicklockwood/iCarousel) | 12126 | 2531 | Objective-C | 366 | A simple, highly customisable, data-driven 3D carousel for iOS and Mac OS | 2024-06-27T05:43:24Z |
+| 27 | [iCarousel](https://github.com/nicklockwood/iCarousel) | 12126 | 2532 | Objective-C | 366 | A simple, highly customisable, data-driven 3D carousel for iOS and Mac OS | 2024-06-27T05:43:24Z |
 | 28 | [GitUp](https://github.com/git-up/GitUp) | 12033 | 1474 | Objective-C | 370 | The Git interface you've been missing all your life has finally arrived. | 2026-07-03T01:01:05Z |
-| 29 | [DZNEmptyDataSet](https://github.com/dzenbot/DZNEmptyDataSet) | 12017 | 1713 | Objective-C | 166 | A drop-in UITableView/UICollectionView superclass category for showing empty datasets whenever the view has no content to display | 2022-07-06T08:08:53Z |
+| 29 | [DZNEmptyDataSet](https://github.com/dzenbot/DZNEmptyDataSet) | 12016 | 1713 | Objective-C | 166 | A drop-in UITableView/UICollectionView superclass category for showing empty datasets whenever the view has no content to display | 2022-07-06T08:08:53Z |
 | 30 | [JSPatch](https://github.com/bang590/JSPatch) | 11331 | 2219 | Objective-C | 103 | JSPatch bridge Objective-C and Javascript using the Objective-C runtime. You can call any Objective-C class and method in JavaScript by just including a small engine. JSPatch is generally used to hotfix iOS App. | 2020-12-01T02:18:35Z |
 | 31 | [Mantle](https://github.com/Mantle/Mantle) | 11255 | 1463 | Objective-C | 0 | Model framework for Cocoa and Cocoa Touch | 2022-10-18T09:40:02Z |
 | 32 | [JSQMessagesViewController](https://github.com/jessesquires/JSQMessagesViewController) | 11075 | 2756 | Objective-C | 0 | An elegant messages UI library for iOS | 2018-12-12T10:45:39Z |
-| 33 | [MagicalRecord](https://github.com/magicalpanda/MagicalRecord) | 10710 | 1767 | Objective-C | 227 | Super Awesome Easy Fetching for Core Data! | 2021-04-27T16:21:19Z |
+| 33 | [MagicalRecord](https://github.com/magicalpanda/MagicalRecord) | 10709 | 1767 | Objective-C | 227 | Super Awesome Easy Fetching for Core Data! | 2021-04-27T16:21:19Z |
 | 34 | [FSCalendar](https://github.com/WenchaoD/FSCalendar) | 10647 | 1944 | Objective-C | 436 | A fully customizable iOS calendar library, compatible with Objective-C and Swift | 2024-08-10T13:44:15Z |
 | 35 | [mac-mouse-fix](https://github.com/noah-nuebling/mac-mouse-fix) | 10399 | 355 | Objective-C | 1135 | Mac Mouse Fix - Make Your $10 Mouse Better Than an Apple Trackpad! | 2026-07-08T21:45:45Z |
 | 36 | [RestKit](https://github.com/RestKit/RestKit) | 10101 | 2073 | Objective-C | 341 | RestKit is a framework for consuming and modeling RESTful web resources on iOS and OS X | 2022-08-27T03:57:20Z |
@@ -48,7 +48,7 @@
 | 41 | [Sparkle](https://github.com/sparkle-project/Sparkle) | 9337 | 1117 | Objective-C | 18 | A software update framework for macOS | 2026-07-03T03:47:49Z |
 | 42 | [Shimmer](https://github.com/facebookarchive/Shimmer) | 9331 | 1115 | Objective-C | 17 | An easy way to add a simple, shimmering effect to any view in an iOS app. | 2021-02-06T00:01:46Z |
 | 43 | [sequelpro](https://github.com/sequelpro/sequelpro) | 9193 | 838 | Objective-C | 508 | MySQL/MariaDB database management for macOS | 2023-02-25T08:11:30Z |
-| 44 | [Sloth](https://github.com/sveinbjornt/Sloth) | 8919 | 175 | Objective-C | 3 | Mac app that shows all open files, directories, sockets, pipes and devices in use by all running processes. Nice GUI for lsof. | 2026-05-28T19:11:15Z |
+| 44 | [Sloth](https://github.com/sveinbjornt/Sloth) | 8920 | 175 | Objective-C | 3 | Mac app that shows all open files, directories, sockets, pipes and devices in use by all running processes. Nice GUI for lsof. | 2026-05-28T19:11:15Z |
 | 45 | [YYText](https://github.com/ibireme/YYText) | 8873 | 1839 | Objective-C | 480 | Powerful text framework for iOS to display and edit rich text. | 2024-07-16T06:32:03Z |
 | 46 | [BaiduNetdiskPlugin-macOS](https://github.com/CodeTips/BaiduNetdiskPlugin-macOS) | 8850 | 1750 | Objective-C | 0 | For macOS.百度网盘 破解SVIP、下载速度限制~ | 2020-10-17T13:18:17Z |
 | 47 | [MWPhotoBrowser](https://github.com/mwaterfall/MWPhotoBrowser) | 8714 | 2655 | Objective-C | 249 | A simple iOS photo and video browser with grid view, captions and selections. | 2024-06-27T12:38:19Z |
@@ -76,7 +76,7 @@
 | 69 | [three20](https://github.com/facebookarchive/three20) | 7168 | 1457 | Objective-C | 0 | Three20 is an Objective-C library for iPhone developers | 2017-05-02T06:05:12Z |
 | 70 | [JVFloatLabeledTextField](https://github.com/jverdi/JVFloatLabeledTextField) | 7149 | 719 | Objective-C | 28 | UITextField subclass with floating labels - inspired by Matt D. Smith's design: http://dribbble.com/shots/1254439--GIF-Mobile-Form-Interaction?list=users | 2023-04-17T14:38:05Z |
 | 71 | [ZFPlayer](https://github.com/renzifeng/ZFPlayer) | 7129 | 1771 | Objective-C | 253 | Support customization of any player SDK and control layer(支持定制任何播放器SDK和控制层) | 2024-05-24T02:29:56Z |
-| 72 | [Dash-iOS](https://github.com/Kapeli/Dash-iOS) | 7099 | 908 | Objective-C | 38 | Dash for iOS was discontinued. Please check out Dash for macOS instead. | 2021-03-28T15:29:00Z |
+| 72 | [Dash-iOS](https://github.com/Kapeli/Dash-iOS) | 7098 | 908 | Objective-C | 38 | Dash for iOS was discontinued. Please check out Dash for macOS instead. | 2021-03-28T15:29:00Z |
 | 73 | [SWTableViewCell](https://github.com/CEWendel/SWTableViewCell) | 7066 | 1244 | Objective-C | 133 | An easy-to-use UITableViewCell subclass that implements a swippable content view which exposes utility buttons (similar to iOS 7 Mail Application) | 2021-05-20T14:43:51Z |
 | 74 | [RESideMenu](https://github.com/romaonthego/RESideMenu) | 7044 | 1318 | Objective-C | 107 | iOS 7/8 style side menu with parallax effect. | 2017-12-05T17:29:00Z |
 | 75 | [Reachability](https://github.com/tonymillion/Reachability) | 6959 | 1249 | Objective-C | 59 | ARC and GCD Compatible Reachability Class for iOS and MacOS. Drop in replacement for Apple Reachability | 2026-03-25T00:02:23Z |

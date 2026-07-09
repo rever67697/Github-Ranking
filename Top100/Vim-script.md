@@ -5,11 +5,11 @@
 
 | Ranking | Project Name | Stars | Forks | Language | Open Issues | Description | Last Commit |
 | ------- | ------------ | ----- | ----- | -------- | ----------- | ----------- | ----------- |
-| 1 | [neovim](https://github.com/neovim/neovim) | 100988 | 6962 | Vim Script | 1591 | Vim-fork focused on extensibility and usability | 2026-07-09T06:43:46Z |
-| 2 | [vim](https://github.com/vim/vim) | 40609 | 6095 | Vim Script | 1585 | The official Vim repository | 2026-07-04T02:34:04Z |
+| 1 | [neovim](https://github.com/neovim/neovim) | 100992 | 6962 | Vim Script | 1591 | Vim-fork focused on extensibility and usability | 2026-07-09T06:43:46Z |
+| 2 | [vim](https://github.com/vim/vim) | 40609 | 6094 | Vim Script | 1585 | The official Vim repository | 2026-07-04T02:34:04Z |
 | 3 | [vim-plug](https://github.com/junegunn/vim-plug) | 35702 | 1942 | Vim Script | 72 | :hibiscus: Minimalist Vim Plugin Manager | 2026-05-22T13:40:34Z |
 | 4 | [vimrc](https://github.com/amix/vimrc) | 31782 | 7254 | Vim Script | 13 | The ultimate Vim configuration (vimrc) | 2024-10-06T08:26:02Z |
-| 5 | [Vundle.vim](https://github.com/VundleVim/Vundle.vim) | 23940 | 2543 | Vim Script | 169 | Vundle, the plug-in manager for Vim | 2024-07-30T05:53:03Z |
+| 5 | [Vundle.vim](https://github.com/VundleVim/Vundle.vim) | 23939 | 2543 | Vim Script | 169 | Vundle, the plug-in manager for Vim | 2024-07-30T05:53:03Z |
 | 6 | [vim-fugitive](https://github.com/tpope/vim-fugitive) | 21710 | 1070 | Vim Script | 96 | fugitive.vim: A Git wrapper so awesome, it should be illegal | 2026-03-07T19:20:47Z |
 | 7 | [SpaceVim](https://github.com/wsdjeg/SpaceVim) | 20246 | 1411 | Vim Script | 5 | A modular configuration of Vim and Neovim | 2025-02-17T14:14:00Z |
 | 8 | [nerdtree](https://github.com/preservim/nerdtree) | 20081 | 1440 | Vim Script | 29 | A tree explorer plugin for vim. | 2025-09-26T16:07:39Z |
@@ -23,7 +23,7 @@
 | 16 | [vim-surround](https://github.com/tpope/vim-surround) | 14086 | 449 | Vim Script | 115 | surround.vim: Delete/change/add parentheses/quotes/XML-tags/much more with ease | 2024-06-30T12:27:56Z |
 | 17 | [ale](https://github.com/dense-analysis/ale) | 14013 | 1482 | Vim Script | 579 | Check syntax in Vim/Neovim asynchronously and fix files, with Language Server Protocol (LSP) support | 2026-06-21T02:15:14Z |
 | 18 | [vim-pathogen](https://github.com/tpope/vim-pathogen) | 12127 | 1144 | Vim Script | 19 | pathogen.vim: manage your runtimepath | 2022-08-24T17:21:16Z |
-| 19 | [copilot.vim](https://github.com/github/copilot.vim) | 11637 | 770 | Vim Script | 62 | Neovim plugin for GitHub Copilot | 2026-01-09T20:49:25Z |
+| 19 | [copilot.vim](https://github.com/github/copilot.vim) | 11636 | 770 | Vim Script | 62 | Neovim plugin for GitHub Copilot | 2026-01-09T20:49:25Z |
 | 20 | [syntastic](https://github.com/vim-syntastic/syntastic) | 11223 | 1122 | Vim Script | 39 | Syntax checking hacks for vim | 2022-07-10T12:58:50Z |
 | 21 | [vim-galore-zh_cn](https://github.com/wsdjeg/vim-galore-zh_cn) | 10622 | 1384 | Vim Script | 0 | Vim 从入门到精通 | 2024-12-30T06:07:39Z |
 | 22 | [fzf.vim](https://github.com/junegunn/fzf.vim) | 10224 | 607 | Vim Script | 300 | fzf :heart: vim | 2026-06-12T00:07:36Z |
@@ -42,7 +42,7 @@
 | 35 | [vim-commentary](https://github.com/tpope/vim-commentary) | 6164 | 211 | Vim Script | 23 | commentary.vim: comment stuff out | 2024-10-22T02:05:39Z |
 | 36 | [vim-devicons](https://github.com/ryanoasis/vim-devicons) | 5805 | 276 | Vim Script | 59 | Adds file type icons to Vim plugins such as: NERDTree, vim-airline, CtrlP, unite, Denite, lightline, vim-startify and many more | 2024-05-09T13:57:14Z |
 | 37 | [vim-polyglot](https://github.com/vim-polyglot/vim-polyglot) | 5716 | 306 | Vim Script | 93 | A solid language pack for Vim. | 2025-08-27T17:10:22Z |
-| 38 | [vim.wasm](https://github.com/rhysd/vim.wasm) | 5636 | 149 | Vim Script | 17 | Vim editor ported to WebAssembly | 2026-02-25T16:49:20Z |
+| 38 | [vim.wasm](https://github.com/rhysd/vim.wasm) | 5635 | 149 | Vim Script | 17 | Vim editor ported to WebAssembly | 2026-02-25T16:49:20Z |
 | 39 | [python-mode](https://github.com/python-mode/python-mode) | 5463 | 758 | Vim Script | 38 | Vim python-mode. PyLint, Rope, Pydoc, breakpoints from box. | 2026-05-24T01:39:48Z |
 | 40 | [vim-startify](https://github.com/mhinz/vim-startify) | 5399 | 181 | Vim Script | 70 | :link: The fancy start screen for Vim. | 2024-01-05T12:47:32Z |
 | 41 | [vim-sensible](https://github.com/tpope/vim-sensible) | 5297 | 272 | Vim Script | 6 | sensible.vim: Defaults everyone can agree on | 2024-06-08T16:27:52Z |

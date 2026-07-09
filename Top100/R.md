@@ -51,7 +51,7 @@
 | 44 | [stats337](https://github.com/hadley/stats337) | 1611 | 223 | R | 5 | Readings in applied data science | 2018-06-21T15:57:29Z |
 | 45 | [ComplexHeatmap](https://github.com/jokergoo/ComplexHeatmap) | 1520 | 249 | R | 228 | Make Complex Heatmaps  | 2026-04-02T07:54:48Z |
 | 46 | [rvest](https://github.com/tidyverse/rvest) | 1520 | 347 | R | 31 | Simple web scraping for R | 2025-09-09T10:02:49Z |
-| 47 | [broom](https://github.com/tidymodels/broom) | 1520 | 303 | R | 12 | Convert statistical analysis objects from R into tidy format | 2026-05-14T16:34:12Z |
+| 47 | [broom](https://github.com/tidymodels/broom) | 1520 | 304 | R | 12 | Convert statistical analysis objects from R into tidy format | 2026-05-14T16:34:12Z |
 | 48 | [tofsims](https://github.com/fossasia/tofsims) | 1491 | 6 | R | 0 | None | 2017-11-29T19:16:12Z |
 | 49 | [janitor](https://github.com/sfirke/janitor) | 1445 | 132 | R | 36 | simple tools for data cleaning in R | 2024-12-23T14:20:04Z |
 | 50 | [sf](https://github.com/r-spatial/sf) | 1438 | 301 | R | 59 | Simple Features for R | 2026-07-06T09:58:07Z |
@@ -65,7 +65,7 @@
 | 58 | [hrbrthemes](https://github.com/hrbrmstr/hrbrthemes) | 1350 | 98 | R | 30 | :lock_with_ink_pen: Opinionated, typographic-centric ggplot2 themes and theme components | 2026-04-19T13:43:33Z |
 | 59 | [tensorflow](https://github.com/rstudio/tensorflow) | 1340 | 317 | R | 40 | TensorFlow for R | 2026-05-08T15:49:04Z |
 | 60 | [drake](https://github.com/ropensci/drake) | 1340 | 130 | R | 0 | An R-focused pipeline toolkit for reproducibility and high-performance computing | 2024-12-04T11:25:31Z |
-| 61 | [lintr](https://github.com/r-lib/lintr) | 1287 | 200 | R | 300 | Static Code Analysis for R | 2026-07-09T06:34:08Z |
+| 61 | [lintr](https://github.com/r-lib/lintr) | 1287 | 200 | R | 300 | Static Code Analysis for R | 2026-07-09T07:15:41Z |
 | 62 | [vitae](https://github.com/mitchelloharawild/vitae) | 1272 | 245 | R | 43 | R Markdown Résumés and CVs | 2026-01-29T21:51:22Z |
 | 63 | [MetBrewer](https://github.com/BlakeRMills/MetBrewer) | 1263 | 88 | R | 8 | Color palette package in R inspired by works at the Metropolitan Museum of Art in New York | 2025-01-03T16:52:43Z |
 | 64 | [ggrepel](https://github.com/slowkow/ggrepel) | 1258 | 96 | R | 25 | :round_pushpin: Repel overlapping text labels away from each other in your ggplot2 figures. | 2026-04-14T13:38:53Z |
