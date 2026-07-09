@@ -1,55 +1,91 @@
-  name: Daily Update GitHub Ranking
+name: Daily Update GitHub Ranking
 
-  on:
-    schedule:
-      - cron: '0 4 * * *'
-    workflow_dispatch:
+on:
+  # 1. 定时触发：每天 UTC 4:00
+  schedule:
+    - cron: '0 4 * * *'
 
-  permissions:
-    contents: write
+  # 2. 手动触发：GitHub UI 点击 Run workflow
+  workflow_dispatch:
 
-  jobs:
-    update:
-      runs-on: ubuntu-latest
-      steps:
-        - name: Checkout repository
-          uses: actions/checkout@v4
-          with:
-            fetch-depth: 0
+  # 3. 代码推送触发：main 分支的 source/ 目录有变更时
+  push:
+    branches:
+      - main
+    paths:
+      - 'source/**'
 
-        - name: Set up Python
-          uses: actions/setup-python@v5
-          with:
-            python-version: '3.10'
+  # 4. Issue 评论触发：评论 /update 即可触发
+  issue_comment:
+    types: [created]
 
-        - name: Install dependencies
-          run: |
-            python -m pip install --upgrade pip wheel setuptools
-            pip install numpy==1.23.5 pandas==1.5.3 requests
+  # 5. Star 触发：有人给仓库点 Star 时
+  watch:
+    types: [started]
 
-        - name: Create access_token.txt
-          env:
-            GH_ACCESS_TOKEN: ${{ secrets.GH_ACCESS_TOKEN }}
-          run: echo -n "$GH_ACCESS_TOKEN" > access_token.txt
+permissions:
+  contents: write
+  issues: write
 
-        - name: Pull latest changes
-          run: git pull origin main
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    # Issue 评论触发时，仅当评论内容包含 /update 才执行
+    if: >
+      github.event_name != 'issue_comment' ||
+      contains(github.event.comment.body, '/update')
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
 
-        - name: Run update script
-          run: python source/process.py
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
 
-        - name: Commit and push changes
-          run: |
-            git config --global user.name "GitHub Actions Bot"
-            git config --global user.email "actions@github.com"
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip wheel setuptools
+          pip install numpy==1.23.5 pandas==1.5.3 requests
 
-            if git diff --quiet; then
-              echo "No changes to commit"
-              exit 0
-            fi
+      - name: Create access_token.txt
+        env:
+          GH_ACCESS_TOKEN: ${{ secrets.GH_ACCESS_TOKEN }}
+        run: echo -n "$GH_ACCESS_TOKEN" > access_token.txt
 
-            git add .
-            today=$(date +"%Y-%m-%d")
-            git commit -m "auto update $today"
-            git push origin main
-            echo "Changes committed and pushed"
+      - name: Pull latest changes
+        run: |
+          git config --global user.name "GitHub Actions Bot"
+          git config --global user.email "actions@github.com"
+          git pull origin main
+
+      - name: Run update script
+        run: python source/process.py
+
+      - name: Commit and push changes
+        run: |
+          if git diff --quiet; then
+            echo "No changes to commit"
+            exit 0
+          fi
+
+          git add .
+          today=$(date +"%Y-%m-%d")
+          trigger="${{ github.event_name }}"
+          git commit -m "auto update $today (trigger: $trigger)"
+          git push origin main
+          echo "Changes committed and pushed"
+
+      - name: Reply to issue comment
+        if: github.event_name == 'issue_comment'
+        uses: actions/github-script@v7
+        with:
+          script: |
+            github.rest.issues.createComment({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              issue_number: context.issue.number,
+              body: '✅ Ranking 更新完成！'
+            })
