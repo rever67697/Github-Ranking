@@ -6,13 +6,13 @@
 | Ranking | Project Name | Stars | Forks | Language | Open Issues | Description | Last Commit |
 | ------- | ------------ | ----- | ----- | -------- | ----------- | ----------- | ----------- |
 | 1 | [anoma](https://github.com/anoma/anoma) | 33741 | 4114 | Elixir | 90 | Reference implementation of Anoma | 2026-06-15T14:56:43Z |
-| 2 | [analytics](https://github.com/plausible/analytics) | 27619 | 1682 | Elixir | 24 | Open source, privacy-first web analytics. Lightweight, cookie-free Google Analytics alternative. Self-hosted or cloud. | 2026-07-09T07:38:57Z |
+| 2 | [analytics](https://github.com/plausible/analytics) | 27621 | 1683 | Elixir | 24 | Open source, privacy-first web analytics. Lightweight, cookie-free Google Analytics alternative. Self-hosted or cloud. | 2026-07-09T08:24:37Z |
 | 3 | [elixir](https://github.com/elixir-lang/elixir) | 26578 | 3497 | Elixir | 20 | Elixir is a dynamic, functional language for building scalable and maintainable applications | 2026-07-09T07:07:22Z |
-| 4 | [symphony](https://github.com/openai/symphony) | 25875 | 2618 | Elixir | 0 | Symphony turns project work into isolated, autonomous implementation runs, allowing teams to manage work instead of supervising coding agents. | 2026-06-09T23:25:36Z |
+| 4 | [symphony](https://github.com/openai/symphony) | 25876 | 2618 | Elixir | 0 | Symphony turns project work into isolated, autonomous implementation runs, allowing teams to manage work instead of supervising coding agents. | 2026-06-09T23:25:36Z |
 | 5 | [phoenix](https://github.com/phoenixframework/phoenix) | 23068 | 3078 | Elixir | 13 | Peace of mind from prototype to production | 2026-07-09T07:50:00Z |
 | 6 | [awesome-elixir](https://github.com/h4cc/awesome-elixir) | 13154 | 1189 | Elixir | 5 | A curated list of amazingly awesome Elixir and Erlang libraries, resources and shiny things. Updates: | 2025-10-12T18:06:13Z |
 | 7 | [firezone](https://github.com/firezone/firezone) | 8718 | 425 | Elixir | 377 | Enterprise-ready zero-trust access platform built on WireGuard®. | 2026-07-09T07:38:25Z |
-| 8 | [teslamate](https://github.com/teslamate-org/teslamate) | 8702 | 982 | Elixir | 45 | A self-hosted data logger for your Tesla  🚘 [main maintainer=@JakobLichterfeld] | 2026-07-09T07:16:35Z |
+| 8 | [teslamate](https://github.com/teslamate-org/teslamate) | 8701 | 982 | Elixir | 45 | A self-hosted data logger for your Tesla  🚘 [main maintainer=@JakobLichterfeld] | 2026-07-09T07:16:35Z |
 | 9 | [realtime](https://github.com/supabase/realtime) | 7603 | 447 | Elixir | 51 | Broadcast, Presence, and Postgres Changes via WebSockets | 2026-07-09T05:23:18Z |
 | 10 | [phoenix_live_view](https://github.com/phoenixframework/phoenix_live_view) | 6786 | 1046 | Elixir | 37 | Rich, real-time user experiences with server-rendered HTML | 2026-07-07T07:24:38Z |
 | 11 | [ecto](https://github.com/elixir-ecto/ecto) | 6477 | 1481 | Elixir | 2 | A toolkit for data mapping and language integrated query. | 2026-07-08T19:41:30Z |
@@ -75,7 +75,7 @@
 | 68 | [ex_doc](https://github.com/elixir-lang/ex_doc) | 1599 | 365 | Elixir | 12 | ExDoc produces HTML and EPUB documentation for Elixir projects | 2026-07-01T12:44:55Z |
 | 69 | [gen_stage](https://github.com/elixir-lang/gen_stage) | 1583 | 199 | Elixir | 1 | Producer and consumer actors with back-pressure for Elixir | 2026-06-19T08:43:30Z |
 | 70 | [elixirscript](https://github.com/elixirscript/elixirscript) | 1566 | 68 | Elixir | 19 | Converts Elixir to JavaScript | 2019-08-20T14:46:14Z |
-| 71 | [semaphore](https://github.com/semaphoreio/semaphore) | 1556 | 82 | Elixir | 110 | All-in-one delivery platform for AI-driven development. | 2026-07-08T15:21:38Z |
+| 71 | [semaphore](https://github.com/semaphoreio/semaphore) | 1556 | 82 | Elixir | 110 | All-in-one delivery platform for AI-driven development. | 2026-07-09T08:25:56Z |
 | 72 | [exq](https://github.com/akira/exq) | 1530 | 182 | Elixir | 24 | Job processing library for Elixir  - compatible with Resque / Sidekiq | 2026-03-13T16:24:37Z |
 | 73 | [bors-ng](https://github.com/bors-ng/bors-ng) | 1530 | 181 | Elixir | 168 | 👁 A merge bot for GitHub Pull Requests | 2024-04-04T12:24:44Z |
 | 74 | [swoosh](https://github.com/swoosh/swoosh) | 1522 | 257 | Elixir | 11 | Compose, deliver and test your emails easily in Elixir | 2026-07-09T02:55:37Z |

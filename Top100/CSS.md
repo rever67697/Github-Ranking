@@ -17,11 +17,11 @@
 | 10 | [source-code-pro](https://github.com/adobe-fonts/source-code-pro) | 20415 | 1646 | CSS | 84 | Monospaced font family for user interface and coding environments | 2025-10-28T23:34:52Z |
 | 11 | [Skeleton](https://github.com/dhg/Skeleton) | 19407 | 3073 | CSS | 79 | Skeleton: A Dead Simple, Responsive Boilerplate for Mobile-Friendly Development | 2023-11-14T19:22:32Z |
 | 12 | [SpinKit](https://github.com/tobiasahlin/SpinKit) | 19341 | 1767 | CSS | 6 | A collection of loading indicators animated with CSS | 2020-08-01T09:04:59Z |
-| 13 | [community-skeleton](https://github.com/uvdesk/community-skeleton) | 19309 | 566 | CSS | 70 | UVdesk Open Source Community Helpdesk is a comprehensive ticketing support system designed for everyone, offering robust features to streamline customer support and collaboration. | 2025-10-01T07:16:24Z |
+| 13 | [community-skeleton](https://github.com/uvdesk/community-skeleton) | 19310 | 566 | CSS | 70 | UVdesk Open Source Community Helpdesk is a comprehensive ticketing support system designed for everyone, offering robust features to streamline customer support and collaboration. | 2025-10-01T07:16:24Z |
 | 14 | [pico](https://github.com/picocss/pico) | 16707 | 505 | CSS | 93 | Minimal CSS Framework for semantic HTML | 2026-05-09T18:16:06Z |
 | 15 | [30-seconds-of-css](https://github.com/Chalarangelo/30-seconds-of-css) | 16014 | 994 | CSS | 0 | Short CSS code snippets for all your development needs | 2023-05-07T17:09:56Z |
 | 16 | [pace](https://github.com/CodeByZach/pace) | 15609 | 1845 | CSS | 267 | Automatically add a progress bar to your site. | 2024-02-26T22:12:24Z |
-| 17 | [PhotoGIMP](https://github.com/Diolinux/PhotoGIMP) | 15198 | 605 | CSS | 37 | A Patch for GIMP 3+ for Photoshop Users | 2026-07-01T17:39:35Z |
+| 17 | [PhotoGIMP](https://github.com/Diolinux/PhotoGIMP) | 15208 | 605 | CSS | 38 | A Patch for GIMP 3+ for Photoshop Users | 2026-07-01T17:39:35Z |
 | 18 | [ratchet](https://github.com/twbs/ratchet) | 14677 | 1415 | CSS | 202 | Build mobile apps with simple HTML, CSS, and JavaScript components.  | 2025-03-18T16:40:18Z |
 | 19 | [tomorrow-theme](https://github.com/chriskempson/tomorrow-theme) | 13972 | 3103 | CSS | 0 | Tomorrow Theme | 2022-07-09T10:34:23Z |
 | 20 | [solved-by-flexbox](https://github.com/philipwalton/solved-by-flexbox) | 12927 | 983 | CSS | 24 | A showcase of problems once hard or impossible to solve with CSS alone, now made trivially easy with Flexbox. | 2022-12-03T06:36:29Z |
@@ -43,7 +43,7 @@
 | 36 | [awesome-css-frameworks](https://github.com/troxler/awesome-css-frameworks) | 9419 | 497 | CSS | 1 | List of awesome CSS frameworks in 2026 | 2026-06-08T20:32:07Z |
 | 37 | [colors](https://github.com/mrmrs/colors) | 9402 | 511 | CSS | 4 | Smarter defaults for colors on the web. | 2023-07-20T09:56:41Z |
 | 38 | [spring-petclinic](https://github.com/spring-projects/spring-petclinic) | 9359 | 29946 | CSS | 0 | A sample Spring-based application | 2026-07-06T17:01:33Z |
-| 39 | [garden-skills](https://github.com/ConardLi/garden-skills) | 9297 | 1243 | CSS | 6 | ConardLi's open-source Skills collection, featuring web design, knowledge retrieval, image generation, and more. | 2026-06-10T13:43:52Z |
+| 39 | [garden-skills](https://github.com/ConardLi/garden-skills) | 9298 | 1243 | CSS | 6 | ConardLi's open-source Skills collection, featuring web design, knowledge retrieval, image generation, and more. | 2026-06-10T13:43:52Z |
 | 40 | [php-the-right-way](https://github.com/codeguy/php-the-right-way) | 9255 | 3195 | CSS | 27 | An easy-to-read, quick reference for PHP best practices, accepted coding standards, and links to authoritative tutorials around the Web | 2026-04-27T09:02:16Z |
 | 41 | [spin.js](https://github.com/fgnass/spin.js) | 9251 | 1005 | CSS | 11 | A spinning activity indicator | 2024-07-19T20:53:58Z |
 | 42 | [awesome-obsidian](https://github.com/kmaasrud/awesome-obsidian) | 9121 | 381 | CSS | 9 | 🕶️ Awesome stuff for Obsidian | 2024-04-06T05:47:06Z |

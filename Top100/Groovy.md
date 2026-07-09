@@ -5,7 +5,7 @@
 
 | Ranking | Project Name | Stars | Forks | Language | Open Issues | Description | Last Commit |
 | ------- | ------------ | ----- | ----- | -------- | ----------- | ----------- | ----------- |
-| 1 | [gradle](https://github.com/gradle/gradle) | 18737 | 5153 | Groovy | 3289 | Adaptable, fast automation for all | 2026-07-09T07:17:18Z |
+| 1 | [gradle](https://github.com/gradle/gradle) | 18737 | 5153 | Groovy | 3289 | Adaptable, fast automation for all | 2026-07-09T07:58:12Z |
 | 2 | [devops-resources](https://github.com/bregman-arie/devops-resources) | 9606 | 2401 | Groovy | 16 | DevOps resources - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP | 2024-07-12T09:40:46Z |
 | 3 | [rundeck](https://github.com/rundeck/rundeck) | 6218 | 982 | Groovy | 664 | Enable Self-Service Operations: Give specific users access to your existing tools, services, and scripts | 2026-07-08T22:38:56Z |
 | 4 | [pipeline-examples](https://github.com/jenkinsci/pipeline-examples) | 4296 | 3569 | Groovy | 0 | A collection of examples, tips and tricks and snippets of scripting for the Jenkins Pipeline plugin | 2023-08-31T09:25:29Z |
@@ -35,7 +35,7 @@
 | 28 | [gradle-test-logger-plugin](https://github.com/radarsh/gradle-test-logger-plugin) | 887 | 40 | Groovy | 23 | A Gradle plugin for printing beautiful logs on the console while running tests | 2026-03-15T23:57:23Z |
 | 29 | [gradle-release](https://github.com/researchgate/gradle-release) | 886 | 220 | Groovy | 132 | gradle-release is a plugin for providing a Maven-like release process for projects using Gradle | 2026-06-18T11:15:14Z |
 | 30 | [gradle-node-plugin](https://github.com/srs/gradle-node-plugin) | 865 | 205 | Groovy | 172 | Gradle plugin for integrating NodeJS in your build. :rocket: | 2021-03-25T18:02:23Z |
-| 31 | [openboxes](https://github.com/openboxes/openboxes) | 854 | 483 | Groovy | 153 | OpenBoxes is a supply chain management system designed to manage inventory and track stock movements for healthcare facilities. | 2026-07-08T13:53:20Z |
+| 31 | [openboxes](https://github.com/openboxes/openboxes) | 854 | 483 | Groovy | 153 | OpenBoxes is a supply chain management system designed to manage inventory and track stock movements for healthcare facilities. | 2026-07-09T08:09:48Z |
 | 32 | [ansible-role-jenkins](https://github.com/geerlingguy/ansible-role-jenkins) | 853 | 755 | Groovy | 3 | Ansible Role - Jenkins CI | 2026-03-04T20:09:59Z |
 | 33 | [docToolchain](https://github.com/docToolchain/docToolchain) | 849 | 238 | Groovy | 267 | a AsciiDoc Toolchain for technical Software Documentation, focused on Software Architecture Documentation | 2026-06-26T16:32:49Z |
 | 34 | [groovy-android-gradle-plugin](https://github.com/groovy/groovy-android-gradle-plugin) | 846 | 115 | Groovy | 5 | A Gradle plugin to support the Groovy language for building Android apps | 2020-03-23T17:05:12Z |

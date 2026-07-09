@@ -102,7 +102,7 @@
 | 95 | [generativeart](https://github.com/cutterkom/generativeart) | 965 | 162 | R | 5 | Create Generative Art with R | 2022-04-27T07:53:49Z |
 | 96 | [ggforce](https://github.com/thomasp85/ggforce) | 955 | 110 | R | 68 | Accelerating ggplot2 | 2025-09-15T19:27:31Z |
 | 97 | [MoRad](https://github.com/hyu020/MoRad) | 952 | 68 | R | 0 | None | 2025-10-04T02:30:50Z |
-| 98 | [r-pkgs](https://github.com/hadley/r-pkgs) | 947 | 647 | R | 34 | Building R packages | 2026-07-08T08:00:34Z |
+| 98 | [r-pkgs](https://github.com/hadley/r-pkgs) | 947 | 647 | R | 34 | Building R packages | 2026-07-09T08:28:20Z |
 | 99 | [see](https://github.com/easystats/see) | 947 | 47 | R | 30 | :art: Visualisation toolbox for beautiful and publication-ready figures | 2026-07-07T13:39:33Z |
 | 100 | [golem](https://github.com/ThinkR-open/golem) | 943 | 138 | R | 21 | A Framework for Building Robust Shiny Apps  | 2026-07-07T15:10:56Z |
 

@@ -5,7 +5,7 @@
 
 | Ranking | Project Name | Stars | Forks | Language | Open Issues | Description | Last Commit |
 | ------- | ------------ | ----- | ----- | -------- | ----------- | ----------- | ----------- |
-| 1 | [julia](https://github.com/JuliaLang/julia) | 48920 | 5806 | Julia | 3763 | The Julia Programming Language | 2026-07-09T06:14:24Z |
+| 1 | [julia](https://github.com/JuliaLang/julia) | 48920 | 5806 | Julia | 3764 | The Julia Programming Language | 2026-07-09T07:57:16Z |
 | 2 | [Flux.jl](https://github.com/FluxML/Flux.jl) | 4726 | 622 | Julia | 141 | Relax! Flux is the ML library that doesn't make you tensor | 2026-07-07T16:12:20Z |
 | 3 | [DifferentialEquations.jl](https://github.com/SciML/DifferentialEquations.jl) | 3129 | 249 | Julia | 167 | Multi-language suite for high-performance solvers of differential equations and scientific machine learning (SciML) components. Ordinary differential equations (ODEs), stochastic differential equations (SDEs), delay differential equations (DDEs), differential-algebraic equations (DAEs), and more in Julia. | 2026-06-26T21:32:45Z |
 | 4 | [IJulia.jl](https://github.com/JuliaLang/IJulia.jl) | 2892 | 426 | Julia | 30 | Julia kernel for Jupyter | 2026-06-23T05:55:43Z |
@@ -69,12 +69,12 @@
 | 62 | [POMDPs.jl](https://github.com/JuliaPOMDP/POMDPs.jl) | 763 | 105 | Julia | 23 | MDPs and POMDPs in Julia - An interface for defining, solving, and simulating fully and partially observable Markov decision processes on discrete and continuous spaces. | 2026-07-05T23:59:55Z |
 | 63 | [JuliaDB.jl](https://github.com/JuliaData/JuliaDB.jl) | 763 | 59 | Julia | 113 | Parallel analytical database in pure Julia | 2023-10-29T00:14:52Z |
 | 64 | [DataStructures.jl](https://github.com/JuliaCollections/DataStructures.jl) | 744 | 262 | Julia | 122 | Julia implementation of Data structures | 2026-07-02T14:57:13Z |
-| 65 | [General](https://github.com/JuliaRegistries/General) | 719 | 582 | Julia | 11 | The official registry of general Julia packages | 2026-07-09T07:53:33Z |
+| 65 | [General](https://github.com/JuliaRegistries/General) | 719 | 582 | Julia | 11 | The official registry of general Julia packages | 2026-07-09T08:25:22Z |
 | 66 | [TimerOutputs.jl](https://github.com/KristofferC/TimerOutputs.jl) | 718 | 56 | Julia | 29 | Formatted output of timed sections in Julia | 2026-01-22T12:02:35Z |
 | 67 | [Lux.jl](https://github.com/LuxDL/Lux.jl) | 715 | 86 | Julia | 82 | Elegant and Performant Deep Learning | 2026-07-06T01:52:50Z |
 | 68 | [Catlab.jl](https://github.com/AlgebraicJulia/Catlab.jl) | 714 | 69 | Julia | 146 | A framework for applied category theory in the Julia language | 2026-07-02T15:38:10Z |
 | 69 | [Dagger.jl](https://github.com/JuliaParallel/Dagger.jl) | 709 | 89 | Julia | 86 | A framework for out-of-core and parallel execution | 2026-07-09T00:11:04Z |
-| 70 | [Trixi.jl](https://github.com/trixi-framework/Trixi.jl) | 708 | 159 | Julia | 280 | Trixi.jl: Adaptive high-order numerical simulations of conservation laws in Julia | 2026-07-08T21:29:24Z |
+| 70 | [Trixi.jl](https://github.com/trixi-framework/Trixi.jl) | 707 | 159 | Julia | 280 | Trixi.jl: Adaptive high-order numerical simulations of conservation laws in Julia | 2026-07-08T21:29:24Z |
 | 71 | [Cthulhu.jl](https://github.com/JuliaDebug/Cthulhu.jl) | 706 | 47 | Julia | 91 | The slow descent into madness | 2026-05-26T21:15:14Z |
 | 72 | [PkgTemplates.jl](https://github.com/JuliaCI/PkgTemplates.jl) | 702 | 112 | Julia | 89 | Create new Julia packages, the easy way | 2026-07-09T03:09:49Z |
 | 73 | [dictionary](https://github.com/adambom/dictionary) | 694 | 173 | Julia | 4 | A JSON representation of Webster's Unabridged Dictionary | 2021-04-23T20:59:28Z |

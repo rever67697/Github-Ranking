@@ -6,9 +6,9 @@
 | Ranking | Project Name | Stars | Forks | Language | Open Issues | Description | Last Commit |
 | ------- | ------------ | ----- | ----- | -------- | ----------- | ----------- | ----------- |
 | 1 | [FiraCode](https://github.com/tonsky/FiraCode) | 81821 | 3191 | Clojure | 423 | Free monospaced font with programming ligatures | 2026-05-18T16:18:53Z |
-| 2 | [penpot](https://github.com/penpot/penpot) | 55318 | 3625 | Clojure | 622 | Penpot: The open-source design platform for Product teams that need scalable collaboration. | 2026-07-09T07:31:25Z |
-| 3 | [metabase](https://github.com/metabase/metabase) | 48113 | 6651 | Clojure | 3670 | The easy-to-use open source Business Intelligence and Embedded Analytics tool that lets everyone work with data :bar_chart: | 2026-07-09T07:48:01Z |
-| 4 | [logseq](https://github.com/logseq/logseq) | 43766 | 2707 | Clojure | 873 | A privacy-first, open-source platform for knowledge management and collaboration. Download link:  http://github.com/logseq/logseq/releases. roadmap: https://logseq.io/p/NX4mc_ggEV | 2026-07-09T07:38:58Z |
+| 2 | [penpot](https://github.com/penpot/penpot) | 55318 | 3624 | Clojure | 622 | Penpot: The open-source design platform for Product teams that need scalable collaboration. | 2026-07-09T08:09:17Z |
+| 3 | [metabase](https://github.com/metabase/metabase) | 48114 | 6652 | Clojure | 3670 | The easy-to-use open source Business Intelligence and Embedded Analytics tool that lets everyone work with data :bar_chart: | 2026-07-09T08:22:43Z |
+| 4 | [logseq](https://github.com/logseq/logseq) | 43764 | 2707 | Clojure | 873 | A privacy-first, open-source platform for knowledge management and collaboration. Download link:  http://github.com/logseq/logseq/releases. roadmap: https://logseq.io/p/NX4mc_ggEV | 2026-07-09T08:25:02Z |
 | 5 | [LightTable](https://github.com/LightTable/LightTable) | 11695 | 911 | Clojure | 164 | The Light Table IDE ⛺ | 2022-06-17T00:20:21Z |
 | 6 | [clojurescript](https://github.com/clojure/clojurescript) | 9393 | 784 | Clojure | 0 | Clojure to JS compiler | 2026-07-05T14:08:08Z |
 | 7 | [jepsen](https://github.com/jepsen-io/jepsen) | 7435 | 751 | Clojure | 66 | A framework for distributed systems verification, with fault injection | 2026-07-03T21:32:03Z |

@@ -6,14 +6,14 @@
 | Ranking | Project Name | Stars | Forks | Language | Open Issues | Description | Last Commit |
 | ------- | ------------ | ----- | ----- | -------- | ----------- | ----------- | ----------- |
 | 1 | [the-algorithm](https://github.com/twitter/the-algorithm) | 73507 | 13263 | Scala | 321 | Source code for the X Recommendation Algorithm | 2025-09-08T18:40:54Z |
-| 2 | [spark](https://github.com/apache/spark) | 43588 | 29275 | Scala | 49 | Apache Spark - A unified analytics engine for large-scale data processing | 2026-07-09T06:15:23Z |
-| 3 | [lila](https://github.com/lichess-org/lila) | 18408 | 2716 | Scala | 1245 | ♞ lichess.org: the forever free, adless and open source chess server ♞ | 2026-07-09T07:06:39Z |
+| 2 | [spark](https://github.com/apache/spark) | 43587 | 29275 | Scala | 49 | Apache Spark - A unified analytics engine for large-scale data processing | 2026-07-09T06:15:23Z |
+| 3 | [lila](https://github.com/lichess-org/lila) | 18409 | 2716 | Scala | 1245 | ♞ lichess.org: the forever free, adless and open source chess server ♞ | 2026-07-09T07:06:39Z |
 | 4 | [prisma1](https://github.com/prisma/prisma1) | 16385 | 840 | Scala | 2 | 💾 Database Tools incl. ORM, Migrations and Admin UI (Postgres, MySQL & MongoDB) [deprecated] | 2022-09-01T18:57:41Z |
 | 5 | [scala](https://github.com/scala/scala) | 14533 | 3087 | Scala | 0 | Scala 2 compiler and standard library. Scala 2 bugs at https://github.com/scala/bug; Scala 3 at https://github.com/scala/scala3 | 2026-07-08T22:05:52Z |
-| 6 | [akka-core](https://github.com/akka/akka-core) | 13274 | 3545 | Scala | 874 | A platform to build and run apps that are elastic, agile, and resilient. SDK, libraries, and hosted environments. | 2026-07-07T12:42:38Z |
+| 6 | [akka-core](https://github.com/akka/akka-core) | 13274 | 3546 | Scala | 874 | A platform to build and run apps that are elastic, agile, and resilient. SDK, libraries, and hosted environments. | 2026-07-07T12:42:38Z |
 | 7 | [playframework](https://github.com/playframework/playframework) | 12618 | 4032 | Scala | 408 | The Community Maintained High Velocity Web Framework For Java and Scala. | 2026-07-08T14:43:27Z |
 | 8 | [predictionio](https://github.com/apache/predictionio) | 12521 | 1901 | Scala | 0 | PredictionIO, a machine learning server for developers and ML engineers. | 2021-01-09T10:30:58Z |
-| 9 | [bfg-repo-cleaner](https://github.com/rtyley/bfg-repo-cleaner) | 12155 | 583 | Scala | 265 | Removes large or troublesome blobs like git-filter-branch does, but faster. And written in Scala | 2025-01-19T18:52:14Z |
+| 9 | [bfg-repo-cleaner](https://github.com/rtyley/bfg-repo-cleaner) | 12154 | 583 | Scala | 265 | Removes large or troublesome blobs like git-filter-branch does, but faster. And written in Scala | 2025-01-19T18:52:14Z |
 | 10 | [CMAK](https://github.com/yahoo/CMAK) | 11926 | 2476 | Scala | 498 | CMAK is a tool for managing Apache Kafka clusters | 2023-08-02T19:26:23Z |
 | 11 | [gitbucket](https://github.com/gitbucket/gitbucket) | 9377 | 1265 | Scala | 300 | A Git platform powered by Scala with easy installation, high extensibility & GitHub API compatibility | 2026-07-07T21:45:44Z |
 | 12 | [delta](https://github.com/delta-io/delta) | 8899 | 2133 | Scala | 837 | An open-source storage framework that enables building a Lakehouse architecture with compute engines including Spark, PrestoDB, Flink, Trino, and Hive and APIs | 2026-07-09T03:52:06Z |
@@ -25,7 +25,7 @@
 | 18 | [ArnoldC](https://github.com/lhartikk/ArnoldC) | 6880 | 294 | Scala | 69 | Arnold Schwarzenegger based programming language | 2024-01-31T22:40:52Z |
 | 19 | [openwhisk](https://github.com/apache/openwhisk) | 6784 | 1179 | Scala | 405 | Apache OpenWhisk is an open source serverless cloud platform | 2026-06-27T19:17:52Z |
 | 20 | [scala3](https://github.com/scala/scala3) | 6273 | 1163 | Scala | 1736 | The Scala 3 compiler, also known as Dotty. | 2026-07-08T18:02:58Z |
-| 21 | [frontend](https://github.com/guardian/frontend) | 5891 | 570 | Scala | 132 | The Guardian DotCom. | 2026-07-09T07:19:50Z |
+| 21 | [frontend](https://github.com/guardian/frontend) | 5891 | 570 | Scala | 132 | The Guardian DotCom. | 2026-07-09T08:08:34Z |
 | 22 | [fpinscala](https://github.com/fpinscala/fpinscala) | 5831 | 3033 | Scala | 79 | Code, exercises, answers, and hints to go along with the book "Functional Programming in Scala" | 2024-12-11T18:19:58Z |
 | 23 | [cats](https://github.com/typelevel/cats) | 5452 | 1244 | Scala | 224 | Lightweight, modular, and extensible library for functional programming. | 2026-06-29T05:43:40Z |
 | 24 | [linkerd](https://github.com/linkerd/linkerd) | 5314 | 493 | Scala | 133 | Old repo for Linkerd 1.x. See the linkerd2 repo for Linkerd   2.x. | 2023-03-04T18:59:40Z |
