@@ -52,6 +52,28 @@ table_of_contents = """
 * [TypeScript](#typeScript)
 * [Vim script](#vim-script)"""
 
+# AI 分类：按子领域划分
+ai_categories = [
+    "Artificial Intelligence",
+    "Machine Learning",
+    "Deep Learning",
+    "Large Language Model",
+    "Natural Language Processing",
+    "Computer Vision",
+    "Reinforcement Learning",
+    "Generative AI",
+]
+# AI 分类目录（追加到主目录后面）
+ai_table_of_contents = """
+* [Artificial Intelligence](#artificial-intelligence)
+* [Machine Learning](#machine-learning)
+* [Deep Learning](#deep-learning)
+* [Large Language Model](#large-language-model)
+* [Natural Language Processing](#natural-language-processing)
+* [Computer Vision](#computer-vision)
+* [Reinforcement Learning](#reinforcement-learning)
+* [Generative AI](#generative-ai)"""
+
 
 class ProcessorGQL(object):
     """
@@ -96,6 +118,8 @@ class ProcessorGQL(object):
         self.gql_stars = self.gql_format % ("stars:>1000 sort:stars", self.bulk_size, "%s")
         self.gql_forks = self.gql_format % ("forks:>1000 sort:forks", self.bulk_size, "%s")
         self.gql_stars_lang = self.gql_format % ("language:%s stars:>0 sort:stars", self.bulk_size, "%s")
+        # AI 分类查询：按 topic 关键词搜索，按 stars 排序
+        self.gql_stars_ai = self.gql_format % ("topic:%s stars:>0 sort:stars", self.bulk_size, "%s")
 
         self.col = ['rank', 'item', 'repo_name', 'stars', 'forks', 'language', 'repo_url', 'username', 'issues',
                     'last_commit', 'description']
@@ -144,14 +168,34 @@ class ProcessorGQL(object):
             print("Get most stars repos of {}...".format(lang))
             repos_languages[lang] = self.get_repos(self.gql_stars_lang % (lang, '%s'))
             print("Get most stars repos of {} success!".format(lang))
-        return repos_stars, repos_forks, repos_languages
+
+        # 获取 AI 分类的仓库
+        repos_ai = {}
+        ai_topic_map = {
+            "Artificial Intelligence": "artificial-intelligence",
+            "Machine Learning": "machine-learning",
+            "Deep Learning": "deep-learning",
+            "Large Language Model": "large-language-model",
+            "Natural Language Processing": "natural-language-processing",
+            "Computer Vision": "computer-vision",
+            "Reinforcement Learning": "reinforcement-learning",
+            "Generative AI": "generative-ai",
+        }
+        for cat in ai_categories:
+            topic = ai_topic_map.get(cat, cat.lower().replace(" ", "-"))
+            print("Get most stars repos of AI category: {} (topic:{})...".format(cat, topic))
+            repos_ai[cat] = self.get_repos(self.gql_stars_ai % (topic, '%s'))
+            print("Get most stars repos of AI category: {} success!".format(cat))
+
+        return repos_stars, repos_forks, repos_languages, repos_ai
 
 
 class WriteFile(object):
-    def __init__(self, repos_stars, repos_forks, repos_languages):
+    def __init__(self, repos_stars, repos_forks, repos_languages, repos_ai=None):
         self.repos_stars = repos_stars
         self.repos_forks = repos_forks
         self.repos_languages = repos_languages
+        self.repos_ai = repos_ai or {}
         self.col = ['rank', 'item', 'repo_name', 'stars', 'forks', 'language', 'repo_url', 'username', 'issues',
                     'last_commit', 'description']
         self.repo_list = []
@@ -184,6 +228,20 @@ class WriteFile(object):
                 "data": repos_languages[lang],
                 "item": lang,
             })
+        # AI 分类
+        for cat in ai_categories:
+            if cat in self.repos_ai:
+                # 文件名使用小写加连字符
+                file_name = cat.lower().replace(" ", "-") + ".md"
+                self.repo_list.append({
+                    "desc": "Stars",
+                    "desc_md": "Stars",
+                    "title_readme": cat,
+                    "title_100": f"Top 100 Stars in {cat}",
+                    "file_100": file_name,
+                    "data": self.repos_ai[cat],
+                    "item": f"ai-{file_name.replace('.md', '')}",
+                })
 
     @staticmethod
     def write_head_contents():
@@ -197,30 +255,42 @@ class WriteFile(object):
             *Last Automatic Update Time: {write_time}*
 
             ## 致谢 / 来源
-            
+
             本项目基于 [EvanLi/Github-Ranking](https://github.com/EvanLi/Github-Ranking) 二次开发，
             原项目版权归 Evan Li 所有，遵循 MIT 许可证。
-            
+
             ## Credits
-            
+
             This project is based on [EvanLi/Github-Ranking](https://github.com/EvanLi/Github-Ranking)
             by Evan Li, licensed under the MIT License.
-            
+
             ---
 
             ## Table of Contents
 
             * [Most Stars](#most-stars)
             * [Most Forks](#most-forks)""".format(write_time=write_time)) + table_of_contents
+
+        # 追加 AI 分类目录
+        head_contents += "\n\n### AI\n" + ai_table_of_contents
         write_text("../README.md", 'w', head_contents)
 
     def write_readme_lang_md(self):
         os.makedirs('../Top100', exist_ok=True)
+        ai_section_written = False
         for repo in self.repo_list:
             # README.md
             title_readme, title_100, file_100, data = repo["title_readme"], repo["title_100"], repo["file_100"], repo["data"]
+
+            # 在第一个 AI 分类前插入大分类标题
+            if repo["item"].startswith("ai-") and not ai_section_written:
+                write_text('../README.md', 'a', "\n---\n\n## AI\n\nAI 相关领域最受欢迎的 GitHub 仓库。\n\n")
+                ai_section_written = True
+
+            # AI 分类用 ###，其他分类用 ##
+            heading = "###" if repo["item"].startswith("ai-") else "##"
             write_text('../README.md', 'a',
-                       f"\n## {title_readme}\n\nThis is top 10, for more click **[{title_100}](Top100/{file_100})**\n\n")
+                       f"\n{heading} {title_readme}\n\nThis is top 10, for more click **[{title_100}](Top100/{file_100})**\n\n")
             write_ranking_repo('../README.md', 'a', data[:10])
             print(f"Save {title_readme} in README.md!")
 
@@ -258,8 +328,8 @@ def run_by_gql():
     os.chdir(os.path.join(ROOT_PATH, 'source'))
 
     processor = ProcessorGQL()  # use Github GraphQL API v4
-    repos_stars, repos_forks, repos_languages = processor.get_all_repos()
-    wt_obj = WriteFile(repos_stars, repos_forks, repos_languages)
+    repos_stars, repos_forks, repos_languages, repos_ai = processor.get_all_repos()
+    wt_obj = WriteFile(repos_stars, repos_forks, repos_languages, repos_ai)
     wt_obj.write_head_contents()
     wt_obj.write_readme_lang_md()
     wt_obj.save_to_csv()
