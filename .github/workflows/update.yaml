@@ -26,7 +26,7 @@
             pip install pandas requests
 
         - name: Pull latest changes
-          run: git pull origin master
+          run: git pull origin main
 
         - name: Run update script
           run: python source/process.py
@@ -44,6 +44,6 @@
               git add .
               today=$(date +"%Y-%m-%d")
               git commit -m "auto update $today"
-              git push origin master
+              git push origin main
               echo "Changes committed and pushed"
             fi
