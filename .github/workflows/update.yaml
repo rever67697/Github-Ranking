@@ -2,7 +2,6 @@
 
   on:
     schedule:
-      # 每天北京时间 12:00 执行 (UTC 04:00)
       - cron: '0 4 * * *'
     workflow_dispatch:
 
@@ -22,8 +21,8 @@
 
         - name: Install dependencies
           run: |
-            python -m pip install --upgrade pip
-            pip install pandas==1.5.3 requests
+            python -m pip install --upgrade pip wheel setuptools
+            pip install numpy==1.23.5 pandas==1.5.3 requests
 
         - name: Create access_token.txt
           env:
@@ -40,8 +39,8 @@
           env:
             GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           run: |
-            git config user.name "GitHub Actions Bot"
-            git config user.email "actions@github.com"
+            git config --global user.name "GitHub Actions Bot"
+            git config --global user.email "actions@github.com"
 
             if git diff --quiet; then
               echo "No changes to commit"
