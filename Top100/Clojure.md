@@ -5,10 +5,10 @@
 
 | Ranking | Project Name | Stars | Forks | Language | Open Issues | Description | Last Commit |
 | ------- | ------------ | ----- | ----- | -------- | ----------- | ----------- | ----------- |
-| 1 | [FiraCode](https://github.com/tonsky/FiraCode) | 81822 | 3191 | Clojure | 423 | Free monospaced font with programming ligatures | 2026-05-18T16:18:53Z |
-| 2 | [penpot](https://github.com/penpot/penpot) | 55310 | 3625 | Clojure | 622 | Penpot: The open-source design platform for Product teams that need scalable collaboration. | 2026-07-08T18:38:18Z |
-| 3 | [metabase](https://github.com/metabase/metabase) | 48109 | 6651 | Clojure | 3670 | The easy-to-use open source Business Intelligence and Embedded Analytics tool that lets everyone work with data :bar_chart: | 2026-07-09T03:35:14Z |
-| 4 | [logseq](https://github.com/logseq/logseq) | 43763 | 2707 | Clojure | 873 | A privacy-first, open-source platform for knowledge management and collaboration. Download link:  http://github.com/logseq/logseq/releases. roadmap: https://logseq.io/p/NX4mc_ggEV | 2026-07-08T15:14:16Z |
+| 1 | [FiraCode](https://github.com/tonsky/FiraCode) | 81821 | 3191 | Clojure | 423 | Free monospaced font with programming ligatures | 2026-05-18T16:18:53Z |
+| 2 | [penpot](https://github.com/penpot/penpot) | 55314 | 3625 | Clojure | 623 | Penpot: The open-source design platform for Product teams that need scalable collaboration. | 2026-07-09T06:48:26Z |
+| 3 | [metabase](https://github.com/metabase/metabase) | 48111 | 6651 | Clojure | 3670 | The easy-to-use open source Business Intelligence and Embedded Analytics tool that lets everyone work with data :bar_chart: | 2026-07-09T06:20:53Z |
+| 4 | [logseq](https://github.com/logseq/logseq) | 43765 | 2707 | Clojure | 873 | A privacy-first, open-source platform for knowledge management and collaboration. Download link:  http://github.com/logseq/logseq/releases. roadmap: https://logseq.io/p/NX4mc_ggEV | 2026-07-08T15:14:16Z |
 | 5 | [LightTable](https://github.com/LightTable/LightTable) | 11695 | 911 | Clojure | 164 | The Light Table IDE ⛺ | 2022-06-17T00:20:21Z |
 | 6 | [clojurescript](https://github.com/clojure/clojurescript) | 9393 | 784 | Clojure | 0 | Clojure to JS compiler | 2026-07-05T14:08:08Z |
 | 7 | [jepsen](https://github.com/jepsen-io/jepsen) | 7435 | 751 | Clojure | 66 | A framework for distributed systems verification, with fault injection | 2026-07-03T21:32:03Z |
@@ -79,11 +79,11 @@
 | 72 | [seesaw](https://github.com/clj-commons/seesaw) | 1484 | 145 | Clojure | 59 | Seesaw turns the Horror of Swing into a friendly, well-documented, Clojure library | 2023-07-28T19:55:45Z |
 | 73 | [Korma](https://github.com/korma/Korma) | 1469 | 216 | Clojure | 73 | Tasty SQL for Clojure. | 2020-10-15T17:12:25Z |
 | 74 | [konstellate](https://github.com/jeremykross/konstellate) | 1459 | 82 | Clojure | 14 | Free and Open Source GUI to Visualize Kubernetes Applications. | 2019-07-25T15:08:39Z |
-| 75 | [datalevin](https://github.com/datalevin/datalevin) | 1438 | 82 | Clojure | 26 | A simple, fast and versatile Datalog database | 2026-07-08T15:17:53Z |
+| 75 | [datalevin](https://github.com/datalevin/datalevin) | 1438 | 82 | Clojure | 26 | A simple, fast and versatile Datalog database | 2026-07-09T05:16:40Z |
 | 76 | [GokuRakuJoudo](https://github.com/yqrashawn/GokuRakuJoudo) | 1404 | 125 | Clojure | 69 | config karabiner with ease | 2025-08-15T05:38:57Z |
 | 77 | [Nightcode](https://github.com/oakes/Nightcode) | 1402 | 123 | Clojure | 32 | An IDE for Clojure | 2021-04-24T06:40:22Z |
 | 78 | [cascalog](https://github.com/nathanmarz/cascalog) | 1374 | 173 | Clojure | 37 | Data processing on Hadoop without the hassle. | 2023-05-18T22:49:55Z |
-| 79 | [sci](https://github.com/babashka/sci) | 1367 | 104 | Clojure | 36 | Configurable Clojure/Script interpreter suitable for scripting and Clojure DSLs | 2026-07-08T13:37:34Z |
+| 79 | [sci](https://github.com/babashka/sci) | 1367 | 104 | Clojure | 36 | Configurable Clojure/Script interpreter suitable for scripting and Clojure DSLs | 2026-07-09T06:46:34Z |
 | 80 | [garden](https://github.com/noprompt/garden) | 1364 | 94 | Clojure | 42 | Generate CSS with Clojure | 2024-01-16T21:37:58Z |
 | 81 | [auto-parcel](https://github.com/frankiesardo/auto-parcel) | 1360 | 83 | Clojure | 9 | Android Parcelable models made easy | 2017-02-12T15:10:29Z |
 | 82 | [integrant](https://github.com/weavejester/integrant) | 1358 | 63 | Clojure | 12 | Micro-framework for data-driven architecture | 2026-01-07T12:08:00Z |

@@ -5,7 +5,7 @@
 
 | Ranking | Project Name | Stars | Forks | Language | Open Issues | Description | Last Commit |
 | ------- | ------------ | ----- | ----- | -------- | ----------- | ----------- | ----------- |
-| 1 | [neovim](https://github.com/neovim/neovim) | 100988 | 6961 | Vim Script | 1591 | Vim-fork focused on extensibility and usability | 2026-07-09T00:40:01Z |
+| 1 | [neovim](https://github.com/neovim/neovim) | 100988 | 6962 | Vim Script | 1591 | Vim-fork focused on extensibility and usability | 2026-07-09T06:43:46Z |
 | 2 | [vim](https://github.com/vim/vim) | 40609 | 6095 | Vim Script | 1585 | The official Vim repository | 2026-07-04T02:34:04Z |
 | 3 | [vim-plug](https://github.com/junegunn/vim-plug) | 35702 | 1942 | Vim Script | 72 | :hibiscus: Minimalist Vim Plugin Manager | 2026-05-22T13:40:34Z |
 | 4 | [vimrc](https://github.com/amix/vimrc) | 31782 | 7254 | Vim Script | 13 | The ultimate Vim configuration (vimrc) | 2024-10-06T08:26:02Z |
@@ -27,7 +27,7 @@
 | 20 | [syntastic](https://github.com/vim-syntastic/syntastic) | 11223 | 1122 | Vim Script | 39 | Syntax checking hacks for vim | 2022-07-10T12:58:50Z |
 | 21 | [vim-galore-zh_cn](https://github.com/wsdjeg/vim-galore-zh_cn) | 10622 | 1384 | Vim Script | 0 | Vim 从入门到精通 | 2024-12-30T06:07:39Z |
 | 22 | [fzf.vim](https://github.com/junegunn/fzf.vim) | 10224 | 607 | Vim Script | 300 | fzf :heart: vim | 2026-06-12T00:07:36Z |
-| 23 | [vimwiki](https://github.com/vimwiki/vimwiki) | 9483 | 645 | Vim Script | 214 | Personal Wiki for Vim | 2026-04-30T18:15:10Z |
+| 23 | [vimwiki](https://github.com/vimwiki/vimwiki) | 9484 | 645 | Vim Script | 214 | Personal Wiki for Vim | 2026-04-30T18:15:10Z |
 | 24 | [use_vim_as_ide](https://github.com/yangyangwithgnu/use_vim_as_ide) | 9167 | 2319 | Vim Script | 52 | use vim as IDE | 2020-01-03T11:54:32Z |
 | 25 | [vim-gitgutter](https://github.com/airblade/vim-gitgutter) | 8506 | 297 | Vim Script | 2 | A Vim plugin which shows git diff markers in the sign column and stages/previews/undoes hunks and partial hunks. | 2026-04-06T07:22:28Z |
 | 26 | [vim-multiple-cursors](https://github.com/terryma/vim-multiple-cursors) | 7950 | 244 | Vim Script | 1 | True Sublime Text style multiple selections for Vim | 2020-07-30T19:52:03Z |
@@ -58,7 +58,7 @@
 | 51 | [vim](https://github.com/ma6174/vim) | 4239 | 2822 | Vim Script | 0 | vim配置文件和插件(不再维护) | 2019-01-21T15:17:00Z |
 | 52 | [vim-easy-align](https://github.com/junegunn/vim-easy-align) | 4239 | 121 | Vim Script | 25 | :sunflower: A Vim alignment plugin | 2024-07-23T03:28:14Z |
 | 53 | [auto-pairs](https://github.com/jiangmiao/auto-pairs) | 4200 | 364 | Vim Script | 143 | Vim plugin, insert or delete brackets, parens, quotes in pair | 2024-07-08T10:03:35Z |
-| 54 | [rust.vim](https://github.com/rust-lang/rust.vim) | 4170 | 320 | Vim Script | 96 | Vim configuration for Rust. | 2024-06-02T21:15:07Z |
+| 54 | [rust.vim](https://github.com/rust-lang/rust.vim) | 4171 | 320 | Vim Script | 96 | Vim configuration for Rust. | 2024-06-02T21:15:07Z |
 | 55 | [vim-rails](https://github.com/tpope/vim-rails) | 4151 | 375 | Vim Script | 39 | rails.vim: Ruby on Rails power tools | 2025-02-19T06:36:00Z |
 | 56 | [indentLine](https://github.com/Yggdroot/indentLine) | 4122 | 235 | Vim Script | 75 | A vim plugin to display the indention levels with thin vertical lines | 2023-07-14T01:57:38Z |
 | 57 | [everforest](https://github.com/sainnhe/everforest) | 4092 | 147 | Vim Script | 6 | 🌲 Comfortable & Pleasant Color Scheme for Vim | 2026-06-08T19:09:46Z |
