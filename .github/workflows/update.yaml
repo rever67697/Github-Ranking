@@ -3,7 +3,8 @@ name: Daily Update GitHub Ranking
 on:
   # 1. 定时触发：每天 UTC 4:00
   schedule:
-    - cron: "0 4 * * *"
+    - cron: '0 4 * * *'
+      timezone: "Asia/Singapore"
 
   # 2. 手动触发：GitHub UI 点击 Run workflow
   workflow_dispatch:
