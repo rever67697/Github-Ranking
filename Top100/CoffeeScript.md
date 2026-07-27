@@ -5,10 +5,10 @@
 
 | Ranking | Project Name | Stars | Forks | Language | Open Issues | Description | Last Commit |
 | ------- | ------------ | ----- | ----- | -------- | ----------- | ----------- | ----------- |
-| 1 | [SwitchyOmega](https://github.com/FelisCatus/SwitchyOmega) | 22590 | 3615 | CoffeeScript | 803 | No longer maintained, see pinned issues | 2024-12-27T12:00:30Z |
-| 2 | [mojs](https://github.com/mojs/mojs) | 18736 | 888 | CoffeeScript | 37 | The motion graphics toolbelt for the web | 2026-04-14T13:51:01Z |
-| 3 | [coffeescript](https://github.com/jashkenas/coffeescript) | 16601 | 1981 | CoffeeScript | 75 | Unfancy JavaScript | 2024-03-22T14:04:00Z |
-| 4 | [zxcvbn](https://github.com/dropbox/zxcvbn) | 16009 | 995 | CoffeeScript | 119 | Low-Budget Password Strength Estimation | 2024-08-19T09:54:34Z |
+| 1 | [SwitchyOmega](https://github.com/FelisCatus/SwitchyOmega) | 22589 | 3615 | CoffeeScript | 803 | No longer maintained, see pinned issues | 2024-12-27T12:00:30Z |
+| 2 | [mojs](https://github.com/mojs/mojs) | 18740 | 888 | CoffeeScript | 37 | The motion graphics toolbelt for the web | 2026-04-14T13:51:01Z |
+| 3 | [coffeescript](https://github.com/jashkenas/coffeescript) | 16600 | 1981 | CoffeeScript | 75 | Unfancy JavaScript | 2024-03-22T14:04:00Z |
+| 4 | [zxcvbn](https://github.com/dropbox/zxcvbn) | 16011 | 995 | CoffeeScript | 119 | Low-Budget Password Strength Estimation | 2024-08-19T09:54:34Z |
 | 5 | [dynamics.js](https://github.com/michaelvillar/dynamics.js) | 7551 | 405 | CoffeeScript | 8 | Javascript library to create physics-based animations | 2019-02-26T06:19:21Z |
 | 6 | [morris.js](https://github.com/morrisjs/morris.js) | 6880 | 1192 | CoffeeScript | 284 | Pretty time-series line graphs | 2021-10-07T12:56:12Z |
 | 7 | [At.js](https://github.com/ichord/At.js) | 5246 | 652 | CoffeeScript | 149 | Add Github like mentions autocomplete to your application. | 2021-11-18T12:53:24Z |
@@ -74,13 +74,13 @@
 | 67 | [coffeekup](https://github.com/mauricemach/coffeekup) | 1245 | 82 | CoffeeScript | 32 | Markup as CoffeeScript. | 2011-10-26T01:50:57Z |
 | 68 | [mondrian](https://github.com/artursapek/mondrian) | 1237 | 102 | CoffeeScript | 19 | Web-based vector graphics editor | 2017-10-30T03:18:15Z |
 | 69 | [tourist](https://github.com/easelinc/tourist) | 1221 | 95 | CoffeeScript | 10 | Simple, flexible tours for your app | 2018-10-11T04:33:53Z |
-| 70 | [coffeelint](https://github.com/clutchski/coffeelint) | 1207 | 169 | CoffeeScript | 73 | Lint your CoffeeScript. | 2021-10-19T04:14:19Z |
+| 70 | [coffeelint](https://github.com/clutchski/coffeelint) | 1208 | 169 | CoffeeScript | 73 | Lint your CoffeeScript. | 2021-10-19T04:14:19Z |
 | 71 | [badges](https://github.com/boennemann/badges) | 1206 | 727 | CoffeeScript | 3 | :flower_playing_cards: Readme Badges – Gotta catch 'em all | 2019-04-05T16:27:49Z |
 | 72 | [json-diff](https://github.com/andreyvit/json-diff) | 1205 | 135 | CoffeeScript | 28 | Structural diff for JSON files | 2024-04-10T14:05:29Z |
 | 73 | [octonode](https://github.com/pksunkara/octonode) | 1187 | 233 | CoffeeScript | 25 | github api v3 in nodejs | 2022-12-06T18:33:48Z |
 | 74 | [lineman](https://github.com/linemanjs/lineman) | 1168 | 78 | CoffeeScript | 26 | Lineman helps you build fat-client JavaScript apps. It produces happiness by building assets, mocking servers, running specs on every file change | 2021-11-12T12:32:17Z |
 | 75 | [pushd](https://github.com/rs/pushd) | 1156 | 218 | CoffeeScript | 56 | Blazing fast multi-protocol mobile and web push notification service | 2020-07-15T14:40:12Z |
-| 76 | [4chan-x](https://github.com/ccd0/4chan-x) | 1146 | 156 | CoffeeScript | 986 | Adds various features to anonymous imageboards. | 2026-05-25T04:32:09Z |
+| 76 | [4chan-x](https://github.com/ccd0/4chan-x) | 1147 | 156 | CoffeeScript | 986 | Adds various features to anonymous imageboards. | 2026-05-25T04:32:09Z |
 | 77 | [literallycanvas](https://github.com/literallycanvas/literallycanvas) | 1115 | 316 | CoffeeScript | 94 | A canvas in your browser. Literally. | 2020-05-29T21:28:35Z |
 | 78 | [git-time-machine](https://github.com/littlebee/git-time-machine) | 1109 | 37 | CoffeeScript | 43 | Atom package that allows you to travel back in commit history | 2021-08-01T02:38:19Z |
 | 79 | [angular-masonry](https://github.com/passy/angular-masonry) | 1102 | 211 | CoffeeScript | 50 | An AngularJS directive for Masonry. | 2017-05-17T15:42:06Z |
