@@ -6,7 +6,7 @@
 | Ranking | Project Name | Stars | Forks | Language | Open Issues | Description | Last Commit |
 | ------- | ------------ | ----- | ----- | -------- | ----------- | ----------- | ----------- |
 | 1 | [VVVVVV](https://github.com/TerryCavanagh/VVVVVV) | 8001 | 599 | ActionScript | 30 | The source code to VVVVVV! http://thelettervsixtim.es/ | 2026-07-15T14:13:28Z |
-| 2 | [open-source-flash](https://github.com/open-source-flash/open-source-flash) | 7318 | 112 | ActionScript | 25 | Petition to open source Flash and Shockwave spec | 2021-02-24T08:44:01Z |
+| 2 | [open-source-flash](https://github.com/open-source-flash/open-source-flash) | 7317 | 112 | ActionScript | 25 | Petition to open source Flash and Shockwave spec | 2021-02-24T08:44:01Z |
 | 3 | [Starling-Framework](https://github.com/Gamua/Starling-Framework) | 3078 | 815 | ActionScript | 77 | The Cross Platform Game Engine | 2026-07-17T08:08:05Z |
 | 4 | [webcamjs](https://github.com/jhuckaby/webcamjs) | 2509 | 1102 | ActionScript | 154 | HTML5 Webcam Image Capture Library with Flash Fallback | 2020-04-22T07:50:12Z |
 | 5 | [as3corelib](https://github.com/mikechambers/as3corelib) | 1506 | 454 | ActionScript | 106 |  An ActionScript 3 Library that contains a number of classes and utilities for working with ActionScript? 3. These include classes for MD5 and SHA 1 hashing, Image encoders, and JSON serialization as well as general String, Number and Date APIs. | 2024-08-18T20:22:14Z |
@@ -16,9 +16,9 @@
 | 9 | [as3-signals](https://github.com/robertpenner/as3-signals) | 1063 | 200 | ActionScript | 4 | Signals is a new approach for AS3 events, inspired by C# events and signals/slots in Qt.  | 2025-05-19T18:05:34Z |
 | 10 | [bfxr](https://github.com/increpare/bfxr) | 1027 | 91 | ActionScript | 10 | Flash + AIR sound effects generator.   Based on Sfxr. | 2025-04-17T12:18:05Z |
 | 11 | [robotlegs-framework](https://github.com/robotlegs/robotlegs-framework) | 962 | 255 | ActionScript | 14 | An ActionScript 3 application framework for Flash and Flex | 2020-06-16T09:09:56Z |
-| 12 | [malware-samples](https://github.com/InQuest/malware-samples) | 936 | 200 | ActionScript | 0 | A collection of malware samples and relevant dissection information, most probably referenced from http://blog.inquest.net | 2024-03-26T03:51:41Z |
+| 12 | [malware-samples](https://github.com/InQuest/malware-samples) | 934 | 200 | ActionScript | 0 | A collection of malware samples and relevant dissection information, most probably referenced from http://blog.inquest.net | 2024-03-26T03:51:41Z |
 | 13 | [feathersui-starling](https://github.com/feathersui/feathersui-starling) | 915 | 378 | ActionScript | 165 | User interface components for Starling Framework, ActionScript 3, and Adobe AIR | 2026-01-22T22:20:03Z |
-| 14 | [flashls](https://github.com/mangui/flashls) | 745 | 258 | ActionScript | 167 | HLS Flash Plugin/Player (Chromeless,OSMF,FlowPlayer,mediaelement.js,video.js,Clappr) | 2018-11-19T15:02:08Z |
+| 14 | [flashls](https://github.com/mangui/flashls) | 746 | 258 | ActionScript | 167 | HLS Flash Plugin/Player (Chromeless,OSMF,FlowPlayer,mediaelement.js,video.js,Clappr) | 2018-11-19T15:02:08Z |
 | 15 | [VirtualCockroach](https://github.com/FerryYoungFan/VirtualCockroach) | 716 | 50 | ActionScript | 31 | 一只蟑螂桌面“宠物” Cockroach Desktop "Pet" | 2019-09-24T09:47:41Z |
 | 16 | [juicy-breakout](https://github.com/grapefrukt/juicy-breakout) | 682 | 130 | ActionScript | 0 | None | 2017-03-24T07:51:44Z |
 | 17 | [emulator](https://github.com/nesbox/emulator) | 653 | 257 | ActionScript | 90 | Emulator of NES, Super Nintendo, Sega Mega Drive, GameBoy video consoles | 2015-08-02T12:15:51Z |
