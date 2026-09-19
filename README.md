@@ -3,7 +3,7 @@
 
 **A list of the most github stars and forks repositories.**
 
-*Last Automatic Update Time: 2026-09-18T22:30:21Z*
+*Last Automatic Update Time: 2026-09-19T22:20:05Z*
 
 ## 致谢 / 来源
 
@@ -73,16 +73,16 @@ This is top 10, for more click **[Top 100 Stars](Top100/Top-100-stars.md)**
 
 | Ranking | Project Name | Stars | Forks | Language | Open Issues | Description | Last Commit |
 | ------- | ------------ | ----- | ----- | -------- | ----------- | ----------- | ----------- |
-| 1 | [build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | 548080 | 51535 | Markdown | 277 | Master programming by recreating your favorite technologies from scratch. | 2026-07-14T19:25:58Z |
-| 2 | [awesome](https://github.com/sindresorhus/awesome) | 507505 | 36946 | None | 16 | 😎 Awesome lists about all kinds of interesting topics [NOTE: Pull requests are temporarily disabled until I have a chance to catch up with the existing ones] | 2026-09-02T02:10:47Z |
-| 3 | [public-apis](https://github.com/public-apis/public-apis) | 481427 | 53156 | Python | 37 | A collective list of free APIs | 2026-09-18T19:39:43Z |
-| 4 | [freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) | 455741 | 46676 | TypeScript | 133 | freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free. | 2026-09-18T17:07:05Z |
-| 5 | [free-programming-books](https://github.com/EbookFoundation/free-programming-books) | 397135 | 66790 | Python | 39 | :books: Freely available programming books | 2026-09-15T15:54:40Z |
-| 6 | [openclaw](https://github.com/openclaw/openclaw) | 390053 | 82004 | TypeScript | 5008 | The AI that really does things. Any OS. Any Platform. The lobster way. 🦞  | 2026-09-18T22:21:40Z |
-| 7 | [system-design-primer](https://github.com/donnemartin/system-design-primer) | 370661 | 58483 | Python | 280 | Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards. | 2026-09-15T01:10:09Z |
-| 8 | [developer-roadmap](https://github.com/nilbuild/developer-roadmap) | 367624 | 44960 | TypeScript | 0 | Interactive roadmaps, guides and other educational content to help developers grow in their careers. | 2026-09-18T08:51:13Z |
-| 9 | [coding-interview-university](https://github.com/jwasham/coding-interview-university) | 361166 | 84840 | None | 82 | A complete computer science study plan to become a software engineer. | 2025-08-28T14:42:47Z |
-| 10 | [awesome-python](https://github.com/vinta/awesome-python) | 321545 | 28759 | Python | 0 | The definitive list that answers "I want to do X in Python, which tool should I use?" | 2026-09-18T22:11:03Z |
+| 1 | [build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | 548250 | 51541 | Markdown | 277 | Master programming by recreating your favorite technologies from scratch. | 2026-07-14T19:25:58Z |
+| 2 | [awesome](https://github.com/sindresorhus/awesome) | 507859 | 36957 | None | 16 | 😎 Awesome lists about all kinds of interesting topics [NOTE: Pull requests are temporarily disabled until I have a chance to catch up with the existing ones] | 2026-09-02T02:10:47Z |
+| 3 | [public-apis](https://github.com/public-apis/public-apis) | 481619 | 53184 | Python | 37 | A collective list of free APIs | 2026-09-18T19:39:43Z |
+| 4 | [freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) | 455783 | 46782 | TypeScript | 124 | freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free. | 2026-09-19T17:52:32Z |
+| 5 | [free-programming-books](https://github.com/EbookFoundation/free-programming-books) | 397246 | 66798 | Python | 40 | :books: Freely available programming books | 2026-09-15T15:54:40Z |
+| 6 | [openclaw](https://github.com/openclaw/openclaw) | 390096 | 82027 | TypeScript | 5195 | The AI that really does things. Any OS. Any Platform. The lobster way. 🦞  | 2026-09-19T22:10:51Z |
+| 7 | [system-design-primer](https://github.com/donnemartin/system-design-primer) | 370767 | 58488 | Python | 280 | Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards. | 2026-09-15T01:10:09Z |
+| 8 | [developer-roadmap](https://github.com/nilbuild/developer-roadmap) | 367713 | 44961 | TypeScript | 0 | Interactive roadmaps, guides and other educational content to help developers grow in their careers. | 2026-09-18T08:51:13Z |
+| 9 | [coding-interview-university](https://github.com/jwasham/coding-interview-university) | 361207 | 84837 | None | 83 | A complete computer science study plan to become a software engineer. | 2025-08-28T14:42:47Z |
+| 10 | [awesome-python](https://github.com/vinta/awesome-python) | 321744 | 28763 | Python | 0 | The definitive list that answers "I want to do X in Python, which tool should I use?" | 2026-09-18T22:11:03Z |
 
 
 ## Most Forks
@@ -91,16 +91,16 @@ This is top 10, for more click **[Top 100 Forks](Top100/Top-100-forks.md)**
 
 | Ranking | Project Name | Stars | Forks | Language | Open Issues | Description | Last Commit |
 | ------- | ------------ | ----- | ----- | -------- | ----------- | ----------- | ----------- |
-| 1 | [datasharing](https://github.com/jtleek/datasharing) | 6759 | 241838 | None | 308 | The Leek group guide to data sharing  | 2024-08-07T08:29:32Z |
-| 2 | [Spoon-Knife](https://github.com/octocat/Spoon-Knife) | 14043 | 159412 | HTML | 2816 | This repo is for demonstration purposes only. | 2024-08-21T15:25:42Z |
-| 3 | [ProgrammingAssignment2](https://github.com/rdpeng/ProgrammingAssignment2) | 892 | 143341 | R | 204 | Repository for Programming Assignment 2 for R Programming on Coursera | 2024-08-14T21:14:33Z |
-| 4 | [first-contributions](https://github.com/firstcontributions/first-contributions) | 55984 | 109626 | None | 17 | 🚀✨ Help beginners to contribute to open source projects | 2026-09-18T22:08:04Z |
-| 5 | [claw-code](https://github.com/ultraworkers/claw-code) | 195260 | 108495 | Rust | 18 | An agent-managed museum exhibit, built in Rust with Gajae-Code / LazyCodex — developed and maintained with no human intervention. | 2026-08-16T06:18:45Z |
-| 6 | [css-exercises](https://github.com/TheOdinProject/css-exercises) | 2717 | 93982 | HTML | 0 | None | 2026-08-22T19:48:08Z |
-| 7 | [Complete-Python-3-Bootcamp](https://github.com/Pierian-Data/Complete-Python-3-Bootcamp) | 29774 | 87212 | Jupyter Notebook | 156 | Course Files for Complete Python 3 Bootcamp Course on Udemy | 2025-06-24T04:54:16Z |
-| 8 | [SmartThingsPublic](https://github.com/SmartThingsCommunity/SmartThingsPublic) | 2660 | 86435 | Groovy | 72 | SmartThings open-source DeviceType Handlers and SmartApps code | 2023-07-18T18:42:27Z |
-| 9 | [coding-interview-university](https://github.com/jwasham/coding-interview-university) | 361166 | 84840 | None | 82 | A complete computer science study plan to become a software engineer. | 2025-08-28T14:42:47Z |
-| 10 | [gitignore](https://github.com/github/gitignore) | 175828 | 82186 | None | 0 | A collection of useful .gitignore templates | 2026-09-11T16:15:42Z |
+| 1 | [datasharing](https://github.com/jtleek/datasharing) | 6759 | 241828 | None | 308 | The Leek group guide to data sharing  | 2024-08-07T08:29:32Z |
+| 2 | [Spoon-Knife](https://github.com/octocat/Spoon-Knife) | 14045 | 159436 | HTML | 2819 | This repo is for demonstration purposes only. | 2024-08-21T15:25:42Z |
+| 3 | [ProgrammingAssignment2](https://github.com/rdpeng/ProgrammingAssignment2) | 892 | 143342 | R | 204 | Repository for Programming Assignment 2 for R Programming on Coursera | 2024-08-14T21:14:33Z |
+| 4 | [first-contributions](https://github.com/firstcontributions/first-contributions) | 56000 | 109669 | None | 17 | 🚀✨ Help beginners to contribute to open source projects | 2026-09-19T22:00:05Z |
+| 5 | [claw-code](https://github.com/ultraworkers/claw-code) | 195268 | 108492 | Rust | 18 | An agent-managed museum exhibit, built in Rust with Gajae-Code / LazyCodex — developed and maintained with no human intervention. | 2026-08-16T06:18:45Z |
+| 6 | [css-exercises](https://github.com/TheOdinProject/css-exercises) | 2717 | 93996 | HTML | 0 | None | 2026-08-22T19:48:08Z |
+| 7 | [Complete-Python-3-Bootcamp](https://github.com/Pierian-Data/Complete-Python-3-Bootcamp) | 29775 | 87206 | Jupyter Notebook | 156 | Course Files for Complete Python 3 Bootcamp Course on Udemy | 2025-06-24T04:54:16Z |
+| 8 | [SmartThingsPublic](https://github.com/SmartThingsCommunity/SmartThingsPublic) | 2661 | 86427 | Groovy | 72 | SmartThings open-source DeviceType Handlers and SmartApps code | 2023-07-18T18:42:27Z |
+| 9 | [coding-interview-university](https://github.com/jwasham/coding-interview-university) | 361207 | 84837 | None | 83 | A complete computer science study plan to become a software engineer. | 2025-08-28T14:42:47Z |
+| 10 | [gitignore](https://github.com/github/gitignore) | 175843 | 82188 | None | 0 | A collection of useful .gitignore templates | 2026-09-11T16:15:42Z |
 
 
 ## ActionScript
@@ -109,7 +109,7 @@ This is top 10, for more click **[Top 100 Stars in ActionScript](Top100/ActionSc
 
 | Ranking | Project Name | Stars | Forks | Language | Open Issues | Description | Last Commit |
 | ------- | ------------ | ----- | ----- | -------- | ----------- | ----------- | ----------- |
-| 1 | [VVVVVV](https://github.com/TerryCavanagh/VVVVVV) | 8024 | 601 | ActionScript | 29 | The source code to VVVVVV! http://thelettervsixtim.es/ | 2026-08-24T14:33:55Z |
+| 1 | [VVVVVV](https://github.com/TerryCavanagh/VVVVVV) | 8023 | 601 | ActionScript | 29 | The source code to VVVVVV! http://thelettervsixtim.es/ | 2026-08-24T14:33:55Z |
 | 2 | [open-source-flash](https://github.com/open-source-flash/open-source-flash) | 7315 | 112 | ActionScript | 25 | Petition to open source Flash and Shockwave spec | 2021-02-24T08:44:01Z |
 | 3 | [Starling-Framework](https://github.com/Gamua/Starling-Framework) | 3106 | 811 | ActionScript | 77 | The Cross Platform Game Engine | 2026-07-17T08:08:05Z |
 | 4 | [webcamjs](https://github.com/jhuckaby/webcamjs) | 2510 | 1096 | ActionScript | 154 | HTML5 Webcam Image Capture Library with Flash Fallback | 2020-04-22T07:50:12Z |
@@ -127,16 +127,16 @@ This is top 10, for more click **[Top 100 Stars in C](Top100/C.md)**
 
 | Ranking | Project Name | Stars | Forks | Language | Open Issues | Description | Last Commit |
 | ------- | ------------ | ----- | ----- | -------- | ----------- | ----------- | ----------- |
-| 1 | [linux](https://github.com/torvalds/linux) | 249431 | 65054 | C | 0 | Linux kernel source tree | 2026-09-18T21:10:33Z |
-| 2 | [scrcpy](https://github.com/Genymobile/scrcpy) | 149935 | 13768 | C | 2810 | Display and control your Android device | 2026-09-18T20:54:51Z |
-| 3 | [PowerToys](https://github.com/microsoft/PowerToys) | 138819 | 8585 | C | 7564 | Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on Windows | 2026-09-18T21:12:10Z |
-| 4 | [Ventoy](https://github.com/ventoy/Ventoy) | 79357 | 4939 | C | 910 | A new bootable USB solution. | 2026-08-06T04:51:23Z |
-| 5 | [redis](https://github.com/redis/redis) | 76402 | 24809 | C | 2263 | For developers, who are building real-time data-driven applications, Redis is the preferred, fastest, and most feature-rich cache, data structure server, and document and vector query engine. | 2026-09-17T15:06:55Z |
-| 6 | [obs-studio](https://github.com/obsproject/obs-studio) | 76374 | 10228 | C | 814 | OBS Studio - Free and open source software for live streaming and screen recording | 2026-09-18T22:22:33Z |
-| 7 | [codegraph](https://github.com/colbymchenry/codegraph) | 71428 | 4596 | C | 176 | Pre-indexed code knowledge graph, auto syncs on code changes, for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro, CoPilot, and Hermes Agent — fewer tokens, fewer tool calls, 100% local | 2026-09-16T18:43:52Z |
-| 8 | [FFmpeg](https://github.com/FFmpeg/FFmpeg) | 64332 | 14277 | C | 0 | Mirror of https://git.ffmpeg.org/ffmpeg.git | 2026-09-18T19:52:44Z |
-| 9 | [git](https://github.com/git/git) | 63226 | 28411 | C | 0 | Git Source Code Mirror - This is a publish-only repository but pull requests can be turned into patches to the mailing list via GitGitGadget (https://gitgitgadget.github.io/). Please follow Documentation/SubmittingPatches procedure for any of your improvements. | 2026-09-17T22:52:17Z |
-| 10 | [tmux](https://github.com/tmux/tmux) | 49334 | 2894 | C | 26 | tmux source code | 2026-09-17T05:16:47Z |
+| 1 | [linux](https://github.com/torvalds/linux) | 249541 | 65169 | C | 0 | Linux kernel source tree | 2026-09-19T21:30:10Z |
+| 2 | [scrcpy](https://github.com/Genymobile/scrcpy) | 150015 | 13772 | C | 2811 | Display and control your Android device | 2026-09-19T08:54:25Z |
+| 3 | [PowerToys](https://github.com/microsoft/PowerToys) | 138838 | 8587 | C | 7567 | Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on Windows | 2026-09-19T20:42:32Z |
+| 4 | [Ventoy](https://github.com/ventoy/Ventoy) | 79381 | 4942 | C | 910 | A new bootable USB solution. | 2026-08-06T04:51:23Z |
+| 5 | [obs-studio](https://github.com/obsproject/obs-studio) | 76409 | 10238 | C | 815 | OBS Studio - Free and open source software for live streaming and screen recording | 2026-09-19T01:02:49Z |
+| 6 | [redis](https://github.com/redis/redis) | 76405 | 24812 | C | 2264 | For developers, who are building real-time data-driven applications, Redis is the preferred, fastest, and most feature-rich cache, data structure server, and document and vector query engine. | 2026-09-17T15:06:55Z |
+| 7 | [codegraph](https://github.com/colbymchenry/codegraph) | 71492 | 4598 | C | 177 | Pre-indexed code knowledge graph, auto syncs on code changes, for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro, CoPilot, and Hermes Agent — fewer tokens, fewer tool calls, 100% local | 2026-09-16T18:43:52Z |
+| 8 | [FFmpeg](https://github.com/FFmpeg/FFmpeg) | 64355 | 14282 | C | 0 | Mirror of https://git.ffmpeg.org/ffmpeg.git | 2026-09-19T22:04:44Z |
+| 9 | [git](https://github.com/git/git) | 63244 | 28418 | C | 0 | Git Source Code Mirror - This is a publish-only repository but pull requests can be turned into patches to the mailing list via GitGitGadget (https://gitgitgadget.github.io/). Please follow Documentation/SubmittingPatches procedure for any of your improvements. | 2026-09-17T22:52:17Z |
+| 10 | [tmux](https://github.com/tmux/tmux) | 49346 | 2899 | C | 29 | tmux source code | 2026-09-19T06:38:05Z |
 
 
 ## C\#
@@ -145,16 +145,16 @@ This is top 10, for more click **[Top 100 Stars in C\#](Top100/CSharp.md)**
 
 | Ranking | Project Name | Stars | Forks | Language | Open Issues | Description | Last Commit |
 | ------- | ------------ | ----- | ----- | -------- | ----------- | ----------- | ----------- |
-| 1 | [v2rayN](https://github.com/2dust/v2rayN) | 116460 | 15942 | C# | 23 | A GUI client for Windows, Linux and macOS, support Xray and sing-box and others | 2026-09-18T18:46:25Z |
-| 2 | [shadowsocks-windows](https://github.com/shadowsocks/shadowsocks-windows) | 59551 | 16180 | C# | 189 | A C# port of shadowsocks | 2025-01-01T08:09:55Z |
-| 3 | [jellyfin](https://github.com/jellyfin/jellyfin) | 57275 | 5526 | C# | 421 | The Free Software Media System - Server Backend & API | 2026-09-18T03:20:20Z |
-| 4 | [PowerShell](https://github.com/PowerShell/PowerShell) | 55451 | 8460 | C# | 1270 | PowerShell for every system! | 2026-09-18T21:11:59Z |
-| 5 | [Files](https://github.com/files-community/Files) | 45519 | 2918 | C# | 437 | A modern file manager that helps users organize their files and folders. | 2026-09-17T21:50:31Z |
-| 6 | [ShareX](https://github.com/ShareX/ShareX) | 39636 | 3919 | C# | 628 | ShareX is a free and open-source application that enables users to capture or record any area of their screen with a single keystroke. It also supports uploading images, text, and various file types to a wide range of destinations. | 2026-09-18T03:15:30Z |
-| 7 | [RevokeMsgPatcher](https://github.com/huiyadanli/RevokeMsgPatcher) | 38796 | 4065 | C# | 57 | :trollface: A hex editor for WeChat/QQ/TIM - PC版微信/QQ/TIM防撤回补丁（我已经看到了，撤回也没用了） | 2026-08-16T12:51:44Z |
-| 8 | [aspnetcore](https://github.com/dotnet/aspnetcore) | 38449 | 11422 | C# | 3800 | ASP.NET Core is a cross-platform .NET framework for building modern cloud-based web applications on Windows, Mac, or Linux. | 2026-09-18T21:54:03Z |
-| 9 | [DevToys](https://github.com/DevToys-app/DevToys) | 32013 | 1756 | C# | 334 | A Swiss Army knife for developers. | 2026-02-25T11:53:38Z |
-| 10 | [Avalonia](https://github.com/AvaloniaUI/Avalonia) | 31524 | 2825 | C# | 1832 | Develop Desktop, Embedded, Mobile and WebAssembly apps with C# and XAML. The future of .NET UI | 2026-09-18T18:22:20Z |
+| 1 | [v2rayN](https://github.com/2dust/v2rayN) | 116527 | 15951 | C# | 8 | A GUI client for Windows, Linux and macOS, support Xray and sing-box and others | 2026-09-19T09:38:51Z |
+| 2 | [shadowsocks-windows](https://github.com/shadowsocks/shadowsocks-windows) | 59552 | 16179 | C# | 189 | A C# port of shadowsocks | 2025-01-01T08:09:55Z |
+| 3 | [jellyfin](https://github.com/jellyfin/jellyfin) | 57298 | 5531 | C# | 423 | The Free Software Media System - Server Backend & API | 2026-09-18T22:41:39Z |
+| 4 | [PowerShell](https://github.com/PowerShell/PowerShell) | 55455 | 8460 | C# | 1270 | PowerShell for every system! | 2026-09-18T23:23:19Z |
+| 5 | [Files](https://github.com/files-community/Files) | 45539 | 2918 | C# | 438 | A modern file manager that helps users organize their files and folders. | 2026-09-17T21:50:31Z |
+| 6 | [ShareX](https://github.com/ShareX/ShareX) | 39653 | 3916 | C# | 632 | ShareX is a free and open-source application that enables users to capture or record any area of their screen with a single keystroke. It also supports uploading images, text, and various file types to a wide range of destinations. | 2026-09-19T06:05:32Z |
+| 7 | [RevokeMsgPatcher](https://github.com/huiyadanli/RevokeMsgPatcher) | 38801 | 4066 | C# | 57 | :trollface: A hex editor for WeChat/QQ/TIM - PC版微信/QQ/TIM防撤回补丁（我已经看到了，撤回也没用了） | 2026-08-16T12:51:44Z |
+| 8 | [aspnetcore](https://github.com/dotnet/aspnetcore) | 38453 | 11516 | C# | 3798 | ASP.NET Core is a cross-platform .NET framework for building modern cloud-based web applications on Windows, Mac, or Linux. | 2026-09-19T19:19:17Z |
+| 9 | [DevToys](https://github.com/DevToys-app/DevToys) | 32014 | 1757 | C# | 334 | A Swiss Army knife for developers. | 2026-02-25T11:53:38Z |
+| 10 | [Avalonia](https://github.com/AvaloniaUI/Avalonia) | 31529 | 2825 | C# | 1833 | Develop Desktop, Embedded, Mobile and WebAssembly apps with C# and XAML. The future of .NET UI | 2026-09-18T18:22:20Z |
 
 
 ## C\+\+
@@ -163,16 +163,16 @@ This is top 10, for more click **[Top 100 Stars in C\+\+](Top100/CPP.md)**
 
 | Ranking | Project Name | Stars | Forks | Language | Open Issues | Description | Last Commit |
 | ------- | ------------ | ----- | ----- | -------- | ----------- | ----------- | ----------- |
-| 1 | [tensorflow](https://github.com/tensorflow/tensorflow) | 200174 | 76806 | C++ | 682 | An Open Source Machine Learning Framework for Everyone | 2026-09-18T22:23:06Z |
-| 2 | [llama.cpp](https://github.com/ggml-org/llama.cpp) | 128729 | 23404 | C++ | 898 | LLM inference in C/C++ | 2026-09-18T22:05:11Z |
-| 3 | [react-native](https://github.com/react/react-native) | 126647 | 25278 | C++ | 703 | A framework for building native applications using React | 2026-09-18T22:20:16Z |
-| 4 | [electron](https://github.com/electron/electron) | 123144 | 17537 | C++ | 627 | :electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS | 2026-09-18T22:18:14Z |
-| 5 | [godot](https://github.com/godotengine/godot) | 117427 | 26796 | C++ | 13473 | Godot Engine – Multi-platform 2D and 3D game engine | 2026-09-18T15:48:00Z |
-| 6 | [terminal](https://github.com/microsoft/terminal) | 104929 | 9601 | C++ | 1675 | The new Windows Terminal and the original Windows console host, all in the same place! | 2026-09-18T20:26:33Z |
-| 7 | [opencv](https://github.com/opencv/opencv) | 90889 | 57030 | C++ | 2534 | Open Source Computer Vision Library | 2026-09-18T11:56:16Z |
-| 8 | [bitcoin](https://github.com/bitcoin/bitcoin) | 90200 | 39396 | C++ | 333 | Bitcoin Core integration/staging tree | 2026-09-18T14:47:16Z |
-| 9 | [gpt4all](https://github.com/nomic-ai/gpt4all) | 77394 | 8289 | C++ | 730 | GPT4All: Run Local LLMs on Any Device. Open-source and available for commercial use. | 2025-05-27T20:05:19Z |
-| 10 | [tesseract](https://github.com/tesseract-ocr/tesseract) | 76564 | 10805 | C++ | 436 | Tesseract Open Source OCR Engine (main repository) | 2026-09-11T05:17:27Z |
+| 1 | [tensorflow](https://github.com/tensorflow/tensorflow) | 200195 | 76911 | C++ | 685 | An Open Source Machine Learning Framework for Everyone | 2026-09-19T21:29:14Z |
+| 2 | [llama.cpp](https://github.com/ggml-org/llama.cpp) | 128847 | 23455 | C++ | 892 | LLM inference in C/C++ | 2026-09-19T20:51:52Z |
+| 3 | [react-native](https://github.com/react/react-native) | 126660 | 25282 | C++ | 704 | A framework for building native applications using React | 2026-09-19T21:52:23Z |
+| 4 | [electron](https://github.com/electron/electron) | 123161 | 17540 | C++ | 625 | :electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS | 2026-09-19T14:48:17Z |
+| 5 | [godot](https://github.com/godotengine/godot) | 117470 | 26801 | C++ | 13479 | Godot Engine – Multi-platform 2D and 3D game engine | 2026-09-18T15:48:00Z |
+| 6 | [terminal](https://github.com/microsoft/terminal) | 104939 | 9605 | C++ | 1676 | The new Windows Terminal and the original Windows console host, all in the same place! | 2026-09-18T20:26:33Z |
+| 7 | [opencv](https://github.com/opencv/opencv) | 90895 | 57033 | C++ | 2535 | Open Source Computer Vision Library | 2026-09-19T11:33:43Z |
+| 8 | [bitcoin](https://github.com/bitcoin/bitcoin) | 90206 | 39399 | C++ | 333 | Bitcoin Core integration/staging tree | 2026-09-19T16:12:29Z |
+| 9 | [gpt4all](https://github.com/nomic-ai/gpt4all) | 77387 | 8288 | C++ | 730 | GPT4All: Run Local LLMs on Any Device. Open-source and available for commercial use. | 2025-05-27T20:05:19Z |
+| 10 | [tesseract](https://github.com/tesseract-ocr/tesseract) | 76572 | 10806 | C++ | 436 | Tesseract Open Source OCR Engine (main repository) | 2026-09-11T05:17:27Z |
 
 
 ## Clojure
@@ -181,15 +181,15 @@ This is top 10, for more click **[Top 100 Stars in Clojure](Top100/Clojure.md)**
 
 | Ranking | Project Name | Stars | Forks | Language | Open Issues | Description | Last Commit |
 | ------- | ------------ | ----- | ----- | -------- | ----------- | ----------- | ----------- |
-| 1 | [FiraCode](https://github.com/tonsky/FiraCode) | 82021 | 3187 | Clojure | 422 | Free monospaced font with programming ligatures | 2026-07-28T17:02:16Z |
-| 2 | [penpot](https://github.com/penpot/penpot) | 60140 | 4113 | Clojure | 714 | Penpot: The open-source design platform for Product teams that need scalable collaboration. | 2026-09-18T17:05:40Z |
-| 3 | [metabase](https://github.com/metabase/metabase) | 49334 | 6828 | Clojure | 3786 | The easy-to-use open source Business Intelligence and Embedded Analytics tool that lets everyone work with data :bar_chart: | 2026-09-18T22:19:56Z |
-| 4 | [logseq](https://github.com/logseq/logseq) | 44972 | 2815 | Clojure | 837 | A privacy-first, open-source platform for knowledge management and collaboration. Download link:  http://github.com/logseq/logseq/releases. roadmap: https://logseq.io/p/NX4mc_ggEV | 2026-09-18T17:42:06Z |
+| 1 | [FiraCode](https://github.com/tonsky/FiraCode) | 82024 | 3189 | Clojure | 422 | Free monospaced font with programming ligatures | 2026-07-28T17:02:16Z |
+| 2 | [penpot](https://github.com/penpot/penpot) | 60173 | 4120 | Clojure | 715 | Penpot: The open-source design platform for Product teams that need scalable collaboration. | 2026-09-19T22:05:03Z |
+| 3 | [metabase](https://github.com/metabase/metabase) | 49337 | 6831 | Clojure | 3787 | The easy-to-use open source Business Intelligence and Embedded Analytics tool that lets everyone work with data :bar_chart: | 2026-09-19T21:14:28Z |
+| 4 | [logseq](https://github.com/logseq/logseq) | 44981 | 2816 | Clojure | 838 | A privacy-first, open-source platform for knowledge management and collaboration. Download link:  http://github.com/logseq/logseq/releases. roadmap: https://logseq.io/p/NX4mc_ggEV | 2026-09-19T19:09:31Z |
 | 5 | [LightTable](https://github.com/LightTable/LightTable) | 11687 | 912 | Clojure | 164 | The Light Table IDE ⛺ | 2022-06-17T00:20:21Z |
 | 6 | [clojurescript](https://github.com/clojure/clojurescript) | 9390 | 784 | Clojure | 0 | Clojure to JS compiler | 2026-08-10T01:25:46Z |
-| 7 | [jepsen](https://github.com/jepsen-io/jepsen) | 7498 | 754 | Clojure | 66 | A framework for distributed systems verification, with fault injection | 2026-09-03T20:27:13Z |
+| 7 | [jepsen](https://github.com/jepsen-io/jepsen) | 7500 | 754 | Clojure | 66 | A framework for distributed systems verification, with fault injection | 2026-09-03T20:27:13Z |
 | 8 | [leiningen](https://github.com/technomancy/leiningen) | 7296 | 1568 | Clojure | 87 | Moved to Codeberg; this is a temporary convenience mirror | 2026-06-08T15:12:19Z |
-| 9 | [om](https://github.com/omcljs/om) | 6619 | 352 | Clojure | 68 | ClojureScript interface to Facebook's React | 2020-08-17T12:30:25Z |
+| 9 | [om](https://github.com/omcljs/om) | 6618 | 352 | Clojure | 68 | ClojureScript interface to Facebook's React | 2020-08-17T12:30:25Z |
 | 10 | [athens](https://github.com/athensresearch/athens) | 6298 | 396 | Clojure | 295 | Athens is no longer maintainted. Athens was an open-source, collaborative knowledge graph, backed by YC W21 | 2023-02-03T12:32:15Z |
 
 
@@ -200,9 +200,9 @@ This is top 10, for more click **[Top 100 Stars in CoffeeScript](Top100/CoffeeSc
 | Ranking | Project Name | Stars | Forks | Language | Open Issues | Description | Last Commit |
 | ------- | ------------ | ----- | ----- | -------- | ----------- | ----------- | ----------- |
 | 1 | [SwitchyOmega](https://github.com/FelisCatus/SwitchyOmega) | 22611 | 3633 | CoffeeScript | 804 | No longer maintained, see pinned issues | 2024-12-27T12:00:30Z |
-| 2 | [mojs](https://github.com/mojs/mojs) | 18775 | 889 | CoffeeScript | 37 | The motion graphics toolbelt for the web | 2026-07-30T16:54:33Z |
-| 3 | [coffeescript](https://github.com/jashkenas/coffeescript) | 16603 | 1981 | CoffeeScript | 75 | Unfancy JavaScript | 2024-03-22T14:04:00Z |
-| 4 | [zxcvbn](https://github.com/dropbox/zxcvbn) | 16053 | 1002 | CoffeeScript | 120 | Low-Budget Password Strength Estimation | 2024-08-19T09:54:34Z |
+| 2 | [mojs](https://github.com/mojs/mojs) | 18775 | 888 | CoffeeScript | 37 | The motion graphics toolbelt for the web | 2026-07-30T16:54:33Z |
+| 3 | [coffeescript](https://github.com/jashkenas/coffeescript) | 16602 | 1981 | CoffeeScript | 75 | Unfancy JavaScript | 2024-03-22T14:04:00Z |
+| 4 | [zxcvbn](https://github.com/dropbox/zxcvbn) | 16052 | 1002 | CoffeeScript | 120 | Low-Budget Password Strength Estimation | 2024-08-19T09:54:34Z |
 | 5 | [dynamics.js](https://github.com/michaelvillar/dynamics.js) | 7540 | 402 | CoffeeScript | 8 | Javascript library to create physics-based animations | 2019-02-26T06:19:21Z |
 | 6 | [morris.js](https://github.com/morrisjs/morris.js) | 6874 | 1190 | CoffeeScript | 283 | Pretty time-series line graphs | 2021-10-07T12:56:12Z |
 | 7 | [At.js](https://github.com/ichord/At.js) | 5239 | 649 | CoffeeScript | 149 | Add Github like mentions autocomplete to your application. | 2021-11-18T12:53:24Z |
@@ -217,16 +217,16 @@ This is top 10, for more click **[Top 100 Stars in CSS](Top100/CSS.md)**
 
 | Ranking | Project Name | Stars | Forks | Language | Open Issues | Description | Last Commit |
 | ------- | ------------ | ----- | ----- | -------- | ----------- | ----------- | ----------- |
-| 1 | [animate.css](https://github.com/animate-css/animate.css) | 82800 | 15893 | CSS | 43 | 🍿 A cross-browser library of CSS animations. As easy to use as an easy thing. | 2024-07-29T19:34:21Z |
-| 2 | [nerd-fonts](https://github.com/ryanoasis/nerd-fonts) | 64661 | 3954 | CSS | 17 | Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more | 2026-09-05T16:32:47Z |
-| 3 | [normalize.css](https://github.com/necolas/normalize.css) | 53521 | 10320 | CSS | 47 | A modern alternative to CSS resets | 2024-06-12T20:36:06Z |
+| 1 | [animate.css](https://github.com/animate-css/animate.css) | 82805 | 15892 | CSS | 43 | 🍿 A cross-browser library of CSS animations. As easy to use as an easy thing. | 2024-07-29T19:34:21Z |
+| 2 | [nerd-fonts](https://github.com/ryanoasis/nerd-fonts) | 64668 | 3955 | CSS | 17 | Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more | 2026-09-05T16:32:47Z |
+| 3 | [normalize.css](https://github.com/necolas/normalize.css) | 53523 | 10320 | CSS | 47 | A modern alternative to CSS resets | 2024-06-12T20:36:06Z |
 | 4 | [bulma](https://github.com/jgthms/bulma) | 50056 | 3877 | CSS | 351 | Modern CSS framework based on Flexbox | 2026-03-01T20:13:02Z |
 | 5 | [CppCoreGuidelines](https://github.com/isocpp/CppCoreGuidelines) | 45317 | 5556 | CSS | 238 | The C++ Core Guidelines are a set of tried-and-true guidelines, rules, and best practices about coding in C++ | 2026-08-06T15:54:13Z |
-| 6 | [50projects50days](https://github.com/bradtraversy/50projects50days) | 40644 | 9722 | CSS | 0 | 50+ mini web projects using HTML, CSS & JS | 2025-02-26T13:49:39Z |
-| 7 | [freecodecamp.cn](https://github.com/FreeCodeCampChina/freecodecamp.cn) | 37789 | 1419 | CSS | 143 | FCC China open source codebase and curriculum. Learn to code and help nonprofits. | 2023-07-16T16:48:59Z |
-| 8 | [awesome-english-ebooks](https://github.com/hehonghui/awesome-english-ebooks) | 36558 | 3051 | CSS | 0 | 经济学人(含音频)、纽约客、卫报、连线、大西洋月刊等英语杂志免费下载,支持epub、mobi、pdf格式, 每周更新 | 2026-09-18T21:46:00Z |
-| 9 | [hallmark](https://github.com/Nutlope/hallmark) | 28854 | 1484 | CSS | 20 | Anti-AI-slop design skill for Claude Code, Cursor, and Codex. | 2026-08-06T16:19:18Z |
-| 10 | [hangzhou_house_knowledge](https://github.com/houshanren/hangzhou_house_knowledge) | 26862 | 5170 | CSS | 98 | 2017年买房经历总结出来的买房购房知识分享给大家，希望对大家有所帮助。买房不易，且买且珍惜。Sharing the knowledge of buy an own house that according  to the experience at hangzhou in 2017 to all the people. It's not easy to buy a own house, so I hope that it would be useful to everyone. | 2022-02-28T10:57:30Z |
+| 6 | [50projects50days](https://github.com/bradtraversy/50projects50days) | 40646 | 9722 | CSS | 0 | 50+ mini web projects using HTML, CSS & JS | 2025-02-26T13:49:39Z |
+| 7 | [freecodecamp.cn](https://github.com/FreeCodeCampChina/freecodecamp.cn) | 37790 | 1419 | CSS | 143 | FCC China open source codebase and curriculum. Learn to code and help nonprofits. | 2023-07-16T16:48:59Z |
+| 8 | [awesome-english-ebooks](https://github.com/hehonghui/awesome-english-ebooks) | 36619 | 3054 | CSS | 0 | 经济学人(含音频)、纽约客、卫报、连线、大西洋月刊等英语杂志免费下载,支持epub、mobi、pdf格式, 每周更新 | 2026-09-18T21:46:00Z |
+| 9 | [hallmark](https://github.com/Nutlope/hallmark) | 28908 | 1487 | CSS | 20 | Anti-AI-slop design skill for Claude Code, Cursor, and Codex. | 2026-08-06T16:19:18Z |
+| 10 | [hangzhou_house_knowledge](https://github.com/houshanren/hangzhou_house_knowledge) | 26860 | 5170 | CSS | 98 | 2017年买房经历总结出来的买房购房知识分享给大家，希望对大家有所帮助。买房不易，且买且珍惜。Sharing the knowledge of buy an own house that according  to the experience at hangzhou in 2017 to all the people. It's not easy to buy a own house, so I hope that it would be useful to everyone. | 2022-02-28T10:57:30Z |
 
 
 ## Dart
@@ -235,16 +235,16 @@ This is top 10, for more click **[Top 100 Stars in Dart](Top100/Dart.md)**
 
 | Ranking | Project Name | Stars | Forks | Language | Open Issues | Description | Last Commit |
 | ------- | ------------ | ----- | ----- | -------- | ----------- | ----------- | ----------- |
-| 1 | [flutter](https://github.com/flutter/flutter) | 179002 | 31589 | Dart | 12636 | Flutter makes it easy and fast to build beautiful apps for mobile and beyond | 2026-09-18T21:39:48Z |
-| 2 | [localsend](https://github.com/localsend/localsend) | 92024 | 5135 | Dart | 1018 | An open-source cross-platform alternative to AirDrop | 2026-09-14T13:10:57Z |
-| 3 | [AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) | 76827 | 6021 | Dart | 916 | Bring projects, wikis, and teams together with AI. AppFlowy is the AI collaborative workspace where you achieve more without losing control of your data. The leading open source Notion alternative. | 2026-09-15T12:19:07Z |
-| 4 | [awesome-flutter](https://github.com/Solido/awesome-flutter) | 61232 | 6916 | Dart | 0 | An awesome list that curates the best Flutter libraries, tools, tutorials, articles and more. | 2026-09-03T04:34:54Z |
-| 5 | [FlClash](https://github.com/chen08209/FlClash) | 52610 | 3321 | Dart | 287 | A multi-platform proxy client based on ClashMeta,simple and easy to use, open-source and ad-free. | 2026-09-17T01:50:47Z |
-| 6 | [spotube](https://github.com/KRTirtho/spotube) | 49259 | 2297 | Dart | 816 | 🎧 Open source music streaming app! Available for both desktop & mobile! | 2026-09-12T04:09:08Z |
-| 7 | [hiddify-app](https://github.com/hiddify/hiddify-app) | 32786 | 3036 | Dart | 16 | Multi-platform auto-proxy client, supporting Sing-box, X-ray, TUIC, Hysteria, Reality, Trojan, SSH etc. It’s an open-source, secure and ad-free. | 2026-08-10T17:43:24Z |
-| 8 | [Kazumi](https://github.com/Predidit/Kazumi) | 30039 | 898 | Dart | 491 | 基于自定义规则的番剧采集APP，支持流媒体在线观看，支持弹幕，支持实时超分辨率。 | 2026-09-17T11:28:18Z |
-| 9 | [ente](https://github.com/ente/ente) | 28956 | 1805 | Dart | 215 | 💚 End-to-end encrypted cloud for everything. | 2026-09-18T13:26:30Z |
-| 10 | [gopeed](https://github.com/GopeedLab/gopeed) | 26379 | 1720 | Dart | 307 |   A fast, modern download manager for HTTP, BitTorrent, Magnet, and ed2k. Cross-platform, built with Golang and Flutter. | 2026-09-18T16:14:22Z |
+| 1 | [flutter](https://github.com/flutter/flutter) | 179012 | 31661 | Dart | 12650 | Flutter makes it easy and fast to build beautiful apps for mobile and beyond | 2026-09-19T17:49:56Z |
+| 2 | [localsend](https://github.com/localsend/localsend) | 92132 | 5141 | Dart | 1019 | An open-source cross-platform alternative to AirDrop | 2026-09-14T13:10:57Z |
+| 3 | [AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) | 76848 | 6025 | Dart | 915 | Bring projects, wikis, and teams together with AI. AppFlowy is the AI collaborative workspace where you achieve more without losing control of your data. The leading open source Notion alternative. | 2026-09-19T07:46:37Z |
+| 4 | [awesome-flutter](https://github.com/Solido/awesome-flutter) | 61243 | 6918 | Dart | 0 | An awesome list that curates the best Flutter libraries, tools, tutorials, articles and more. | 2026-09-03T04:34:54Z |
+| 5 | [FlClash](https://github.com/chen08209/FlClash) | 52701 | 3325 | Dart | 287 | A multi-platform proxy client based on ClashMeta,simple and easy to use, open-source and ad-free. | 2026-09-19T17:43:38Z |
+| 6 | [spotube](https://github.com/KRTirtho/spotube) | 49289 | 2298 | Dart | 816 | 🎧 Open source music streaming app! Available for both desktop & mobile! | 2026-09-12T04:09:08Z |
+| 7 | [hiddify-app](https://github.com/hiddify/hiddify-app) | 32810 | 3036 | Dart | 16 | Multi-platform auto-proxy client, supporting Sing-box, X-ray, TUIC, Hysteria, Reality, Trojan, SSH etc. It’s an open-source, secure and ad-free. | 2026-08-10T17:43:24Z |
+| 8 | [Kazumi](https://github.com/Predidit/Kazumi) | 30072 | 898 | Dart | 493 | 基于自定义规则的番剧采集APP，支持流媒体在线观看，支持弹幕，支持实时超分辨率。 | 2026-09-17T11:28:18Z |
+| 9 | [ente](https://github.com/ente/ente) | 28964 | 1805 | Dart | 215 | 💚 End-to-end encrypted cloud for everything. | 2026-09-19T19:15:38Z |
+| 10 | [gopeed](https://github.com/GopeedLab/gopeed) | 26395 | 1723 | Dart | 308 |   A fast, modern download manager for HTTP, BitTorrent, Magnet, and ed2k. Cross-platform, built with Golang and Flutter. | 2026-09-19T00:16:59Z |
 
 
 ## DM
@@ -253,16 +253,16 @@ This is top 10, for more click **[Top 100 Stars in DM](Top100/DM.md)**
 
 | Ranking | Project Name | Stars | Forks | Language | Open Issues | Description | Last Commit |
 | ------- | ------------ | ----- | ----- | -------- | ----------- | ----------- | ----------- |
-| 1 | [tgstation](https://github.com/tgstation/tgstation) | 1935 | 5319 | DM | 2315 | The /tg/station branch of SS13. | 2026-09-18T18:47:13Z |
-| 2 | [Paradise](https://github.com/ParadiseSS13/Paradise) | 446 | 1329 | DM | 893 | Paradise Station's GitHub main repository. | 2026-09-18T03:58:40Z |
+| 1 | [tgstation](https://github.com/tgstation/tgstation) | 1938 | 5321 | DM | 2323 | The /tg/station branch of SS13. | 2026-09-18T18:47:13Z |
+| 2 | [Paradise](https://github.com/ParadiseSS13/Paradise) | 446 | 1329 | DM | 892 | Paradise Station's GitHub main repository. | 2026-09-19T03:56:33Z |
 | 3 | [Baystation12](https://github.com/Baystation12/Baystation12) | 425 | 1678 | DM | 108 | Baystation's flavor of Space Station 13 | 2026-09-18T05:30:37Z |
-| 4 | [goonstation](https://github.com/goonstation/goonstation) | 406 | 1822 | DM | 3408 | Repository for the Goonstation branch of SS13 | 2026-09-18T21:39:42Z |
+| 4 | [goonstation](https://github.com/goonstation/goonstation) | 406 | 1822 | DM | 3406 | Repository for the Goonstation branch of SS13 | 2026-09-19T06:45:08Z |
 | 5 | [vgstation13](https://github.com/vgstation-coders/vgstation13) | 275 | 550 | DM | 3240 | Butts | 2026-09-13T04:56:44Z |
-| 6 | [BeeStation-Hornet](https://github.com/BeeStation/BeeStation-Hornet) | 215 | 730 | DM | 342 | 99.95% station. 0.05% bees | 2026-09-18T20:44:37Z |
+| 6 | [BeeStation-Hornet](https://github.com/BeeStation/BeeStation-Hornet) | 215 | 730 | DM | 343 | 99.95% station. 0.05% bees | 2026-09-19T05:29:28Z |
 | 7 | [blog](https://github.com/erbing/blog) | 204 | 40 | DM | 0 | 前端基础积累 / 新技术 / Vue / React / H5 / 奇怪的BUG / 面试 / 招聘 | 2020-04-01T16:58:50Z |
 | 8 | [TerraGov-Marine-Corps](https://github.com/tgstation/TerraGov-Marine-Corps) | 187 | 923 | DM | 182 | TGMC: TerraGov Marine Corps, a SS13 mod | 2026-09-03T12:00:17Z |
-| 9 | [cmss13](https://github.com/cmss13-devs/cmss13) | 170 | 943 | DM | 669 | Contains the code for CM-SS13 | 2026-09-18T13:54:18Z |
-| 10 | [Aurora.3](https://github.com/Aurorastation/Aurora.3) | 162 | 559 | DM | 122 | The code for Aurorastation's new base, forked from Baystation12. | 2026-09-18T04:20:37Z |
+| 9 | [cmss13](https://github.com/cmss13-devs/cmss13) | 170 | 943 | DM | 668 | Contains the code for CM-SS13 | 2026-09-19T21:38:50Z |
+| 10 | [Aurora.3](https://github.com/Aurorastation/Aurora.3) | 162 | 559 | DM | 121 | The code for Aurorastation's new base, forked from Baystation12. | 2026-09-19T19:54:55Z |
 
 
 ## Elixir
@@ -271,16 +271,16 @@ This is top 10, for more click **[Top 100 Stars in Elixir](Top100/Elixir.md)**
 
 | Ranking | Project Name | Stars | Forks | Language | Open Issues | Description | Last Commit |
 | ------- | ------------ | ----- | ----- | -------- | ----------- | ----------- | ----------- |
-| 1 | [anoma](https://github.com/anoma/anoma) | 33606 | 4112 | Elixir | 90 | Reference implementation of Anoma | 2026-06-15T14:56:43Z |
-| 2 | [analytics](https://github.com/plausible/analytics) | 29132 | 1868 | Elixir | 26 | Open source, privacy-first web analytics. Lightweight, cookie-free Google Analytics alternative. Self-hosted or cloud. | 2026-09-17T20:12:55Z |
-| 3 | [symphony](https://github.com/openai/symphony) | 27283 | 2822 | Elixir | 0 | Symphony turns project work into isolated, autonomous implementation runs, allowing teams to manage work instead of supervising coding agents. | 2026-09-15T22:14:59Z |
-| 4 | [elixir](https://github.com/elixir-lang/elixir) | 26658 | 3670 | Elixir | 26 | Simple from zero to scale | 2026-09-18T19:35:51Z |
-| 5 | [phoenix](https://github.com/phoenixframework/phoenix) | 23160 | 3111 | Elixir | 15 | Peace of mind from prototype to production | 2026-09-17T21:41:38Z |
+| 1 | [anoma](https://github.com/anoma/anoma) | 33605 | 4112 | Elixir | 90 | Reference implementation of Anoma | 2026-06-15T14:56:43Z |
+| 2 | [analytics](https://github.com/plausible/analytics) | 29145 | 1867 | Elixir | 26 | Open source, privacy-first web analytics. Lightweight, cookie-free Google Analytics alternative. Self-hosted or cloud. | 2026-09-17T20:12:55Z |
+| 3 | [symphony](https://github.com/openai/symphony) | 27287 | 2822 | Elixir | 0 | Symphony turns project work into isolated, autonomous implementation runs, allowing teams to manage work instead of supervising coding agents. | 2026-09-15T22:14:59Z |
+| 4 | [elixir](https://github.com/elixir-lang/elixir) | 26662 | 3670 | Elixir | 26 | Simple from zero to scale | 2026-09-19T20:10:46Z |
+| 5 | [phoenix](https://github.com/phoenixframework/phoenix) | 23165 | 3111 | Elixir | 15 | Peace of mind from prototype to production | 2026-09-17T21:41:38Z |
 | 6 | [awesome-elixir](https://github.com/h4cc/awesome-elixir) | 13167 | 1192 | Elixir | 7 | A curated list of amazingly awesome Elixir and Erlang libraries, resources and shiny things. Updates: | 2025-10-12T18:06:13Z |
-| 7 | [firezone](https://github.com/firezone/firezone) | 9096 | 457 | Elixir | 342 | Blazing-fast remote access | 2026-09-18T09:58:34Z |
-| 8 | [teslamate](https://github.com/teslamate-org/teslamate) | 9002 | 1006 | Elixir | 48 | A self-hosted data logger for your Tesla  🚘 [main maintainer=@JakobLichterfeld] | 2026-09-18T15:20:50Z |
-| 9 | [realtime](https://github.com/supabase/realtime) | 7633 | 467 | Elixir | 50 | Broadcast, Presence, and Postgres Changes via WebSockets | 2026-09-18T21:04:29Z |
-| 10 | [phoenix_live_view](https://github.com/phoenixframework/phoenix_live_view) | 6827 | 1053 | Elixir | 15 | Rich, real-time user experiences with server-rendered HTML | 2026-09-17T10:52:35Z |
+| 7 | [firezone](https://github.com/firezone/firezone) | 9097 | 457 | Elixir | 342 | Blazing-fast remote access | 2026-09-19T05:04:52Z |
+| 8 | [teslamate](https://github.com/teslamate-org/teslamate) | 9008 | 1006 | Elixir | 50 | A self-hosted data logger for your Tesla  🚘 [main maintainer=@JakobLichterfeld] | 2026-09-19T17:59:42Z |
+| 9 | [realtime](https://github.com/supabase/realtime) | 7635 | 468 | Elixir | 52 | Broadcast, Presence, and Postgres Changes via WebSockets | 2026-09-18T23:47:47Z |
+| 10 | [phoenix_live_view](https://github.com/phoenixframework/phoenix_live_view) | 6827 | 1053 | Elixir | 16 | Rich, real-time user experiences with server-rendered HTML | 2026-09-17T10:52:35Z |
 
 
 ## Go
@@ -289,16 +289,16 @@ This is top 10, for more click **[Top 100 Stars in Go](Top100/Go.md)**
 
 | Ranking | Project Name | Stars | Forks | Language | Open Issues | Description | Last Commit |
 | ------- | ------------ | ----- | ----- | -------- | ----------- | ----------- | ----------- |
-| 1 | [awesome-go](https://github.com/avelino/awesome-go) | 184676 | 13571 | Go | 34 | A curated list of awesome Go frameworks, libraries and software | 2026-09-18T19:40:49Z |
-| 2 | [ollama](https://github.com/ollama/ollama) | 181227 | 17923 | Go | 2507 | Get up and running with Kimi, GLM, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models. | 2026-09-18T21:10:55Z |
-| 3 | [go](https://github.com/golang/go) | 138881 | 19832 | Go | 9612 | The Go programming language | 2026-09-18T20:34:24Z |
-| 4 | [kubernetes](https://github.com/kubernetes/kubernetes) | 127814 | 44571 | Go | 1876 | Production-Grade Container Scheduling and Management | 2026-09-18T20:29:55Z |
-| 5 | [TypeScript](https://github.com/microsoft/TypeScript) | 111105 | 14287 | Go | 4932 | TypeScript is a superset of JavaScript that compiles to clean JavaScript output. | 2026-09-18T20:43:00Z |
-| 6 | [frp](https://github.com/fatedier/frp) | 109503 | 15213 | Go | 37 | A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet. | 2026-09-15T05:55:33Z |
-| 7 | [caveman](https://github.com/JuliusBrussee/caveman) | 106592 | 6176 | Go | 65 | 🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking like a caveman. | 2026-09-18T08:11:02Z |
-| 8 | [ragflow](https://github.com/infiniflow/ragflow) | 90959 | 10771 | Go | 1147 | RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs | 2026-09-18T13:54:27Z |
-| 9 | [hugo](https://github.com/gohugoio/hugo) | 89864 | 8382 | Go | 195 | The world’s fastest framework for building websites. | 2026-09-18T15:04:07Z |
-| 10 | [gin](https://github.com/gin-gonic/gin) | 89240 | 8700 | Go | 603 | Gin is a high-performance HTTP web framework written in Go. It provides a Martini-like API but with significantly better performance—up to 40 times faster—thanks to httprouter. Gin is designed for building REST APIs, web applications, and microservices. | 2026-09-16T15:01:53Z |
+| 1 | [awesome-go](https://github.com/avelino/awesome-go) | 184792 | 13570 | Go | 34 | A curated list of awesome Go frameworks, libraries and software | 2026-09-18T19:40:49Z |
+| 2 | [ollama](https://github.com/ollama/ollama) | 181276 | 17935 | Go | 2507 | Get up and running with Kimi, GLM, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models. | 2026-09-19T20:41:40Z |
+| 3 | [go](https://github.com/golang/go) | 138893 | 19918 | Go | 9610 | The Go programming language | 2026-09-19T16:30:51Z |
+| 4 | [kubernetes](https://github.com/kubernetes/kubernetes) | 127836 | 44655 | Go | 1874 | Production-Grade Container Scheduling and Management | 2026-09-18T23:42:43Z |
+| 5 | [TypeScript](https://github.com/microsoft/TypeScript) | 111116 | 14385 | Go | 4860 | TypeScript is a superset of JavaScript that compiles to clean JavaScript output. | 2026-09-19T14:52:19Z |
+| 6 | [frp](https://github.com/fatedier/frp) | 109520 | 15213 | Go | 37 | A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet. | 2026-09-15T05:55:33Z |
+| 7 | [caveman](https://github.com/JuliusBrussee/caveman) | 106769 | 6178 | Go | 66 | 🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking like a caveman. | 2026-09-19T07:26:40Z |
+| 8 | [ragflow](https://github.com/infiniflow/ragflow) | 91002 | 10774 | Go | 1150 | RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs | 2026-09-19T15:32:27Z |
+| 9 | [hugo](https://github.com/gohugoio/hugo) | 89860 | 8380 | Go | 196 | The world’s fastest framework for building websites. | 2026-09-19T16:22:44Z |
+| 10 | [gin](https://github.com/gin-gonic/gin) | 89236 | 8701 | Go | 601 | Gin is a high-performance HTTP web framework written in Go. It provides a Martini-like API but with significantly better performance—up to 40 times faster—thanks to httprouter. Gin is designed for building REST APIs, web applications, and microservices. | 2026-09-19T13:11:32Z |
 
 
 ## Groovy
@@ -307,16 +307,16 @@ This is top 10, for more click **[Top 100 Stars in Groovy](Top100/Groovy.md)**
 
 | Ranking | Project Name | Stars | Forks | Language | Open Issues | Description | Last Commit |
 | ------- | ------------ | ----- | ----- | -------- | ----------- | ----------- | ----------- |
-| 1 | [gradle](https://github.com/gradle/gradle) | 18847 | 5335 | Groovy | 3290 | Adaptable, fast automation for all | 2026-09-18T22:03:22Z |
+| 1 | [gradle](https://github.com/gradle/gradle) | 18847 | 5335 | Groovy | 3291 | Adaptable, fast automation for all | 2026-09-19T22:11:35Z |
 | 2 | [devops-resources](https://github.com/bregman-arie/devops-resources) | 9700 | 2423 | Groovy | 16 | DevOps resources - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP | 2024-07-12T09:40:46Z |
 | 3 | [rundeck](https://github.com/rundeck/rundeck) | 6304 | 987 | Groovy | 35 | Enable Self-Service Operations: Give specific users access to your existing tools, services, and scripts | 2026-09-17T20:25:00Z |
-| 4 | [groovy](https://github.com/apache/groovy) | 5470 | 1916 | Groovy | 0 | Apache Groovy: A powerful multi-faceted programming language for the JVM platform | 2026-09-18T15:42:04Z |
-| 5 | [pipeline-examples](https://github.com/jenkinsci/pipeline-examples) | 4290 | 3565 | Groovy | 0 | A collection of examples, tips and tricks and snippets of scripting for the Jenkins Pipeline plugin | 2023-08-31T09:25:29Z |
+| 4 | [groovy](https://github.com/apache/groovy) | 5470 | 1916 | Groovy | 0 | Apache Groovy: A powerful multi-faceted programming language for the JVM platform | 2026-09-19T07:54:04Z |
+| 5 | [pipeline-examples](https://github.com/jenkinsci/pipeline-examples) | 4289 | 3565 | Groovy | 0 | A collection of examples, tips and tricks and snippets of scripting for the Jenkins Pipeline plugin | 2023-08-31T09:25:29Z |
 | 6 | [gradle-versions-plugin](https://github.com/ben-manes/gradle-versions-plugin) | 4087 | 204 | Groovy | 51 | Gradle plugin to discover dependency updates | 2026-09-17T04:57:46Z |
 | 7 | [gradle_plugin_android_aspectjx](https://github.com/HujiangTechnology/gradle_plugin_android_aspectjx) | 3955 | 573 | Groovy | 151 | A Android gradle plugin that effects AspectJ on Android project and can hook methods in Kotlin, aar and jar file. | 2021-09-15T07:40:48Z |
-| 8 | [nextflow](https://github.com/nextflow-io/nextflow) | 3488 | 811 | Groovy | 313 | A DSL for data-driven computational pipelines | 2026-09-18T22:13:45Z |
+| 8 | [nextflow](https://github.com/nextflow-io/nextflow) | 3489 | 811 | Groovy | 313 | A DSL for data-driven computational pipelines | 2026-09-19T20:36:02Z |
 | 9 | [fat-aar-android](https://github.com/kezong/fat-aar-android) | 3285 | 706 | Groovy | 157 | A gradle plugin that merge dependencies into the final aar file works with AGP 3.+ | 2024-07-25T12:51:00Z |
-| 10 | [grails-core](https://github.com/apache/grails-core) | 2930 | 975 | Groovy | 824 | Grails - the Web Application Framework | 2026-09-18T19:21:00Z |
+| 10 | [grails-core](https://github.com/apache/grails-core) | 2930 | 974 | Groovy | 824 | Grails - the Web Application Framework | 2026-09-19T21:47:38Z |
 
 
 ## Haskell
@@ -325,15 +325,15 @@ This is top 10, for more click **[Top 100 Stars in Haskell](Top100/Haskell.md)**
 
 | Ranking | Project Name | Stars | Forks | Language | Open Issues | Description | Last Commit |
 | ------- | ------------ | ----- | ----- | -------- | ----------- | ----------- | ----------- |
-| 1 | [pandoc](https://github.com/jgm/pandoc) | 46331 | 4214 | Haskell | 956 | Universal markup converter | 2026-09-18T17:42:27Z |
-| 2 | [shellcheck](https://github.com/koalaman/shellcheck) | 40056 | 1945 | Haskell | 1114 | ShellCheck, a static analysis tool for shell scripts | 2026-09-17T15:08:14Z |
-| 3 | [postgrest](https://github.com/PostgREST/postgrest) | 27671 | 1228 | Haskell | 338 | REST API for any Postgres database | 2026-09-18T14:12:16Z |
-| 4 | [simplex-chat](https://github.com/simplex-chat/simplex-chat) | 19462 | 1354 | Haskell | 1002 | SimpleX - the first messaging network operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps 📱! | 2026-09-18T22:08:58Z |
-| 5 | [hadolint](https://github.com/hadolint/hadolint) | 12417 | 502 | Haskell | 191 | Dockerfile linter, validate inline bash, written in Haskell | 2026-08-24T14:37:20Z |
+| 1 | [pandoc](https://github.com/jgm/pandoc) | 46338 | 4290 | Haskell | 956 | Universal markup converter | 2026-09-19T16:49:20Z |
+| 2 | [shellcheck](https://github.com/koalaman/shellcheck) | 40058 | 1945 | Haskell | 1114 | ShellCheck, a static analysis tool for shell scripts | 2026-09-17T15:08:14Z |
+| 3 | [postgrest](https://github.com/PostgREST/postgrest) | 27674 | 1227 | Haskell | 339 | REST API for any Postgres database | 2026-09-19T19:17:59Z |
+| 4 | [simplex-chat](https://github.com/simplex-chat/simplex-chat) | 19461 | 1356 | Haskell | 1003 | SimpleX - the first messaging network operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps 📱! | 2026-09-19T17:32:44Z |
+| 5 | [hadolint](https://github.com/hadolint/hadolint) | 12419 | 502 | Haskell | 191 | Dockerfile linter, validate inline bash, written in Haskell | 2026-08-24T14:37:20Z |
 | 6 | [semantic](https://github.com/github/semantic) | 9046 | 465 | Haskell | 0 | Parsing, analyzing, and comparing source code across many languages | 2025-04-01T16:36:44Z |
-| 7 | [purescript](https://github.com/purescript/purescript) | 8914 | 575 | Haskell | 280 | A strongly-typed language that compiles to JavaScript | 2026-07-08T02:13:54Z |
-| 8 | [compiler](https://github.com/elm/compiler) | 7905 | 691 | Haskell | 279 | Compiler for Elm, a functional language for reliable webapps. | 2026-08-26T07:47:17Z |
-| 9 | [unison](https://github.com/unisonweb/unison) | 6733 | 308 | Haskell | 1219 | A friendly programming language from the future | 2026-08-19T20:47:26Z |
+| 7 | [purescript](https://github.com/purescript/purescript) | 8915 | 575 | Haskell | 280 | A strongly-typed language that compiles to JavaScript | 2026-07-08T02:13:54Z |
+| 8 | [compiler](https://github.com/elm/compiler) | 7903 | 691 | Haskell | 279 | Compiler for Elm, a functional language for reliable webapps. | 2026-08-26T07:47:17Z |
+| 9 | [unison](https://github.com/unisonweb/unison) | 6734 | 308 | Haskell | 1219 | A friendly programming language from the future | 2026-08-19T20:47:26Z |
 | 10 | [Carp](https://github.com/carp-lang/Carp) | 6045 | 187 | Haskell | 127 | A statically typed lisp, without a GC, for real-time applications. | 2026-09-11T11:25:31Z |
 
 
@@ -343,16 +343,16 @@ This is top 10, for more click **[Top 100 Stars in HTML](Top100/HTML.md)**
 
 | Ranking | Project Name | Stars | Forks | Language | Open Issues | Description | Last Commit |
 | ------- | ------------ | ----- | ----- | -------- | ----------- | ----------- | ----------- |
-| 1 | [computer-science](https://github.com/ossu/computer-science) | 209116 | 25871 | HTML | 17 | 🎓 Path to a free self-taught education in Computer Science! | 2026-07-14T05:38:25Z |
-| 2 | [prompts.chat](https://github.com/f/prompts.chat) | 170684 | 21934 | HTML | 27 | f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy. | 2026-09-09T10:27:05Z |
-| 3 | [free-for-dev](https://github.com/ripienaar/free-for-dev) | 137743 | 14516 | HTML | 0 | A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev | 2026-09-18T18:29:20Z |
-| 4 | [cs-self-learning](https://github.com/PKUFlyingPig/cs-self-learning) | 75716 | 7999 | HTML | 131 | 计算机自学指南 | 2026-09-17T02:11:53Z |
-| 5 | [claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice) | 66096 | 6555 | HTML | 5 | from vibe coding to agentic engineering - practice makes claude perfect | 2026-09-18T06:43:31Z |
-| 6 | [awesome-compose](https://github.com/docker/awesome-compose) | 46366 | 8326 | HTML | 108 | Awesome Docker Compose samples | 2026-09-11T11:27:11Z |
-| 7 | [diagram-design](https://github.com/cathrynlavery/diagram-design) | 41125 | 2632 | HTML | 17 | Editorial diagram design for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop. | 2026-09-18T17:34:50Z |
-| 8 | [zju-icicles](https://github.com/QSCTech/zju-icicles) | 41065 | 9594 | HTML | 11 | 浙江大学课程攻略共享计划 | 2026-09-07T08:20:49Z |
+| 1 | [computer-science](https://github.com/ossu/computer-science) | 209184 | 25876 | HTML | 17 | 🎓 Path to a free self-taught education in Computer Science! | 2026-07-14T05:38:25Z |
+| 2 | [prompts.chat](https://github.com/f/prompts.chat) | 170748 | 21938 | HTML | 27 | f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy. | 2026-09-09T10:27:05Z |
+| 3 | [free-for-dev](https://github.com/ripienaar/free-for-dev) | 137796 | 14525 | HTML | 0 | A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev | 2026-09-18T18:29:20Z |
+| 4 | [cs-self-learning](https://github.com/PKUFlyingPig/cs-self-learning) | 75730 | 7998 | HTML | 131 | 计算机自学指南 | 2026-09-17T02:11:53Z |
+| 5 | [claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice) | 66121 | 6558 | HTML | 5 | from vibe coding to agentic engineering - practice makes claude perfect | 2026-09-19T06:40:19Z |
+| 6 | [awesome-compose](https://github.com/docker/awesome-compose) | 46371 | 8329 | HTML | 108 | Awesome Docker Compose samples | 2026-09-19T01:45:50Z |
+| 7 | [diagram-design](https://github.com/cathrynlavery/diagram-design) | 41339 | 2646 | HTML | 16 | Editorial diagram design for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop. | 2026-09-19T17:47:52Z |
+| 8 | [zju-icicles](https://github.com/QSCTech/zju-icicles) | 41074 | 9595 | HTML | 11 | 浙江大学课程攻略共享计划 | 2026-09-07T08:20:49Z |
 | 9 | [styleguide](https://github.com/google/styleguide) | 39615 | 12928 | HTML | 119 | Style guides for Google-originated open-source projects | 2026-09-18T01:52:41Z |
-| 10 | [Coursera-ML-AndrewNg-Notes](https://github.com/fengdu78/Coursera-ML-AndrewNg-Notes) | 37801 | 11187 | HTML | 55 | 吴恩达老师的机器学习课程个人笔记 | 2025-08-25T04:02:38Z |
+| 10 | [Coursera-ML-AndrewNg-Notes](https://github.com/fengdu78/Coursera-ML-AndrewNg-Notes) | 37811 | 11186 | HTML | 55 | 吴恩达老师的机器学习课程个人笔记 | 2025-08-25T04:02:38Z |
 
 
 ## Java
@@ -361,16 +361,16 @@ This is top 10, for more click **[Top 100 Stars in Java](Top100/Java.md)**
 
 | Ranking | Project Name | Stars | Forks | Language | Open Issues | Description | Last Commit |
 | ------- | ------------ | ----- | ----- | -------- | ----------- | ----------- | ----------- |
-| 1 | [hello-algo](https://github.com/krahets/hello-algo) | 130269 | 15519 | Java | 14 | 《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持简中、繁中、English、日本語，提供 Python, Java, C++, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS, Dart 等代码实现 | 2026-08-17T20:58:58Z |
-| 2 | [java-design-patterns](https://github.com/iluwatar/java-design-patterns) | 94705 | 27374 | Java | 115 | Design patterns implemented in Java | 2026-09-13T06:53:54Z |
-| 3 | [Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) | 92513 | 8865 | Java | 399 | #1 PDF Application on GitHub that lets you edit PDFs on any device anywhere | 2026-09-18T21:43:01Z |
-| 4 | [mall](https://github.com/macrozheng/mall) | 84795 | 29829 | Java | 13 | mall项目是一套电商系统，包括前台商城系统及后台管理系统，基于Spring Boot+MyBatis实现，采用Docker容器化部署。 前台商城系统包含首页门户、商品推荐、商品搜索、商品展示、购物车、订单流程、会员中心、客户服务、帮助中心等模块。 后台管理系统包含商品管理、订单管理、会员管理、促销管理、运营管理、内容管理、统计报表、财务管理、权限管理、设置等模块。 | 2026-09-15T02:34:44Z |
-| 5 | [spring-boot](https://github.com/spring-projects/spring-boot) | 81469 | 42619 | Java | 457 | Spring Boot helps you to create Spring-powered, production-grade applications and services with absolute minimum fuss. | 2026-09-18T19:53:21Z |
-| 6 | [advanced-java](https://github.com/doocs/advanced-java) | 79115 | 19147 | Java | 0 | 😮 Core Interview Questions & Answers For Experienced Java(Backend) Developers \| 互联网 Java 工程师进阶知识完全扫盲：涵盖高并发、分布式、高可用、微服务、海量数据处理等领域知识 | 2026-09-12T03:17:49Z |
-| 7 | [ghidra](https://github.com/NationalSecurityAgency/ghidra) | 78893 | 8723 | Java | 1562 | Ghidra is a software reverse engineering (SRE) framework | 2026-09-18T10:01:09Z |
-| 8 | [elasticsearch](https://github.com/elastic/elasticsearch) | 77931 | 26072 | Java | 4752 | Free and Open Source, Distributed, RESTful Search Engine | 2026-09-18T22:06:58Z |
-| 9 | [LeetCodeAnimation](https://github.com/MisterBooo/LeetCodeAnimation) | 76707 | 13861 | Java | 18 | Demonstrate all the questions on LeetCode in the form of animation.（用动画的形式呈现解LeetCode题目的思路,完整单步/回看/变速/语音讲解在 algomooc.com） | 2026-06-12T13:49:06Z |
-| 10 | [Java](https://github.com/TheAlgorithms/Java) | 66272 | 21267 | Java | 5 | All Algorithms implemented in Java | 2026-09-17T08:33:57Z |
+| 1 | [hello-algo](https://github.com/krahets/hello-algo) | 130289 | 15521 | Java | 14 | 《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持简中、繁中、English、日本語，提供 Python, Java, C++, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS, Dart 等代码实现 | 2026-08-17T20:58:58Z |
+| 2 | [java-design-patterns](https://github.com/iluwatar/java-design-patterns) | 94708 | 27373 | Java | 115 | Design patterns implemented in Java | 2026-09-13T06:53:54Z |
+| 3 | [Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) | 92581 | 8980 | Java | 400 | #1 PDF Application on GitHub that lets you edit PDFs on any device anywhere | 2026-09-19T13:06:34Z |
+| 4 | [mall](https://github.com/macrozheng/mall) | 84799 | 29830 | Java | 13 | mall项目是一套电商系统，包括前台商城系统及后台管理系统，基于Spring Boot+MyBatis实现，采用Docker容器化部署。 前台商城系统包含首页门户、商品推荐、商品搜索、商品展示、购物车、订单流程、会员中心、客户服务、帮助中心等模块。 后台管理系统包含商品管理、订单管理、会员管理、促销管理、运营管理、内容管理、统计报表、财务管理、权限管理、设置等模块。 | 2026-09-15T02:34:44Z |
+| 5 | [spring-boot](https://github.com/spring-projects/spring-boot) | 81472 | 42703 | Java | 458 | Spring Boot helps you to create Spring-powered, production-grade applications and services with absolute minimum fuss. | 2026-09-18T19:53:21Z |
+| 6 | [advanced-java](https://github.com/doocs/advanced-java) | 79118 | 19147 | Java | 0 | 😮 Core Interview Questions & Answers For Experienced Java(Backend) Developers \| 互联网 Java 工程师进阶知识完全扫盲：涵盖高并发、分布式、高可用、微服务、海量数据处理等领域知识 | 2026-09-12T03:17:49Z |
+| 7 | [ghidra](https://github.com/NationalSecurityAgency/ghidra) | 79033 | 8746 | Java | 1564 | Ghidra is a software reverse engineering (SRE) framework | 2026-09-18T10:01:09Z |
+| 8 | [elasticsearch](https://github.com/elastic/elasticsearch) | 77937 | 26075 | Java | 4761 | Free and Open Source, Distributed, RESTful Search Engine | 2026-09-19T20:29:41Z |
+| 9 | [LeetCodeAnimation](https://github.com/MisterBooo/LeetCodeAnimation) | 76706 | 13861 | Java | 18 | Demonstrate all the questions on LeetCode in the form of animation.（用动画的形式呈现解LeetCode题目的思路,完整单步/回看/变速/语音讲解在 algomooc.com） | 2026-06-12T13:49:06Z |
+| 10 | [Java](https://github.com/TheAlgorithms/Java) | 66278 | 21267 | Java | 5 | All Algorithms implemented in Java | 2026-09-19T11:58:48Z |
 
 
 ## JavaScript
@@ -379,16 +379,16 @@ This is top 10, for more click **[Top 100 Stars in JavaScript](Top100/JavaScript
 
 | Ranking | Project Name | Stars | Forks | Language | Open Issues | Description | Last Commit |
 | ------- | ------------ | ----- | ----- | -------- | ----------- | ----------- | ----------- |
-| 1 | [ECC](https://github.com/affaan-m/ECC) | 261992 | 39202 | JavaScript | 73 | The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond. | 2026-09-18T22:12:37Z |
-| 2 | [react](https://github.com/react/react) | 250566 | 51372 | JavaScript | 854 | The library for web and native user interfaces. | 2026-09-18T09:18:04Z |
-| 3 | [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) | 196771 | 31027 | JavaScript | 134 | 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings | 2026-07-26T02:43:08Z |
-| 4 | [JavaGuide](https://github.com/Snailclimb/JavaGuide) | 158672 | 46136 | JavaScript | 18 | Java 面试 & 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发、系统设计与 AI 应用开发 | 2026-09-05T12:30:20Z |
-| 5 | [javascript](https://github.com/airbnb/javascript) | 148247 | 26568 | JavaScript | 99 | JavaScript Style Guide | 2026-04-16T19:24:09Z |
-| 6 | [next.js](https://github.com/vercel/next.js) | 142340 | 32364 | JavaScript | 1009 | The React Framework | 2026-09-18T22:24:10Z |
-| 7 | [ponytail](https://github.com/DietrichGebert/ponytail) | 141993 | 7614 | JavaScript | 96 | Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote. | 2026-09-14T14:34:56Z |
-| 8 | [30-seconds-of-code](https://github.com/Chalarangelo/30-seconds-of-code) | 129144 | 12485 | JavaScript | 0 | Coding articles to level up your development skills | 2026-09-11T00:10:28Z |
-| 9 | [node](https://github.com/nodejs/node) | 121997 | 37259 | JavaScript | 629 | Node.js JavaScript runtime ✨🐢🚀✨ | 2026-09-18T15:58:06Z |
-| 10 | [three.js](https://github.com/mrdoob/three.js) | 115636 | 36557 | JavaScript | 257 | JavaScript 3D Library. | 2026-09-18T16:04:08Z |
+| 1 | [ECC](https://github.com/affaan-m/ECC) | 262903 | 39333 | JavaScript | 63 | The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond. | 2026-09-19T21:09:21Z |
+| 2 | [react](https://github.com/react/react) | 250592 | 51376 | JavaScript | 856 | The library for web and native user interfaces. | 2026-09-18T09:18:04Z |
+| 3 | [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) | 196776 | 31026 | JavaScript | 134 | 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings | 2026-07-26T02:43:08Z |
+| 4 | [JavaGuide](https://github.com/Snailclimb/JavaGuide) | 158700 | 46134 | JavaScript | 18 | Java 面试 & 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发、系统设计与 AI 应用开发 | 2026-09-19T06:29:38Z |
+| 5 | [javascript](https://github.com/airbnb/javascript) | 148248 | 26567 | JavaScript | 99 | JavaScript Style Guide | 2026-04-16T19:24:09Z |
+| 6 | [ponytail](https://github.com/DietrichGebert/ponytail) | 142498 | 7646 | JavaScript | 97 | Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote. | 2026-09-14T14:34:56Z |
+| 7 | [next.js](https://github.com/vercel/next.js) | 142367 | 32452 | JavaScript | 1010 | The React Framework | 2026-09-19T22:13:29Z |
+| 8 | [30-seconds-of-code](https://github.com/Chalarangelo/30-seconds-of-code) | 129165 | 12484 | JavaScript | 0 | Coding articles to level up your development skills | 2026-09-11T00:10:28Z |
+| 9 | [node](https://github.com/nodejs/node) | 122012 | 37364 | JavaScript | 623 | Node.js JavaScript runtime ✨🐢🚀✨ | 2026-09-19T22:02:12Z |
+| 10 | [three.js](https://github.com/mrdoob/three.js) | 115661 | 36557 | JavaScript | 257 | JavaScript 3D Library. | 2026-09-19T09:45:27Z |
 
 
 ## Julia
@@ -397,13 +397,13 @@ This is top 10, for more click **[Top 100 Stars in Julia](Top100/Julia.md)**
 
 | Ranking | Project Name | Stars | Forks | Language | Open Issues | Description | Last Commit |
 | ------- | ------------ | ----- | ----- | -------- | ----------- | ----------- | ----------- |
-| 1 | [julia](https://github.com/JuliaLang/julia) | 49122 | 5975 | Julia | 3636 | The Julia Programming Language | 2026-09-18T21:31:57Z |
+| 1 | [julia](https://github.com/JuliaLang/julia) | 49123 | 5974 | Julia | 3636 | The Julia Programming Language | 2026-09-19T21:32:17Z |
 | 2 | [Flux.jl](https://github.com/FluxML/Flux.jl) | 4746 | 624 | Julia | 33 | Relax! Flux is the ML library that doesn't make you tensor | 2026-09-18T07:11:40Z |
-| 3 | [DifferentialEquations.jl](https://github.com/SciML/DifferentialEquations.jl) | 3156 | 255 | Julia | 119 | Multi-language suite for high-performance solvers of differential equations and scientific machine learning (SciML) components. Ordinary differential equations (ODEs), stochastic differential equations (SDEs), delay differential equations (DDEs), differential-algebraic equations (DAEs), and more in Julia. | 2026-09-11T22:46:25Z |
+| 3 | [DifferentialEquations.jl](https://github.com/SciML/DifferentialEquations.jl) | 3157 | 255 | Julia | 119 | Multi-language suite for high-performance solvers of differential equations and scientific machine learning (SciML) components. Ordinary differential equations (ODEs), stochastic differential equations (SDEs), delay differential equations (DDEs), differential-algebraic equations (DAEs), and more in Julia. | 2026-09-11T22:46:25Z |
 | 4 | [IJulia.jl](https://github.com/JuliaLang/IJulia.jl) | 2904 | 426 | Julia | 31 | Julia kernel for Jupyter | 2026-06-23T05:55:43Z |
 | 5 | [computational-thinking](https://github.com/mitmath/computational-thinking) | 2834 | 502 | Julia | 5 | Course 18.S191 at MIT, Fall 2022 - Introduction to computational thinking with Julia | 2026-08-12T16:03:07Z |
-| 6 | [Makie.jl](https://github.com/MakieOrg/Makie.jl) | 2812 | 395 | Julia | 818 | Interactive data visualizations and plotting in Julia | 2026-09-18T19:53:46Z |
-| 7 | [JuMP.jl](https://github.com/jump-dev/JuMP.jl) | 2474 | 428 | Julia | 9 | Modeling language for Mathematical Optimization (linear, mixed-integer, conic, semidefinite, nonlinear) | 2026-09-18T03:36:45Z |
+| 6 | [Makie.jl](https://github.com/MakieOrg/Makie.jl) | 2813 | 395 | Julia | 818 | Interactive data visualizations and plotting in Julia | 2026-09-19T17:04:29Z |
+| 7 | [JuMP.jl](https://github.com/jump-dev/JuMP.jl) | 2475 | 428 | Julia | 9 | Modeling language for Mathematical Optimization (linear, mixed-integer, conic, semidefinite, nonlinear) | 2026-09-19T09:58:47Z |
 | 8 | [Genie.jl](https://github.com/GenieFramework/Genie.jl) | 2413 | 186 | Julia | 115 | 🧞The highly productive Julia web framework | 2026-09-04T16:37:56Z |
 | 9 | [Turing.jl](https://github.com/TuringLang/Turing.jl) | 2257 | 245 | Julia | 13 | Bayesian inference with probabilistic programming. | 2026-09-13T12:37:31Z |
 | 10 | [Plots.jl](https://github.com/JuliaPlots/Plots.jl) | 1951 | 385 | Julia | 897 | Powerful convenience for Julia visualizations and data analysis | 2026-09-16T09:18:29Z |
@@ -415,16 +415,16 @@ This is top 10, for more click **[Top 100 Stars in Kotlin](Top100/Kotlin.md)**
 
 | Ranking | Project Name | Stars | Forks | Language | Open Issues | Description | Last Commit |
 | ------- | ------------ | ----- | ----- | -------- | ----------- | ----------- | ----------- |
-| 1 | [Magisk](https://github.com/topjohnwu/Magisk) | 62833 | 18630 | Kotlin | 31 | The Magic Mask for Android | 2026-09-18T19:11:33Z |
-| 2 | [v2rayNG](https://github.com/2dust/v2rayNG) | 62796 | 8124 | Kotlin | 21 | A V2Ray client for Android, support Xray core and v2fly core | 2026-09-14T21:24:31Z |
-| 3 | [fanqiang](https://github.com/bannedbook/fanqiang) | 53560 | 8584 | Kotlin | 336 | 翻墙-科学上网 | 2026-09-13T05:26:36Z |
-| 4 | [kotlin](https://github.com/JetBrains/kotlin) | 53426 | 6419 | Kotlin | 0 | The Kotlin Programming Language.  | 2026-09-18T21:52:52Z |
-| 5 | [legado](https://github.com/gedoor/legado) | 47074 | 5567 | Kotlin | 0 | Legado 3.0 Book Reader with powerful controls & full functions❤️阅读3.0, 阅读是一款可以自定义来源阅读网络内容的工具，为广大网络文学爱好者提供一种方便、快捷舒适的试读体验。 | 2026-05-27T08:41:54Z |
-| 6 | [okhttp](https://github.com/lysine-dev/okhttp) | 47060 | 9296 | Kotlin | 97 | A meticulous HTTP client for the JVM, Android, and GraalVM. | 2026-09-17T23:01:46Z |
-| 7 | [architecture-samples](https://github.com/android/architecture-samples) | 45832 | 11854 | Kotlin | 150 | A collection of samples to discuss and showcase different architectural tools and patterns for Android apps. | 2026-09-18T22:00:45Z |
-| 8 | [gkd](https://github.com/gkd-kit/gkd) | 41977 | 1987 | Kotlin | 12 | 基于无障碍，高级选择器，订阅规则的自定义屏幕点击安卓应用 \| An Android APP with custom screen tapping based on Accessibility, Advanced Selectors, and Subscription Rules | 2026-09-06T16:52:03Z |
-| 9 | [shadowsocks-android](https://github.com/shadowsocks/shadowsocks-android) | 36798 | 11440 | Kotlin | 68 | A shadowsocks client for Android | 2026-08-09T11:06:54Z |
-| 10 | [p3c](https://github.com/alibaba/p3c) | 30853 | 7965 | Kotlin | 161 | Alibaba Java Coding Guidelines pmd implements and IDE plugin | 2024-08-06T08:22:02Z |
+| 1 | [Magisk](https://github.com/topjohnwu/Magisk) | 62852 | 18637 | Kotlin | 31 | The Magic Mask for Android | 2026-09-18T23:50:37Z |
+| 2 | [v2rayNG](https://github.com/2dust/v2rayNG) | 62842 | 8128 | Kotlin | 22 | A V2Ray client for Android, support Xray core and v2fly core | 2026-09-19T08:01:30Z |
+| 3 | [fanqiang](https://github.com/bannedbook/fanqiang) | 53593 | 8585 | Kotlin | 336 | 翻墙-科学上网 | 2026-09-13T05:26:36Z |
+| 4 | [kotlin](https://github.com/JetBrains/kotlin) | 53433 | 6420 | Kotlin | 0 | The Kotlin Programming Language.  | 2026-09-19T21:09:23Z |
+| 5 | [legado](https://github.com/gedoor/legado) | 47075 | 5565 | Kotlin | 0 | Legado 3.0 Book Reader with powerful controls & full functions❤️阅读3.0, 阅读是一款可以自定义来源阅读网络内容的工具，为广大网络文学爱好者提供一种方便、快捷舒适的试读体验。 | 2026-05-27T08:41:54Z |
+| 6 | [okhttp](https://github.com/lysine-dev/okhttp) | 47061 | 9296 | Kotlin | 97 | A meticulous HTTP client for the JVM, Android, and GraalVM. | 2026-09-17T23:01:46Z |
+| 7 | [architecture-samples](https://github.com/android/architecture-samples) | 45836 | 11853 | Kotlin | 150 | A collection of samples to discuss and showcase different architectural tools and patterns for Android apps. | 2026-09-18T22:00:45Z |
+| 8 | [gkd](https://github.com/gkd-kit/gkd) | 41995 | 1987 | Kotlin | 12 | 基于无障碍，高级选择器，订阅规则的自定义屏幕点击安卓应用 \| An Android APP with custom screen tapping based on Accessibility, Advanced Selectors, and Subscription Rules | 2026-09-06T16:52:03Z |
+| 9 | [shadowsocks-android](https://github.com/shadowsocks/shadowsocks-android) | 36799 | 11440 | Kotlin | 68 | A shadowsocks client for Android | 2026-08-09T11:06:54Z |
+| 10 | [p3c](https://github.com/alibaba/p3c) | 30852 | 7966 | Kotlin | 161 | Alibaba Java Coding Guidelines pmd implements and IDE plugin | 2024-08-06T08:22:02Z |
 
 
 ## Lua
@@ -433,16 +433,16 @@ This is top 10, for more click **[Top 100 Stars in Lua](Top100/Lua.md)**
 
 | Ranking | Project Name | Stars | Forks | Language | Open Issues | Description | Last Commit |
 | ------- | ------------ | ----- | ----- | -------- | ----------- | ----------- | ----------- |
-| 1 | [kong](https://github.com/Kong/kong) | 44152 | 5210 | Lua | 81 | 🦍 The API and AI Gateway | 2026-09-07T06:16:21Z |
-| 2 | [kickstart.nvim](https://github.com/nvim-lua/kickstart.nvim) | 31484 | 46568 | Lua | 10 | A launch point for your personal nvim configuration | 2026-09-14T15:15:16Z |
-| 3 | [koreader](https://github.com/koreader/koreader) | 29777 | 1909 | Lua | 1269 | An ebook reader application supporting PDF, DjVu, EPUB, FB2 and many more formats, running on Cervantes, Kindle, Kobo, PocketBook and Android devices | 2026-09-18T22:06:30Z |
-| 4 | [NvChad](https://github.com/NvChad/NvChad) | 28491 | 2219 | Lua | 1 | Blazing fast Neovim framework providing solid defaults and a beautiful UI, enhancing your neovim experience. | 2026-07-03T12:44:31Z |
-| 5 | [waifu2x](https://github.com/nagadomi/waifu2x) | 28228 | 2663 | Lua | 152 | Image Super-Resolution for Anime-Style Art | 2023-05-04T00:50:48Z |
-| 6 | [LazyVim](https://github.com/LazyVim/LazyVim) | 27508 | 1821 | Lua | 6 | Neovim config for the lazy | 2026-09-08T20:11:03Z |
-| 7 | [lazy.nvim](https://github.com/folke/lazy.nvim) | 21569 | 591 | Lua | 13 | 💤 A modern plugin manager for Neovim | 2026-06-29T18:23:04Z |
-| 8 | [telescope.nvim](https://github.com/nvim-telescope/telescope.nvim) | 19791 | 967 | Lua | 378 | Find, Filter, Preview, Pick. All lua, all the time. | 2026-08-17T10:56:32Z |
-| 9 | [rime-ice](https://github.com/iDvel/rime-ice) | 19403 | 1186 | Lua | 3 | Rime 配置：雾凇拼音 \| 长期维护的简体词库 | 2026-09-18T10:01:28Z |
-| 10 | [LunarVim](https://github.com/LunarVim/LunarVim) | 19263 | 1486 | Lua | 12 | 🌙 LunarVim is an IDE layer for Neovim. Completely free and community driven. | 2025-06-05T15:05:30Z |
+| 1 | [kong](https://github.com/Kong/kong) | 44154 | 5210 | Lua | 81 | 🦍 The API and AI Gateway | 2026-09-07T06:16:21Z |
+| 2 | [kickstart.nvim](https://github.com/nvim-lua/kickstart.nvim) | 31490 | 46569 | Lua | 10 | A launch point for your personal nvim configuration | 2026-09-14T15:15:16Z |
+| 3 | [koreader](https://github.com/koreader/koreader) | 29794 | 1909 | Lua | 1270 | An ebook reader application supporting PDF, DjVu, EPUB, FB2 and many more formats, running on Cervantes, Kindle, Kobo, PocketBook and Android devices | 2026-09-19T18:58:59Z |
+| 4 | [NvChad](https://github.com/NvChad/NvChad) | 28490 | 2218 | Lua | 1 | Blazing fast Neovim framework providing solid defaults and a beautiful UI, enhancing your neovim experience. | 2026-07-03T12:44:31Z |
+| 5 | [waifu2x](https://github.com/nagadomi/waifu2x) | 28229 | 2663 | Lua | 152 | Image Super-Resolution for Anime-Style Art | 2023-05-04T00:50:48Z |
+| 6 | [LazyVim](https://github.com/LazyVim/LazyVim) | 27512 | 1822 | Lua | 5 | Neovim config for the lazy | 2026-09-08T20:11:03Z |
+| 7 | [lazy.nvim](https://github.com/folke/lazy.nvim) | 21573 | 592 | Lua | 13 | 💤 A modern plugin manager for Neovim | 2026-06-29T18:23:04Z |
+| 8 | [telescope.nvim](https://github.com/nvim-telescope/telescope.nvim) | 19792 | 967 | Lua | 378 | Find, Filter, Preview, Pick. All lua, all the time. | 2026-08-17T10:56:32Z |
+| 9 | [rime-ice](https://github.com/iDvel/rime-ice) | 19411 | 1186 | Lua | 3 | Rime 配置：雾凇拼音 \| 长期维护的简体词库 | 2026-09-19T15:13:22Z |
+| 10 | [LunarVim](https://github.com/LunarVim/LunarVim) | 19262 | 1485 | Lua | 12 | 🌙 LunarVim is an IDE layer for Neovim. Completely free and community driven. | 2025-06-05T15:05:30Z |
 
 
 ## MATLAB
@@ -451,11 +451,11 @@ This is top 10, for more click **[Top 100 Stars in MATLAB](Top100/MATLAB.md)**
 
 | Ranking | Project Name | Stars | Forks | Language | Open Issues | Description | Last Commit |
 | ------- | ------------ | ----- | ----- | -------- | ----------- | ----------- | ----------- |
-| 1 | [Book-Mathematical-Foundation-of-Reinforcement-Learning](https://github.com/MathFoundationRL/Book-Mathematical-Foundation-of-Reinforcement-Learning) | 17832 | 1693 | MATLAB | 0 | This is the homepage of a new book entitled "Mathematical Foundations of Reinforcement Learning." | 2026-09-15T06:11:09Z |
-| 2 | [deep-photo-styletransfer](https://github.com/luanfujun/deep-photo-styletransfer) | 9989 | 1371 | MATLAB | 31 | Code and data for paper "Deep Photo Style Transfer": https://arxiv.org/abs/1703.07511  | 2021-08-02T01:07:44Z |
-| 3 | [OpenFace](https://github.com/TadasBaltrusaitis/OpenFace) | 7756 | 1913 | MATLAB | 343 | OpenFace – a state-of-the art tool intended for facial landmark detection, head pose estimation, facial action unit recognition, and eye-gaze estimation. | 2024-06-01T00:44:07Z |
+| 1 | [Book-Mathematical-Foundation-of-Reinforcement-Learning](https://github.com/MathFoundationRL/Book-Mathematical-Foundation-of-Reinforcement-Learning) | 17838 | 1694 | MATLAB | 0 | This is the homepage of a new book entitled "Mathematical Foundations of Reinforcement Learning." | 2026-09-15T06:11:09Z |
+| 2 | [deep-photo-styletransfer](https://github.com/luanfujun/deep-photo-styletransfer) | 9988 | 1371 | MATLAB | 31 | Code and data for paper "Deep Photo Style Transfer": https://arxiv.org/abs/1703.07511  | 2021-08-02T01:07:44Z |
+| 3 | [OpenFace](https://github.com/TadasBaltrusaitis/OpenFace) | 7756 | 1912 | MATLAB | 343 | OpenFace – a state-of-the art tool intended for facial landmark detection, head pose estimation, facial action unit recognition, and eye-gaze estimation. | 2024-06-01T00:44:07Z |
 | 4 | [PRMLT](https://github.com/PRML/PRMLT) | 6202 | 2122 | MATLAB | 0 | Matlab code of machine learning algorithms in book PRML | 2020-03-04T13:50:30Z |
-| 5 | [Math_Model](https://github.com/personqianduixue/Math_Model) | 5178 | 787 | MATLAB | 2 | 数学建模、美赛、美国大学生数学建模竞赛、全国大学生数学建模竞赛、华为杯研究生数学建模、国赛LaTeX模板、美赛LaTeX模板、mathorcup、电工杯、华中赛、APMCM、深圳杯、中青杯、华东杯、数维杯、东三省数学建模、认证杯、数学建模书籍、常用matlab算法、国赛评阅要点、软件模型算法汇总、智能算法、优化算法、现代的算法 | 2023-12-01T04:43:53Z |
+| 5 | [Math_Model](https://github.com/personqianduixue/Math_Model) | 5186 | 787 | MATLAB | 2 | 数学建模、美赛、美国大学生数学建模竞赛、全国大学生数学建模竞赛、华为杯研究生数学建模、国赛LaTeX模板、美赛LaTeX模板、mathorcup、电工杯、华中赛、APMCM、深圳杯、中青杯、华东杯、数维杯、东三省数学建模、认证杯、数学建模书籍、常用matlab算法、国赛评阅要点、软件模型算法汇总、智能算法、优化算法、现代的算法 | 2023-12-01T04:43:53Z |
 | 6 | [vrn](https://github.com/AaronJackson/vrn) | 4517 | 741 | MATLAB | 6 | :man:  Code for "Large Pose 3D Face Reconstruction from a Single Image via Direct Volumetric CNN Regression" | 2022-07-26T00:06:01Z |
 | 7 | [DeepLearnToolbox](https://github.com/rasmusbergpalm/DeepLearnToolbox) | 3868 | 2253 | MATLAB | 70 | Matlab/Octave toolbox for deep learning. Includes Deep Belief Nets, Stacked Autoencoders, Convolutional Neural Nets, Convolutional Autoencoders and vanilla Neural Nets. Each method has examples to get you started. | 2018-10-13T18:08:01Z |
 | 8 | [Stanford-CS-229](https://github.com/cycleuser/Stanford-CS-229) | 3463 | 853 | MATLAB | 5 | A Chinese Translation of Stanford CS229 notes 斯坦福机器学习CS229课程讲义的中文翻译 | 2022-03-01T05:11:19Z |
@@ -469,15 +469,15 @@ This is top 10, for more click **[Top 100 Stars in Objective\-C](Top100/Objectiv
 
 | Ranking | Project Name | Stars | Forks | Language | Open Issues | Description | Last Commit |
 | ------- | ------------ | ----- | ----- | -------- | ----------- | ----------- | ----------- |
-| 1 | [AFNetworking](https://github.com/AFNetworking/AFNetworking) | 33375 | 10607 | Objective-C | 0 | A delightful networking framework for iOS, macOS, watchOS, and tvOS. | 2023-01-17T19:30:05Z |
-| 2 | [SDWebImage](https://github.com/SDWebImage/SDWebImage) | 25628 | 5957 | Objective-C | 124 | Asynchronous image downloader with cache support as a UIImageView category | 2026-04-15T03:36:16Z |
-| 3 | [WeChatExtension-ForMac](https://github.com/MustangYM/WeChatExtension-ForMac) | 22560 | 3542 | Objective-C | 907 | A plugin for Mac WeChat | 2025-02-13T21:53:57Z |
-| 4 | [TrollStore](https://github.com/opa334/TrollStore) | 22185 | 1670 | Objective-C | 46 | Jailed iOS app that can install IPAs permanently with arbitary entitlements and root helpers because it trolls Apple | 2026-04-01T09:43:17Z |
+| 1 | [AFNetworking](https://github.com/AFNetworking/AFNetworking) | 33374 | 10607 | Objective-C | 0 | A delightful networking framework for iOS, macOS, watchOS, and tvOS. | 2023-01-17T19:30:05Z |
+| 2 | [SDWebImage](https://github.com/SDWebImage/SDWebImage) | 25629 | 5957 | Objective-C | 124 | Asynchronous image downloader with cache support as a UIImageView category | 2026-04-15T03:36:16Z |
+| 3 | [WeChatExtension-ForMac](https://github.com/MustangYM/WeChatExtension-ForMac) | 22558 | 3542 | Objective-C | 907 | A plugin for Mac WeChat | 2025-02-13T21:53:57Z |
+| 4 | [TrollStore](https://github.com/opa334/TrollStore) | 22191 | 1670 | Objective-C | 47 | Jailed iOS app that can install IPAs permanently with arbitary entitlements and root helpers because it trolls Apple | 2026-04-01T09:43:17Z |
 | 5 | [GPUImage](https://github.com/BradLarson/GPUImage) | 20292 | 4553 | Objective-C | 914 | An open source iOS framework for GPU-based image and video processing | 2024-02-16T22:29:30Z |
 | 6 | [Masonry](https://github.com/SnapKit/Masonry) | 18124 | 3147 | Objective-C | 128 | Harness the power of AutoLayout NSLayoutConstraints with a simplified, chainable and expressive syntax. Supports iOS and OSX Auto Layout | 2023-04-13T18:23:56Z |
-| 7 | [iTerm2](https://github.com/gnachman/iTerm2) | 18075 | 1496 | Objective-C | 0 | iTerm2 is a terminal emulator for Mac OS X that does amazing things. | 2026-09-18T22:22:03Z |
-| 8 | [realm-swift](https://github.com/realm/realm-swift) | 16609 | 2241 | Objective-C | 476 | Realm is a mobile database: a replacement for Core Data & SQLite | 2026-09-18T19:59:13Z |
-| 9 | [hammerspoon](https://github.com/Hammerspoon/hammerspoon) | 16141 | 718 | Objective-C | 664 | Staggeringly powerful macOS desktop automation with Lua | 2026-07-08T21:13:24Z |
+| 7 | [iTerm2](https://github.com/gnachman/iTerm2) | 18075 | 1496 | Objective-C | 0 | iTerm2 is a terminal emulator for Mac OS X that does amazing things. | 2026-09-19T07:18:39Z |
+| 8 | [realm-swift](https://github.com/realm/realm-swift) | 16608 | 2241 | Objective-C | 476 | Realm is a mobile database: a replacement for Core Data & SQLite | 2026-09-19T01:40:01Z |
+| 9 | [hammerspoon](https://github.com/Hammerspoon/hammerspoon) | 16140 | 718 | Objective-C | 664 | Staggeringly powerful macOS desktop automation with Lua | 2026-07-08T21:13:24Z |
 | 10 | [MBProgressHUD](https://github.com/jdg/MBProgressHUD) | 15916 | 3558 | Objective-C | 82 | MBProgressHUD + Customizations | 2024-08-14T01:48:59Z |
 
 
@@ -487,14 +487,14 @@ This is top 10, for more click **[Top 100 Stars in Perl](Top100/Perl.md)**
 
 | Ranking | Project Name | Stars | Forks | Language | Open Issues | Description | Last Commit |
 | ------- | ------------ | ----- | ----- | -------- | ----------- | ----------- | ----------- |
-| 1 | [cloc](https://github.com/AlDanial/cloc) | 23544 | 1126 | Perl | 26 | cloc counts blank lines, comment lines, and physical lines of source code in many programming languages. | 2026-09-14T03:20:21Z |
-| 2 | [FlameGraph](https://github.com/brendangregg/FlameGraph) | 19760 | 2111 | Perl | 121 | Stack trace visualizer | 2024-10-20T21:48:45Z |
-| 3 | [diff-so-fancy](https://github.com/so-fancy/diff-so-fancy) | 18088 | 348 | Perl | 2 | Make your diffs human readable for improved code quality and faster defect detection. :tada: | 2026-09-14T21:38:35Z |
-| 4 | [nikto](https://github.com/sullo/nikto) | 10733 | 1458 | Perl | 0 | Nikto web server scanner | 2026-09-18T02:41:34Z |
-| 5 | [MySQLTuner-perl](https://github.com/major/MySQLTuner-perl) | 9478 | 1286 | Perl | 5 | MySQLTuner is a script written in Perl that will assist you with your MySQL configuration and make recommendations for increased performance and stability. | 2026-09-14T16:01:20Z |
+| 1 | [cloc](https://github.com/AlDanial/cloc) | 23548 | 1125 | Perl | 26 | cloc counts blank lines, comment lines, and physical lines of source code in many programming languages. | 2026-09-19T21:33:48Z |
+| 2 | [FlameGraph](https://github.com/brendangregg/FlameGraph) | 19761 | 2111 | Perl | 121 | Stack trace visualizer | 2024-10-20T21:48:45Z |
+| 3 | [diff-so-fancy](https://github.com/so-fancy/diff-so-fancy) | 18089 | 348 | Perl | 2 | Make your diffs human readable for improved code quality and faster defect detection. :tada: | 2026-09-19T20:49:24Z |
+| 4 | [nikto](https://github.com/sullo/nikto) | 10734 | 1458 | Perl | 0 | Nikto web server scanner | 2026-09-18T02:41:34Z |
+| 5 | [MySQLTuner-perl](https://github.com/major/MySQLTuner-perl) | 9477 | 1286 | Perl | 5 | MySQLTuner is a script written in Perl that will assist you with your MySQL configuration and make recommendations for increased performance and stability. | 2026-09-14T16:01:20Z |
 | 6 | [gitolite](https://github.com/sitaramc/gitolite) | 8593 | 1006 | Perl | 0 | Hosting git repositories -- Gitolite allows you to setup git hosting on a central server, with very fine-grained access control and many (many!) more powerful features. | 2026-08-08T09:26:46Z |
 | 7 | [book](https://github.com/astrid-runtime/book) | 7458 | 32 | Perl | 0 | The canonical reference for Astrid: kernel, capsules, host ABI, IPC, and the security model. | 2026-09-08T19:44:08Z |
-| 8 | [exiftool](https://github.com/exiftool/exiftool) | 5059 | 486 | Perl | 35 | ExifTool meta information reader/writer | 2026-05-27T16:45:01Z |
+| 8 | [exiftool](https://github.com/exiftool/exiftool) | 5065 | 487 | Perl | 35 | ExifTool meta information reader/writer | 2026-05-27T16:45:01Z |
 | 9 | [git-it-electron](https://github.com/jlord/git-it-electron) | 4889 | 1214 | Perl | 93 | :computer: :mortar_board: Git-it is a (Mac, Win, Linux) Desktop App for Learning Git and GitHub | 2024-04-10T10:28:06Z |
 | 10 | [Expose](https://github.com/Jack000/Expose) | 4437 | 256 | Perl | 19 | A simple static site generator for photoessays | 2022-03-16T05:58:08Z |
 
@@ -505,16 +505,16 @@ This is top 10, for more click **[Top 100 Stars in PHP](Top100/PHP.md)**
 
 | Ranking | Project Name | Stars | Forks | Language | Open Issues | Description | Last Commit |
 | ------- | ------------ | ----- | ----- | -------- | ----------- | ----------- | ----------- |
-| 1 | [SecLists](https://github.com/danielmiessler/SecLists) | 73596 | 25117 | PHP | 8 | SecLists is the security tester's companion. It's a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | 2026-09-18T11:15:16Z |
-| 2 | [coolify](https://github.com/coollabsio/coolify) | 61992 | 5495 | PHP | 535 | An open-source, self-hostable PaaS alternative to Vercel, Heroku & Netlify that lets you easily deploy static sites, databases, full-stack applications and 280+ one-click services on your own servers. | 2026-09-18T16:57:44Z |
-| 3 | [appwrite](https://github.com/appwrite/appwrite) | 57408 | 5729 | PHP | 443 | Appwrite® - complete cloud infrastructure for your web, mobile and AI apps. Including Auth, Databases, Storage, Functions, Messaging, Hosting, Realtime and more | 2026-09-18T16:48:15Z |
-| 4 | [server](https://github.com/nextcloud/server) | 36846 | 5228 | PHP | 2675 | ☁️ Nextcloud server, a safe home for all your data | 2026-09-18T21:50:22Z |
-| 5 | [framework](https://github.com/laravel/framework) | 34925 | 11991 | PHP | 52 | Laravel is a web application framework with expressive, elegant syntax. | 2026-09-18T16:18:59Z |
-| 6 | [filament](https://github.com/filamentphp/filament) | 32085 | 4208 | PHP | 11 | A powerful open-source UI framework for Laravel • Build and ship apps & admin panels fast with Livewire | 2026-09-18T15:38:28Z |
-| 7 | [symfony](https://github.com/symfony/symfony) | 31155 | 9867 | PHP | 150 | The Symfony PHP framework | 2026-09-18T17:41:19Z |
-| 8 | [jQuery-File-Upload](https://github.com/blueimp/jQuery-File-Upload) | 30704 | 7729 | PHP | 49 | File Upload widget with multiple file selection, drag&drop support, progress bar, validation and preview images, audio and video for jQuery. Supports cross-domain, chunked and resumable file uploads. Works with any server-side platform (Google App Engine, PHP, Python, Ruby on Rails, Java, etc.) that supports standard HTML form file uploads. | 2026-04-08T09:52:14Z |
-| 9 | [composer](https://github.com/composer/composer) | 29523 | 4837 | PHP | 124 | Dependency Manager for PHP | 2026-09-17T19:13:57Z |
-| 10 | [bagisto](https://github.com/bagisto/bagisto) | 28130 | 3288 | PHP | 21 | Open Source eCommerce & Multi-Vendor Marketplace Platform Built with Laravel for Enterprise-Scale Commerce, Supporting 10M+ SKUs | 2026-09-18T11:56:22Z |
+| 1 | [SecLists](https://github.com/danielmiessler/SecLists) | 73617 | 25120 | PHP | 8 | SecLists is the security tester's companion. It's a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | 2026-09-19T11:13:23Z |
+| 2 | [coolify](https://github.com/coollabsio/coolify) | 62030 | 5499 | PHP | 536 | An open-source, self-hostable PaaS alternative to Vercel, Heroku & Netlify that lets you easily deploy static sites, databases, full-stack applications and 280+ one-click services on your own servers. | 2026-09-19T18:51:29Z |
+| 3 | [appwrite](https://github.com/appwrite/appwrite) | 57417 | 5731 | PHP | 443 | Appwrite® - complete cloud infrastructure for your web, mobile and AI apps. Including Auth, Databases, Storage, Functions, Messaging, Hosting, Realtime and more | 2026-09-19T21:47:07Z |
+| 4 | [server](https://github.com/nextcloud/server) | 36862 | 5231 | PHP | 2672 | ☁️ Nextcloud server, a safe home for all your data | 2026-09-19T20:54:02Z |
+| 5 | [framework](https://github.com/laravel/framework) | 34924 | 11990 | PHP | 52 | Laravel is a web application framework with expressive, elegant syntax. | 2026-09-18T16:18:59Z |
+| 6 | [filament](https://github.com/filamentphp/filament) | 32090 | 4207 | PHP | 9 | A powerful open-source UI framework for Laravel • Build and ship apps & admin panels fast with Livewire | 2026-09-19T19:34:48Z |
+| 7 | [symfony](https://github.com/symfony/symfony) | 31156 | 9870 | PHP | 158 | The Symfony PHP framework | 2026-09-18T17:41:19Z |
+| 8 | [jQuery-File-Upload](https://github.com/blueimp/jQuery-File-Upload) | 30705 | 7729 | PHP | 49 | File Upload widget with multiple file selection, drag&drop support, progress bar, validation and preview images, audio and video for jQuery. Supports cross-domain, chunked and resumable file uploads. Works with any server-side platform (Google App Engine, PHP, Python, Ruby on Rails, Java, etc.) that supports standard HTML form file uploads. | 2026-04-08T09:52:14Z |
+| 9 | [composer](https://github.com/composer/composer) | 29524 | 4838 | PHP | 125 | Dependency Manager for PHP | 2026-09-17T19:13:57Z |
+| 10 | [bagisto](https://github.com/bagisto/bagisto) | 28137 | 3287 | PHP | 21 | Open Source eCommerce & Multi-Vendor Marketplace Platform Built with Laravel for Enterprise-Scale Commerce, Supporting 10M+ SKUs | 2026-09-18T11:56:22Z |
 
 
 ## PowerShell
@@ -523,16 +523,16 @@ This is top 10, for more click **[Top 100 Stars in PowerShell](Top100/PowerShell
 
 | Ranking | Project Name | Stars | Forks | Language | Open Issues | Description | Last Commit |
 | ------- | ------------ | ----- | ----- | -------- | ----------- | ----------- | ----------- |
-| 1 | [winutil](https://github.com/ChrisTitusTech/winutil) | 62834 | 3684 | PowerShell | 22 | Chris Titus Tech's Windows Utility - Install Programs, Tweaks, Fixes, and Updates | 2026-09-18T04:47:23Z |
-| 2 | [Win11Debloat](https://github.com/Raphire/Win11Debloat) | 57326 | 2449 | PowerShell | 28 | A simple, lightweight PowerShell script that allows you to remove pre-installed apps, disable telemetry, as well as perform various other changes to declutter and customize your Windows experience. Win11Debloat works for both Windows 10 and Windows 11. | 2026-09-10T15:48:43Z |
-| 3 | [reverse-skill](https://github.com/zhaoxuya520/reverse-skill) | 36453 | 5046 | PowerShell | 5 | Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping + Self-evolving knowledge base  Supports Claude Code, Kiro, Cursor, Cline, and other AI coding clients 逆向/渗透/安全技能路由包 - AI 自动路由 + 按需自举工具链 + 自动进化经验库 \| 支持 Claude Code / Kiro / Cursor / Cline 等代码 AI 客户端 | 2026-09-03T12:25:52Z |
-| 4 | [cmder](https://github.com/cmderdev/cmder) | 27006 | 2074 | PowerShell | 53 | Lovely console emulator package for Windows | 2026-09-14T15:53:42Z |
-| 5 | [Scoop](https://github.com/ScoopInstaller/Scoop) | 24670 | 1536 | PowerShell | 436 | A command-line installer for Windows. | 2026-09-18T06:40:52Z |
-| 6 | [SpotX](https://github.com/SpotX-Official/SpotX) | 22395 | 1127 | PowerShell | 3 | SpotX patcher used for patching the desktop version of Spotify | 2026-09-09T21:32:20Z |
-| 7 | [core](https://github.com/dotnet/core) | 22034 | 4937 | PowerShell | 342 | .NET news, announcements, release notes, and more! | 2026-09-16T17:01:46Z |
-| 8 | [tiny11builder](https://github.com/ntdevlabs/tiny11builder) | 19606 | 1508 | PowerShell | 119 | Scripts to build a trimmed-down Windows 11 image. | 2025-09-12T07:23:23Z |
-| 9 | [Windows10Debloater](https://github.com/Sycnex/Windows10Debloater) | 18826 | 2058 | PowerShell | 283 | Script to remove Windows 10 bloatware. | 2023-03-10T04:15:01Z |
-| 10 | [Office-Tool](https://github.com/YerongAI/Office-Tool) | 14254 | 1053 | PowerShell | 1 | Office Tool Plus localization projects. | 2026-09-09T11:00:58Z |
+| 1 | [winutil](https://github.com/ChrisTitusTech/winutil) | 62874 | 3685 | PowerShell | 20 | Chris Titus Tech's Windows Utility - Install Programs, Tweaks, Fixes, and Updates | 2026-09-19T22:14:12Z |
+| 2 | [Win11Debloat](https://github.com/Raphire/Win11Debloat) | 57367 | 2451 | PowerShell | 28 | A simple, lightweight PowerShell script that allows you to remove pre-installed apps, disable telemetry, as well as perform various other changes to declutter and customize your Windows experience. Win11Debloat works for both Windows 10 and Windows 11. | 2026-09-10T15:48:43Z |
+| 3 | [reverse-skill](https://github.com/zhaoxuya520/reverse-skill) | 36546 | 5058 | PowerShell | 12 | Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping + Self-evolving knowledge base  Supports Claude Code, Kiro, Cursor, Cline, and other AI coding clients 逆向/渗透/安全技能路由包 - AI 自动路由 + 按需自举工具链 + 自动进化经验库 \| 支持 Claude Code / Kiro / Cursor / Cline 等代码 AI 客户端 | 2026-09-03T12:25:52Z |
+| 4 | [cmder](https://github.com/cmderdev/cmder) | 27007 | 2074 | PowerShell | 53 | Lovely console emulator package for Windows | 2026-09-14T15:53:42Z |
+| 5 | [Scoop](https://github.com/ScoopInstaller/Scoop) | 24673 | 1536 | PowerShell | 437 | A command-line installer for Windows. | 2026-09-19T18:38:15Z |
+| 6 | [SpotX](https://github.com/SpotX-Official/SpotX) | 22400 | 1127 | PowerShell | 3 | SpotX patcher used for patching the desktop version of Spotify | 2026-09-09T21:32:20Z |
+| 7 | [core](https://github.com/dotnet/core) | 22035 | 4937 | PowerShell | 342 | .NET news, announcements, release notes, and more! | 2026-09-16T17:01:46Z |
+| 8 | [tiny11builder](https://github.com/ntdevlabs/tiny11builder) | 19615 | 1508 | PowerShell | 119 | Scripts to build a trimmed-down Windows 11 image. | 2025-09-12T07:23:23Z |
+| 9 | [Windows10Debloater](https://github.com/Sycnex/Windows10Debloater) | 18825 | 2057 | PowerShell | 283 | Script to remove Windows 10 bloatware. | 2023-03-10T04:15:01Z |
+| 10 | [Office-Tool](https://github.com/YerongAI/Office-Tool) | 14264 | 1052 | PowerShell | 1 | Office Tool Plus localization projects. | 2026-09-09T11:00:58Z |
 
 
 ## Python
@@ -541,16 +541,16 @@ This is top 10, for more click **[Top 100 Stars in Python](Top100/Python.md)**
 
 | Ranking | Project Name | Stars | Forks | Language | Open Issues | Description | Last Commit |
 | ------- | ------------ | ----- | ----- | -------- | ----------- | ----------- | ----------- |
-| 1 | [public-apis](https://github.com/public-apis/public-apis) | 481428 | 53156 | Python | 37 | A collective list of free APIs | 2026-09-18T19:39:43Z |
-| 2 | [free-programming-books](https://github.com/EbookFoundation/free-programming-books) | 397135 | 66790 | Python | 39 | :books: Freely available programming books | 2026-09-15T15:54:40Z |
-| 3 | [system-design-primer](https://github.com/donnemartin/system-design-primer) | 370661 | 58483 | Python | 280 | Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards. | 2026-09-15T01:10:09Z |
-| 4 | [awesome-python](https://github.com/vinta/awesome-python) | 321546 | 28759 | Python | 0 | The definitive list that answers "I want to do X in Python, which tool should I use?" | 2026-09-18T22:11:03Z |
-| 5 | [project-based-learning](https://github.com/practical-tutorials/project-based-learning) | 283770 | 36294 | Python | 152 | Curated list of project-based tutorials | 2026-09-14T07:10:04Z |
-| 6 | [hermes-agent](https://github.com/NousResearch/hermes-agent) | 246891 | 51786 | Python | 14114 | The agent that grows with you | 2026-09-18T22:15:20Z |
-| 7 | [Python](https://github.com/TheAlgorithms/Python) | 224732 | 51093 | Python | 8 | All Algorithms implemented in Python | 2026-09-18T16:52:12Z |
-| 8 | [yt-dlp](https://github.com/yt-dlp/yt-dlp) | 191971 | 16656 | Python | 2022 | A feature-rich command-line audio/video downloader | 2026-09-16T07:48:51Z |
-| 9 | [AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | 187436 | 46003 | Python | 323 | AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters. | 2026-09-18T21:57:12Z |
-| 10 | [markitdown](https://github.com/microsoft/markitdown) | 185413 | 13645 | Python | 328 | Python tool for converting files and office documents to Markdown. | 2026-09-16T17:23:11Z |
+| 1 | [public-apis](https://github.com/public-apis/public-apis) | 481620 | 53184 | Python | 37 | A collective list of free APIs | 2026-09-18T19:39:43Z |
+| 2 | [free-programming-books](https://github.com/EbookFoundation/free-programming-books) | 397246 | 66798 | Python | 40 | :books: Freely available programming books | 2026-09-15T15:54:40Z |
+| 3 | [system-design-primer](https://github.com/donnemartin/system-design-primer) | 370768 | 58488 | Python | 280 | Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards. | 2026-09-15T01:10:09Z |
+| 4 | [awesome-python](https://github.com/vinta/awesome-python) | 321746 | 28763 | Python | 0 | The definitive list that answers "I want to do X in Python, which tool should I use?" | 2026-09-18T22:11:03Z |
+| 5 | [project-based-learning](https://github.com/practical-tutorials/project-based-learning) | 283921 | 36308 | Python | 152 | Curated list of project-based tutorials | 2026-09-14T07:10:04Z |
+| 6 | [hermes-agent](https://github.com/NousResearch/hermes-agent) | 247147 | 51917 | Python | 13957 | The agent that grows with you | 2026-09-19T22:03:23Z |
+| 7 | [Python](https://github.com/TheAlgorithms/Python) | 224779 | 51097 | Python | 8 | All Algorithms implemented in Python | 2026-09-19T21:59:14Z |
+| 8 | [yt-dlp](https://github.com/yt-dlp/yt-dlp) | 192147 | 16672 | Python | 2025 | A feature-rich command-line audio/video downloader | 2026-09-16T07:48:51Z |
+| 9 | [AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | 187454 | 46005 | Python | 313 | AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters. | 2026-09-19T21:22:31Z |
+| 10 | [markitdown](https://github.com/microsoft/markitdown) | 185645 | 13671 | Python | 328 | Python tool for converting files and office documents to Markdown. | 2026-09-16T17:23:11Z |
 
 
 ## R
@@ -563,9 +563,9 @@ This is top 10, for more click **[Top 100 Stars in R](Top100/R.md)**
 | 2 | [ggplot2](https://github.com/tidyverse/ggplot2) | 6997 | 2126 | R | 83 | An implementation of the Grammar of Graphics in R | 2026-09-17T17:26:23Z |
 | 3 | [awesome-R](https://github.com/qinwf/awesome-R) | 6512 | 1515 | R | 6 | A curated list of awesome R packages, frameworks and software. | 2025-09-18T16:46:19Z |
 | 4 | [shiny](https://github.com/rstudio/shiny) | 5690 | 1889 | R | 793 | Easy interactive web applications with R | 2026-08-26T17:26:31Z |
-| 5 | [r4ds](https://github.com/hadley/r4ds) | 5158 | 4441 | R | 22 | R for data science: a book | 2026-07-18T02:06:45Z |
-| 6 | [dplyr](https://github.com/tidyverse/dplyr) | 5067 | 2114 | R | 86 | dplyr: A grammar of data manipulation | 2026-06-02T15:25:25Z |
-| 7 | [swirl_courses](https://github.com/swirldev/swirl_courses) | 4607 | 7197 | R | 146 | :mortar_board: A collection of interactive courses for the swirl R package. | 2024-01-10T17:38:19Z |
+| 5 | [r4ds](https://github.com/hadley/r4ds) | 5159 | 4443 | R | 22 | R for data science: a book | 2026-07-18T02:06:45Z |
+| 6 | [dplyr](https://github.com/tidyverse/dplyr) | 5068 | 2114 | R | 86 | dplyr: A grammar of data manipulation | 2026-06-02T15:25:25Z |
+| 7 | [swirl_courses](https://github.com/swirldev/swirl_courses) | 4608 | 7197 | R | 146 | :mortar_board: A collection of interactive courses for the swirl R package. | 2024-01-10T17:38:19Z |
 | 8 | [awesome-network-analysis](https://github.com/briatte/awesome-network-analysis) | 4115 | 639 | R | 13 | A curated list of awesome network analysis resources. | 2026-08-20T13:22:11Z |
 | 9 | [stat_rethinking_2022](https://github.com/rmcelreath/stat_rethinking_2022) | 4111 | 430 | R | 11 | Statistical Rethinking course winter 2022 | 2022-03-15T15:07:26Z |
 | 10 | [data.table](https://github.com/Rdatatable/data.table) | 3919 | 1053 | R | 868 | R's data.table package extends data.frame: | 2026-09-18T21:17:07Z |
@@ -577,16 +577,16 @@ This is top 10, for more click **[Top 100 Stars in Ruby](Top100/Ruby.md)**
 
 | Ranking | Project Name | Stars | Forks | Language | Open Issues | Description | Last Commit |
 | ------- | ------------ | ----- | ----- | -------- | ----------- | ----------- | ----------- |
-| 1 | [rails](https://github.com/rails/rails) | 58774 | 22900 | Ruby | 486 | Ruby on Rails | 2026-09-18T17:21:24Z |
-| 2 | [maybe](https://github.com/maybe-finance/maybe) | 54283 | 5690 | Ruby | 0 | The personal finance app for everyone | 2025-07-24T22:20:44Z |
-| 3 | [jekyll](https://github.com/jekyll/jekyll) | 51677 | 10300 | Ruby | 130 | :globe_with_meridians: Jekyll is a blog-aware static site generator in Ruby | 2026-09-17T19:20:03Z |
-| 4 | [mastodon](https://github.com/mastodon/mastodon) | 50302 | 7500 | Ruby | 4365 | Your self-hosted, globally interconnected microblogging community | 2026-09-18T22:02:12Z |
-| 5 | [huginn](https://github.com/huginn/huginn) | 49969 | 4299 | Ruby | 613 | Create agents that monitor and act on your behalf.  Your agents are standing by! | 2026-09-18T21:41:11Z |
-| 6 | [brew](https://github.com/Homebrew/brew) | 49711 | 11352 | Ruby | 1 | 🍺 The Package Manager for Everywhere | 2026-09-18T21:06:40Z |
-| 7 | [discourse](https://github.com/discourse/discourse) | 47865 | 9020 | Ruby | 0 | A platform for community discussion. Free, open, simple. | 2026-09-18T21:51:53Z |
-| 8 | [fastlane](https://github.com/fastlane/fastlane) | 42127 | 6032 | Ruby | 522 | 🚀 The easiest way to automate building and releasing your iOS and Android apps | 2026-09-17T18:19:33Z |
-| 9 | [devdocs](https://github.com/freeCodeCamp/devdocs) | 39467 | 2643 | Ruby | 163 | API Documentation Browser | 2026-09-15T18:45:27Z |
-| 10 | [metasploit-framework](https://github.com/rapid7/metasploit-framework) | 39025 | 14970 | Ruby | 491 | Metasploit Framework | 2026-09-17T16:01:43Z |
+| 1 | [rails](https://github.com/rails/rails) | 58780 | 22988 | Ruby | 488 | Ruby on Rails | 2026-09-19T10:22:47Z |
+| 2 | [maybe](https://github.com/maybe-finance/maybe) | 54282 | 5691 | Ruby | 0 | The personal finance app for everyone | 2025-07-24T22:20:44Z |
+| 3 | [jekyll](https://github.com/jekyll/jekyll) | 51675 | 10300 | Ruby | 130 | :globe_with_meridians: Jekyll is a blog-aware static site generator in Ruby | 2026-09-17T19:20:03Z |
+| 4 | [mastodon](https://github.com/mastodon/mastodon) | 50303 | 7499 | Ruby | 4367 | Your self-hosted, globally interconnected microblogging community | 2026-09-19T13:29:52Z |
+| 5 | [huginn](https://github.com/huginn/huginn) | 49971 | 4299 | Ruby | 613 | Create agents that monitor and act on your behalf.  Your agents are standing by! | 2026-09-19T15:31:51Z |
+| 6 | [brew](https://github.com/Homebrew/brew) | 49717 | 11358 | Ruby | 0 | 🍺 The Package Manager for Everywhere | 2026-09-19T22:07:10Z |
+| 7 | [discourse](https://github.com/discourse/discourse) | 47872 | 9020 | Ruby | 0 | A platform for community discussion. Free, open, simple. | 2026-09-19T16:34:52Z |
+| 8 | [fastlane](https://github.com/fastlane/fastlane) | 42131 | 6032 | Ruby | 518 | 🚀 The easiest way to automate building and releasing your iOS and Android apps | 2026-09-19T13:36:41Z |
+| 9 | [devdocs](https://github.com/freeCodeCamp/devdocs) | 39466 | 2645 | Ruby | 163 | API Documentation Browser | 2026-09-19T09:13:25Z |
+| 10 | [metasploit-framework](https://github.com/rapid7/metasploit-framework) | 39024 | 14971 | Ruby | 492 | Metasploit Framework | 2026-09-17T16:01:43Z |
 
 
 ## Rust
@@ -595,16 +595,16 @@ This is top 10, for more click **[Top 100 Stars in Rust](Top100/Rust.md)**
 
 | Ranking | Project Name | Stars | Forks | Language | Open Issues | Description | Last Commit |
 | ------- | ------------ | ----- | ----- | -------- | ----------- | ----------- | ----------- |
-| 1 | [claw-code](https://github.com/ultraworkers/claw-code) | 195260 | 108495 | Rust | 18 | An agent-managed museum exhibit, built in Rust with Gajae-Code / LazyCodex — developed and maintained with no human intervention. | 2026-08-16T06:18:45Z |
-| 2 | [clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) | 145315 | 10460 | Rust | 405 | A modern GUI client based on Tauri, designed to run in Windows, macOS and Linux for tailored proxy experience | 2026-09-18T13:27:41Z |
-| 3 | [cc-switch](https://github.com/farion1231/cc-switch) | 133565 | 9214 | Rust | 1823 | A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode, OpenClaw, Grok Build & Hermes Agent. Only official website: ccswitch.io | 2026-09-17T18:35:01Z |
-| 4 | [codex](https://github.com/openai/codex) | 125144 | 19406 | Rust | 17600 | Lightweight coding agent that runs in your terminal | 2026-09-18T21:34:45Z |
-| 5 | [rustdesk](https://github.com/rustdesk/rustdesk) | 123947 | 19140 | Rust | 96 | An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer. | 2026-09-18T16:19:58Z |
-| 6 | [rust](https://github.com/rust-lang/rust) | 118933 | 16051 | Rust | 11237 | Empowering everyone to build reliable and efficient software. | 2026-09-18T22:08:52Z |
-| 7 | [tauri](https://github.com/tauri-apps/tauri) | 111168 | 4005 | Rust | 1301 | Build smaller, faster, and more secure desktop and mobile applications with a web frontend. | 2026-09-18T21:43:22Z |
-| 8 | [deno](https://github.com/denoland/deno) | 108465 | 6371 | Rust | 1240 | A modern runtime for JavaScript and TypeScript. | 2026-09-17T10:35:32Z |
-| 9 | [bun](https://github.com/oven-sh/bun) | 95983 | 5040 | Rust | 3536 | Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one | 2026-09-18T22:26:49Z |
-| 10 | [RuView](https://github.com/ruvnet/RuView) | 94400 | 12493 | Rust | 70 | π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video. | 2026-09-18T18:17:34Z |
+| 1 | [claw-code](https://github.com/ultraworkers/claw-code) | 195268 | 108492 | Rust | 18 | An agent-managed museum exhibit, built in Rust with Gajae-Code / LazyCodex — developed and maintained with no human intervention. | 2026-08-16T06:18:45Z |
+| 2 | [clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) | 145486 | 10467 | Rust | 406 | A modern GUI client based on Tauri, designed to run in Windows, macOS and Linux for tailored proxy experience | 2026-09-19T15:59:37Z |
+| 3 | [cc-switch](https://github.com/farion1231/cc-switch) | 133678 | 9221 | Rust | 1833 | A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode, OpenClaw, Grok Build & Hermes Agent. Only official website: ccswitch.io | 2026-09-17T18:35:01Z |
+| 4 | [codex](https://github.com/openai/codex) | 125301 | 19449 | Rust | 17725 | Lightweight coding agent that runs in your terminal | 2026-09-19T21:44:13Z |
+| 5 | [rustdesk](https://github.com/rustdesk/rustdesk) | 124006 | 19158 | Rust | 96 | An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer. | 2026-09-19T17:31:53Z |
+| 6 | [rust](https://github.com/rust-lang/rust) | 118964 | 16154 | Rust | 11239 | Empowering everyone to build reliable and efficient software. | 2026-09-19T21:59:44Z |
+| 7 | [tauri](https://github.com/tauri-apps/tauri) | 111195 | 4007 | Rust | 1299 | Build smaller, faster, and more secure desktop and mobile applications with a web frontend. | 2026-09-19T20:43:40Z |
+| 8 | [deno](https://github.com/denoland/deno) | 108471 | 6373 | Rust | 1241 | A modern runtime for JavaScript and TypeScript. | 2026-09-17T10:35:32Z |
+| 9 | [bun](https://github.com/oven-sh/bun) | 95985 | 5044 | Rust | 3585 | Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one | 2026-09-19T22:15:08Z |
+| 10 | [RuView](https://github.com/ruvnet/RuView) | 94472 | 12501 | Rust | 70 | π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video. | 2026-09-19T18:16:07Z |
 
 
 ## Scala
@@ -613,13 +613,13 @@ This is top 10, for more click **[Top 100 Stars in Scala](Top100/Scala.md)**
 
 | Ranking | Project Name | Stars | Forks | Language | Open Issues | Description | Last Commit |
 | ------- | ------------ | ----- | ----- | -------- | ----------- | ----------- | ----------- |
-| 1 | [the-algorithm](https://github.com/twitter/the-algorithm) | 73918 | 13281 | Scala | 335 | Source code for the X Recommendation Algorithm | 2025-09-08T18:40:54Z |
-| 2 | [spark](https://github.com/apache/spark) | 44012 | 29387 | Scala | 30 | Apache Spark - A unified analytics engine for large-scale data processing | 2026-09-18T21:42:35Z |
-| 3 | [lila](https://github.com/lichess-org/lila) | 18744 | 2789 | Scala | 1215 | ♞ lichess.org: the forever free, adless and open source chess server ♞ | 2026-09-18T21:55:36Z |
+| 1 | [the-algorithm](https://github.com/twitter/the-algorithm) | 73922 | 13279 | Scala | 335 | Source code for the X Recommendation Algorithm | 2025-09-08T18:40:54Z |
+| 2 | [spark](https://github.com/apache/spark) | 44014 | 29392 | Scala | 30 | Apache Spark - A unified analytics engine for large-scale data processing | 2026-09-19T13:02:23Z |
+| 3 | [lila](https://github.com/lichess-org/lila) | 18745 | 2791 | Scala | 1220 | ♞ lichess.org: the forever free, adless and open source chess server ♞ | 2026-09-19T13:13:06Z |
 | 4 | [prisma1](https://github.com/prisma/prisma1) | 16375 | 838 | Scala | 2 | 💾 Database Tools incl. ORM, Migrations and Admin UI (Postgres, MySQL & MongoDB) [deprecated] | 2022-09-01T18:57:41Z |
-| 5 | [scala](https://github.com/scala/scala) | 14561 | 3218 | Scala | 0 | Scala 2 compiler and standard library. Scala 2 bugs at https://github.com/scala/bug; Scala 3 at https://github.com/scala/scala3 | 2026-09-09T07:18:01Z |
-| 6 | [akka-core](https://github.com/akka/akka-core) | 13278 | 3533 | Scala | 871 | A platform to build and run apps that are elastic, agile, and resilient. SDK, libraries, and hosted environments. | 2026-09-18T15:19:19Z |
-| 7 | [playframework](https://github.com/playframework/playframework) | 12618 | 4020 | Scala | 409 | The Community Maintained High Velocity Web Framework For Java and Scala. | 2026-09-15T12:00:53Z |
+| 5 | [scala](https://github.com/scala/scala) | 14562 | 3218 | Scala | 0 | Scala 2 compiler and standard library. Scala 2 bugs at https://github.com/scala/bug; Scala 3 at https://github.com/scala/scala3 | 2026-09-09T07:18:01Z |
+| 6 | [akka-core](https://github.com/akka/akka-core) | 13278 | 3532 | Scala | 871 | A platform to build and run apps that are elastic, agile, and resilient. SDK, libraries, and hosted environments. | 2026-09-18T15:19:19Z |
+| 7 | [playframework](https://github.com/playframework/playframework) | 12617 | 4020 | Scala | 409 | The Community Maintained High Velocity Web Framework For Java and Scala. | 2026-09-15T12:00:53Z |
 | 8 | [predictionio](https://github.com/apache/predictionio) | 12518 | 1892 | Scala | 0 | PredictionIO, a machine learning server for developers and ML engineers. | 2021-01-09T10:30:58Z |
 | 9 | [bfg-repo-cleaner](https://github.com/rtyley/bfg-repo-cleaner) | 12191 | 582 | Scala | 265 | Removes large or troublesome blobs like git-filter-branch does, but faster. And written in Scala | 2025-01-19T18:52:14Z |
 | 10 | [CMAK](https://github.com/yahoo/CMAK) | 11923 | 2472 | Scala | 499 | CMAK is a tool for managing Apache Kafka clusters | 2023-08-02T19:26:23Z |
@@ -631,16 +631,16 @@ This is top 10, for more click **[Top 100 Stars in Shell](Top100/Shell.md)**
 
 | Ranking | Project Name | Stars | Forks | Language | Open Issues | Description | Last Commit |
 | ------- | ------------ | ----- | ----- | -------- | ----------- | ----------- | ----------- |
-| 1 | [superpowers](https://github.com/obra/superpowers) | 288536 | 25806 | Shell | 142 | An agentic skills framework & software development methodology that works. | 2026-09-18T22:02:14Z |
-| 2 | [skills](https://github.com/mattpocock/skills) | 265249 | 22363 | Shell | 498 | Skills for Real Engineers. Straight from my .agents directory. | 2026-09-18T10:12:48Z |
-| 3 | [ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) | 189792 | 27032 | Shell | 85 | 🙃   A delightful community-driven (with 2,500+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool that makes it easy to keep up with the latest updates from the community. | 2026-09-18T12:30:23Z |
-| 4 | [agency-agents](https://github.com/msitarzewski/agency-agents) | 153378 | 24739 | Shell | 56 | A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables. | 2026-09-12T16:57:21Z |
-| 5 | [d3](https://github.com/d3/d3) | 113744 | 22646 | Shell | 5 | Bring data to life with SVG, Canvas and HTML. :bar_chart::chart_with_upwards_trend::tada: | 2026-05-28T14:43:01Z |
-| 6 | [papers-we-love](https://github.com/papers-we-love/papers-we-love) | 109834 | 6427 | Shell | 2 | Papers from the computer science community to read and discuss. | 2026-09-17T00:40:26Z |
-| 7 | [nvm](https://github.com/nvm-sh/nvm) | 95120 | 10457 | Shell | 336 | Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions. | 2026-09-11T04:00:38Z |
-| 8 | [node](https://github.com/base/node) | 68372 | 3265 | Shell | 0 | Everything required to run your own Base node | 2026-09-08T20:01:17Z |
-| 9 | [Mole](https://github.com/tw93/Mole) | 67734 | 2382 | Shell | 6 | 🐹 Clean, uninstall, analyze, optimize, and monitor your Mac. Free open-source CLI, plus a native Mac app. | 2026-09-17T13:21:00Z |
-| 10 | [leetcode-master](https://github.com/youngyangyang04/leetcode-master) | 62519 | 12305 | Shell | 213 | 《代码随想录》LeetCode 刷题攻略：200道经典题目刷题顺序，共60w字的详细图解，视频难点剖析，50余张思维导图，支持C++，Java，Python，Go，JavaScript等多语言版本，从此算法学习不再迷茫！🔥🔥 来看看，你会发现相见恨晚！🚀  | 2026-08-03T02:57:08Z |
+| 1 | [superpowers](https://github.com/obra/superpowers) | 288810 | 25832 | Shell | 134 | An agentic skills framework & software development methodology that works. | 2026-09-19T00:32:57Z |
+| 2 | [skills](https://github.com/mattpocock/skills) | 265790 | 22423 | Shell | 499 | Skills for Real Engineers. Straight from my .agents directory. | 2026-09-18T10:12:48Z |
+| 3 | [ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) | 189804 | 27143 | Shell | 85 | 🙃   A delightful community-driven (with 2,500+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool that makes it easy to keep up with the latest updates from the community. | 2026-09-19T06:20:55Z |
+| 4 | [agency-agents](https://github.com/msitarzewski/agency-agents) | 153538 | 24763 | Shell | 56 | A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables. | 2026-09-12T16:57:21Z |
+| 5 | [d3](https://github.com/d3/d3) | 113744 | 22645 | Shell | 5 | Bring data to life with SVG, Canvas and HTML. :bar_chart::chart_with_upwards_trend::tada: | 2026-05-28T14:43:01Z |
+| 6 | [papers-we-love](https://github.com/papers-we-love/papers-we-love) | 109853 | 6426 | Shell | 2 | Papers from the computer science community to read and discuss. | 2026-09-17T00:40:26Z |
+| 7 | [nvm](https://github.com/nvm-sh/nvm) | 95133 | 10462 | Shell | 336 | Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions. | 2026-09-11T04:00:38Z |
+| 8 | [node](https://github.com/base/node) | 68373 | 3265 | Shell | 0 | Everything required to run your own Base node | 2026-09-08T20:01:17Z |
+| 9 | [Mole](https://github.com/tw93/Mole) | 67821 | 2386 | Shell | 5 | 🐹 Clean, uninstall, analyze, optimize, and monitor your Mac. Free open-source CLI, plus a native Mac app. | 2026-09-19T15:05:06Z |
+| 10 | [leetcode-master](https://github.com/youngyangyang04/leetcode-master) | 62521 | 12303 | Shell | 213 | 《代码随想录》LeetCode 刷题攻略：200道经典题目刷题顺序，共60w字的详细图解，视频难点剖析，50余张思维导图，支持C++，Java，Python，Go，JavaScript等多语言版本，从此算法学习不再迷茫！🔥🔥 来看看，你会发现相见恨晚！🚀  | 2026-08-03T02:57:08Z |
 
 
 ## Swift
@@ -649,16 +649,16 @@ This is top 10, for more click **[Top 100 Stars in Swift](Top100/Swift.md)**
 
 | Ranking | Project Name | Stars | Forks | Language | Open Issues | Description | Last Commit |
 | ------- | ------------ | ----- | ----- | -------- | ----------- | ----------- | ----------- |
-| 1 | [awesome-mac](https://github.com/jaywcjlove/awesome-mac) | 114106 | 8881 | Swift | 169 |  This project is dedicated to collecting high-quality macOS software and organizing them systematically by different categories for easy search and use. | 2026-09-17T08:01:12Z |
-| 2 | [swift](https://github.com/swiftlang/swift) | 70350 | 10818 | Swift | 7674 | The Swift Programming Language | 2026-09-18T21:36:25Z |
-| 3 | [awesome-ios](https://github.com/vsouza/awesome-ios) | 53391 | 7008 | Swift | 8 | A curated list of awesome iOS ecosystem, including Objective-C and Swift Projects  | 2026-08-27T19:34:29Z |
-| 4 | [container](https://github.com/apple/container) | 50046 | 1794 | Swift | 328 | A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon.  | 2026-09-18T19:45:07Z |
-| 5 | [iina](https://github.com/iina/iina) | 46392 | 2921 | Swift | 1838 | The modern video player for macOS. | 2026-09-18T14:37:52Z |
-| 6 | [Alamofire](https://github.com/Alamofire/Alamofire) | 42418 | 7656 | Swift | 30 | Elegant HTTP Networking in Swift | 2026-09-14T05:44:45Z |
-| 7 | [stats](https://github.com/exelban/stats) | 41943 | 1538 | Swift | 23 | macOS system monitor in your menu bar | 2026-09-18T20:48:55Z |
-| 8 | [bitchat](https://github.com/permissionlesstech/bitchat) | 36249 | 5743 | Swift | 41 | bluetooth mesh chat, IRC vibes | 2026-09-13T06:14:49Z |
-| 9 | [UTM](https://github.com/utmapp/UTM) | 35547 | 1825 | Swift | 1087 | Virtual machines for iOS and macOS | 2026-09-18T10:32:13Z |
-| 10 | [MonitorControl](https://github.com/MonitorControl/MonitorControl) | 34221 | 1008 | Swift | 8 | 🖥 Control your display's brightness & volume on your Mac as if it was a native Apple Display. Use Apple Keyboard keys or custom shortcuts. Shows the native macOS OSDs. | 2026-09-15T13:39:49Z |
+| 1 | [awesome-mac](https://github.com/jaywcjlove/awesome-mac) | 114172 | 8888 | Swift | 170 |  This project is dedicated to collecting high-quality macOS software and organizing them systematically by different categories for easy search and use. | 2026-09-17T08:01:12Z |
+| 2 | [swift](https://github.com/swiftlang/swift) | 70350 | 10820 | Swift | 7674 | The Swift Programming Language | 2026-09-19T19:58:25Z |
+| 3 | [awesome-ios](https://github.com/vsouza/awesome-ios) | 53403 | 7009 | Swift | 8 | A curated list of awesome iOS ecosystem, including Objective-C and Swift Projects  | 2026-08-27T19:34:29Z |
+| 4 | [container](https://github.com/apple/container) | 50068 | 1795 | Swift | 329 | A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon.  | 2026-09-18T19:45:07Z |
+| 5 | [iina](https://github.com/iina/iina) | 46405 | 2921 | Swift | 1834 | The modern video player for macOS. | 2026-09-19T15:06:35Z |
+| 6 | [Alamofire](https://github.com/Alamofire/Alamofire) | 42417 | 7656 | Swift | 30 | Elegant HTTP Networking in Swift | 2026-09-14T05:44:45Z |
+| 7 | [stats](https://github.com/exelban/stats) | 41963 | 1540 | Swift | 23 | macOS system monitor in your menu bar | 2026-09-19T15:57:45Z |
+| 8 | [bitchat](https://github.com/permissionlesstech/bitchat) | 36255 | 5742 | Swift | 41 | bluetooth mesh chat, IRC vibes | 2026-09-13T06:14:49Z |
+| 9 | [UTM](https://github.com/utmapp/UTM) | 35559 | 1829 | Swift | 1087 | Virtual machines for iOS and macOS | 2026-09-19T15:52:38Z |
+| 10 | [MonitorControl](https://github.com/MonitorControl/MonitorControl) | 34236 | 1009 | Swift | 8 | 🖥 Control your display's brightness & volume on your Mac as if it was a native Apple Display. Use Apple Keyboard keys or custom shortcuts. Shows the native macOS OSDs. | 2026-09-15T13:39:49Z |
 
 
 ## TeX
@@ -667,15 +667,15 @@ This is top 10, for more click **[Top 100 Stars in TeX](Top100/TeX.md)**
 
 | Ranking | Project Name | Stars | Forks | Language | Open Issues | Description | Last Commit |
 | ------- | ------------ | ----- | ----- | -------- | ----------- | ----------- | ----------- |
-| 1 | [deeplearningbook-chinese](https://github.com/exacity/deeplearningbook-chinese) | 37548 | 9119 | TeX | 65 | Deep Learning Book Chinese Translation | 2019-12-03T04:25:44Z |
-| 2 | [libpku](https://github.com/lib-pku/libpku) | 34013 | 8194 | TeX | 11 | 贵校课程资料民间整理 | 2022-01-05T04:09:27Z |
-| 3 | [Awesome-CV](https://github.com/posquit0/Awesome-CV) | 28531 | 5294 | TeX | 92 | :page_facing_up: Awesome CV is LaTeX template for your outstanding job application | 2026-09-14T07:34:00Z |
-| 4 | [awesome-deep-learning-papers](https://github.com/terryum/awesome-deep-learning-papers) | 26189 | 4415 | TeX | 17 | The most cited deep learning papers | 2024-01-18T13:29:44Z |
-| 5 | [PlotNeuralNet](https://github.com/HarisIqbal88/PlotNeuralNet) | 24980 | 3061 | TeX | 70 | Latex code for making neural networks diagrams | 2023-08-21T17:47:04Z |
-| 6 | [whitepaper](https://github.com/unicitynetwork/whitepaper) | 20186 | 627 | TeX | 0 | None | 2026-05-22T11:57:26Z |
+| 1 | [deeplearningbook-chinese](https://github.com/exacity/deeplearningbook-chinese) | 37549 | 9118 | TeX | 65 | Deep Learning Book Chinese Translation | 2019-12-03T04:25:44Z |
+| 2 | [libpku](https://github.com/lib-pku/libpku) | 34022 | 8194 | TeX | 11 | 贵校课程资料民间整理 | 2022-01-05T04:09:27Z |
+| 3 | [Awesome-CV](https://github.com/posquit0/Awesome-CV) | 28534 | 5293 | TeX | 92 | :page_facing_up: Awesome CV is LaTeX template for your outstanding job application | 2026-09-14T07:34:00Z |
+| 4 | [awesome-deep-learning-papers](https://github.com/terryum/awesome-deep-learning-papers) | 26191 | 4415 | TeX | 17 | The most cited deep learning papers | 2024-01-18T13:29:44Z |
+| 5 | [PlotNeuralNet](https://github.com/HarisIqbal88/PlotNeuralNet) | 24982 | 3061 | TeX | 70 | Latex code for making neural networks diagrams | 2023-08-21T17:47:04Z |
+| 6 | [whitepaper](https://github.com/unicitynetwork/whitepaper) | 20190 | 627 | TeX | 0 | None | 2026-05-22T11:57:26Z |
 | 7 | [conv_arithmetic](https://github.com/vdumoulin/conv_arithmetic) | 14688 | 2308 | TeX | 6 | A technical report on convolution arithmetic in the context of deep learning | 2023-06-08T21:06:47Z |
-| 8 | [os01](https://github.com/tuhdo/os01) | 13710 | 790 | TeX | 61 | Bootstrap yourself to write an OS from scratch. A book for self-learner. | 2024-03-26T16:21:49Z |
-| 9 | [AI-Research-SKILLs](https://github.com/Orchestra-Research/AI-Research-SKILLs) | 12823 | 919 | TeX | 12 | Comprehensive open-source library of AI research and engineering skills for any AI model. Package the skills and your claude code/codex/gemini agent will be an AI research agent with full horsepower. Maintained by Orchestra Research. | 2026-06-16T01:36:46Z |
+| 8 | [os01](https://github.com/tuhdo/os01) | 13711 | 790 | TeX | 61 | Bootstrap yourself to write an OS from scratch. A book for self-learner. | 2024-03-26T16:21:49Z |
+| 9 | [AI-Research-SKILLs](https://github.com/Orchestra-Research/AI-Research-SKILLs) | 12862 | 920 | TeX | 12 | Comprehensive open-source library of AI research and engineering skills for any AI model. Package the skills and your claude code/codex/gemini agent will be an AI research agent with full horsepower. Maintained by Orchestra Research. | 2026-06-16T01:36:46Z |
 | 10 | [tensorflow-zh](https://github.com/jikexueyuanwiki/tensorflow-zh) | 12349 | 4098 | TeX | 28 | 谷歌全新开源人工智能系统TensorFlow官方文档中文版 | 2019-08-04T08:55:50Z |
 
 
@@ -685,16 +685,16 @@ This is top 10, for more click **[Top 100 Stars in TypeScript](Top100/TypeScript
 
 | Ranking | Project Name | Stars | Forks | Language | Open Issues | Description | Last Commit |
 | ------- | ------------ | ----- | ----- | -------- | ----------- | ----------- | ----------- |
-| 1 | [freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) | 455741 | 46677 | TypeScript | 133 | freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free. | 2026-09-18T17:07:05Z |
-| 2 | [openclaw](https://github.com/openclaw/openclaw) | 390053 | 82004 | TypeScript | 5010 | The AI that really does things. Any OS. Any Platform. The lobster way. 🦞  | 2026-09-18T22:28:14Z |
-| 3 | [developer-roadmap](https://github.com/nilbuild/developer-roadmap) | 367624 | 44960 | TypeScript | 0 | Interactive roadmaps, guides and other educational content to help developers grow in their careers. | 2026-09-18T08:51:13Z |
-| 4 | [deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | 229093 | 27410 | TypeScript | 0 | DeepSeek Harness: Everything is a Plugin. | 2026-09-17T13:30:15Z |
-| 5 | [vue](https://github.com/vuejs/vue) | 212814 | 33723 | TypeScript | 365 | This is the repo for Vue 2. For Vue 3, go to https://github.com/vuejs/core | 2024-10-10T07:24:15Z |
-| 6 | [opencode](https://github.com/anomalyco/opencode) | 208444 | 27414 | TypeScript | 4437 | The open source coding agent. | 2026-09-18T21:19:24Z |
-| 7 | [n8n](https://github.com/n8n-io/n8n) | 205277 | 60776 | TypeScript | 406 | Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. | 2026-09-18T22:14:55Z |
-| 8 | [vscode](https://github.com/microsoft/vscode) | 192660 | 42675 | TypeScript | 18520 | Visual Studio Code | 2026-09-18T22:27:55Z |
-| 9 | [firecrawl](https://github.com/firecrawl/firecrawl) | 181996 | 9845 | TypeScript | 83 | The web data API to search, scrape, and interact at scale. 🔥 | 2026-09-18T21:45:23Z |
-| 10 | [dify](https://github.com/langgenius/dify) | 156340 | 24679 | TypeScript | 403 | Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack. | 2026-09-18T18:40:11Z |
+| 1 | [freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) | 455783 | 46784 | TypeScript | 124 | freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free. | 2026-09-19T17:52:32Z |
+| 2 | [openclaw](https://github.com/openclaw/openclaw) | 390096 | 82028 | TypeScript | 5195 | The AI that really does things. Any OS. Any Platform. The lobster way. 🦞  | 2026-09-19T22:18:03Z |
+| 3 | [developer-roadmap](https://github.com/nilbuild/developer-roadmap) | 367714 | 44961 | TypeScript | 0 | Interactive roadmaps, guides and other educational content to help developers grow in their careers. | 2026-09-18T08:51:13Z |
+| 4 | [deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | 229981 | 27533 | TypeScript | 0 | DeepSeek Harness: Everything is a Plugin. | 2026-09-17T13:30:15Z |
+| 5 | [vue](https://github.com/vuejs/vue) | 212822 | 33725 | TypeScript | 365 | This is the repo for Vue 2. For Vue 3, go to https://github.com/vuejs/core | 2024-10-10T07:24:15Z |
+| 6 | [opencode](https://github.com/anomalyco/opencode) | 208628 | 27466 | TypeScript | 4466 | The open source coding agent. | 2026-09-19T22:15:22Z |
+| 7 | [n8n](https://github.com/n8n-io/n8n) | 205379 | 60786 | TypeScript | 406 | Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. | 2026-09-19T20:30:25Z |
+| 8 | [vscode](https://github.com/microsoft/vscode) | 192697 | 42771 | TypeScript | 18514 | Visual Studio Code | 2026-09-19T22:11:29Z |
+| 9 | [firecrawl](https://github.com/firecrawl/firecrawl) | 182259 | 9853 | TypeScript | 83 | The web data API to search, scrape, and interact at scale. 🔥 | 2026-09-19T22:11:38Z |
+| 10 | [dify](https://github.com/langgenius/dify) | 156479 | 24689 | TypeScript | 403 | Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack. | 2026-09-19T10:30:07Z |
 
 
 ## Vim script
@@ -703,16 +703,16 @@ This is top 10, for more click **[Top 100 Stars in Vim script](Top100/Vim-script
 
 | Ranking | Project Name | Stars | Forks | Language | Open Issues | Description | Last Commit |
 | ------- | ------------ | ----- | ----- | -------- | ----------- | ----------- | ----------- |
-| 1 | [neovim](https://github.com/neovim/neovim) | 102412 | 7117 | Vim Script | 1629 | Vim-fork focused on extensibility and usability | 2026-09-18T18:10:17Z |
-| 2 | [vim](https://github.com/vim/vim) | 40897 | 6138 | Vim Script | 1559 | The official Vim repository | 2026-09-17T20:16:57Z |
-| 3 | [vim-plug](https://github.com/junegunn/vim-plug) | 35770 | 1934 | Vim Script | 73 | :hibiscus: Minimalist Vim Plugin Manager | 2026-05-22T13:40:34Z |
-| 4 | [vimrc](https://github.com/amix/vimrc) | 31813 | 7224 | Vim Script | 13 | The ultimate Vim configuration (vimrc) | 2024-10-06T08:26:02Z |
-| 5 | [Vundle.vim](https://github.com/VundleVim/Vundle.vim) | 23919 | 2530 | Vim Script | 169 | Vundle, the plug-in manager for Vim | 2024-07-30T05:53:03Z |
+| 1 | [neovim](https://github.com/neovim/neovim) | 102434 | 7121 | Vim Script | 1627 | Vim-fork focused on extensibility and usability | 2026-09-19T18:38:11Z |
+| 2 | [vim](https://github.com/vim/vim) | 40900 | 6138 | Vim Script | 1559 | The official Vim repository | 2026-09-19T15:53:21Z |
+| 3 | [vim-plug](https://github.com/junegunn/vim-plug) | 35772 | 1935 | Vim Script | 73 | :hibiscus: Minimalist Vim Plugin Manager | 2026-05-22T13:40:34Z |
+| 4 | [vimrc](https://github.com/amix/vimrc) | 31812 | 7223 | Vim Script | 13 | The ultimate Vim configuration (vimrc) | 2024-10-06T08:26:02Z |
+| 5 | [Vundle.vim](https://github.com/VundleVim/Vundle.vim) | 23920 | 2530 | Vim Script | 169 | Vundle, the plug-in manager for Vim | 2024-07-30T05:53:03Z |
 | 6 | [vim-fugitive](https://github.com/tpope/vim-fugitive) | 21792 | 1080 | Vim Script | 97 | fugitive.vim: A Git wrapper so awesome, it should be illegal | 2026-03-07T19:20:47Z |
-| 7 | [SpaceVim](https://github.com/wsdjeg/SpaceVim) | 20200 | 1410 | Vim Script | 5 | A modular configuration of Vim and Neovim | 2025-02-17T14:14:00Z |
+| 7 | [SpaceVim](https://github.com/wsdjeg/SpaceVim) | 20199 | 1411 | Vim Script | 5 | A modular configuration of Vim and Neovim | 2025-02-17T14:14:00Z |
 | 8 | [nerdtree](https://github.com/preservim/nerdtree) | 20090 | 1437 | Vim Script | 29 | A tree explorer plugin for vim. | 2025-09-26T16:07:39Z |
-| 9 | [vim-galore](https://github.com/mhinz/vim-galore) | 17985 | 627 | Vim Script | 6 | :mortar_board: All things Vim! | 2023-12-22T22:15:38Z |
-| 10 | [vim-airline](https://github.com/vim-airline/vim-airline) | 17967 | 1101 | Vim Script | 36 | lean & mean status/tabline for vim that's light as air | 2026-09-09T07:11:25Z |
+| 9 | [vim-galore](https://github.com/mhinz/vim-galore) | 17983 | 627 | Vim Script | 6 | :mortar_board: All things Vim! | 2023-12-22T22:15:38Z |
+| 10 | [vim-airline](https://github.com/vim-airline/vim-airline) | 17965 | 1101 | Vim Script | 36 | lean & mean status/tabline for vim that's light as air | 2026-09-09T07:11:25Z |
 
 
 ---
@@ -728,16 +728,16 @@ This is top 10, for more click **[Top 100 Stars in Artificial Intelligence](Top1
 
 | Ranking | Project Name | Stars | Forks | Language | Open Issues | Description | Last Commit |
 | ------- | ------------ | ----- | ----- | -------- | ----------- | ----------- | ----------- |
-| 1 | [AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | 187436 | 46003 | Python | 323 | AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters. | 2026-09-18T21:57:12Z |
-| 2 | [prompts.chat](https://github.com/f/prompts.chat) | 170685 | 21934 | HTML | 27 | f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy. | 2026-09-09T10:27:05Z |
-| 3 | [LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch) | 105198 | 16132 | Jupyter Notebook | 2 | Implement a ChatGPT-like LLM in PyTorch from scratch, step by step | 2026-09-17T14:08:55Z |
-| 4 | [Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam) | 96715 | 14107 | Python | 20 | real time face swap and one-click video deepfake with only a single image | 2026-09-15T11:05:04Z |
-| 5 | [claude-mem](https://github.com/thedotmack/claude-mem) | 94203 | 8315 | TypeScript | 36 | Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More | 2026-09-18T20:37:59Z |
-| 6 | [OpenHands](https://github.com/OpenHands/OpenHands) | 88439 | 11616 | TypeScript | 430 | 🙌 OpenHands: AI-Driven Development | 2026-09-18T21:30:14Z |
-| 7 | [AI-For-Beginners](https://github.com/microsoft/AI-For-Beginners) | 68696 | 13270 | Jupyter Notebook | 0 | 12 Weeks, 24 Lessons, AI for All! | 2026-09-16T20:17:56Z |
-| 8 | [strix](https://github.com/usestrix/strix) | 63541 | 6937 | Python | 170 | Open-source AI penetration testing tool to find and fix your app’s vulnerabilities. | 2026-09-18T18:39:39Z |
-| 9 | [minimind](https://github.com/jingyaogong/minimind) | 61598 | 8011 | Python | 29 | 🧠 Train a 64M-parameter LLM from scratch in just 2h! | 2026-09-18T08:33:20Z |
-| 10 | [Flowise](https://github.com/FlowiseAI/Flowise) | 55466 | 25031 | TypeScript | 699 | Build AI Agents, Visually | 2026-08-13T12:38:19Z |
+| 1 | [AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | 187454 | 46005 | Python | 313 | AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters. | 2026-09-19T21:22:31Z |
+| 2 | [prompts.chat](https://github.com/f/prompts.chat) | 170748 | 21938 | HTML | 27 | f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy. | 2026-09-09T10:27:05Z |
+| 3 | [LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch) | 105239 | 16140 | Jupyter Notebook | 2 | Implement a ChatGPT-like LLM in PyTorch from scratch, step by step | 2026-09-17T14:08:55Z |
+| 4 | [Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam) | 96724 | 14108 | Python | 21 | real time face swap and one-click video deepfake with only a single image | 2026-09-15T11:05:04Z |
+| 5 | [claude-mem](https://github.com/thedotmack/claude-mem) | 94269 | 8320 | TypeScript | 42 | Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More | 2026-09-19T18:14:21Z |
+| 6 | [OpenHands](https://github.com/OpenHands/OpenHands) | 88536 | 11633 | TypeScript | 434 | 🙌 OpenHands: AI-Driven Development | 2026-09-19T18:02:49Z |
+| 7 | [AI-For-Beginners](https://github.com/microsoft/AI-For-Beginners) | 68737 | 13279 | Jupyter Notebook | 0 | 12 Weeks, 24 Lessons, AI for All! | 2026-09-16T20:17:56Z |
+| 8 | [strix](https://github.com/usestrix/strix) | 63698 | 6963 | Python | 171 | Open-source AI penetration testing tool to find and fix your app’s vulnerabilities. | 2026-09-18T18:39:39Z |
+| 9 | [minimind](https://github.com/jingyaogong/minimind) | 61701 | 8030 | Python | 29 | 🧠 Train a 64M-parameter LLM from scratch in just 2h! | 2026-09-18T08:33:20Z |
+| 10 | [Flowise](https://github.com/FlowiseAI/Flowise) | 55467 | 25030 | TypeScript | 699 | Build AI Agents, Visually | 2026-08-13T12:38:19Z |
 
 
 ### Machine Learning
@@ -746,16 +746,16 @@ This is top 10, for more click **[Top 100 Stars in Machine Learning](Top100/mach
 
 | Ranking | Project Name | Stars | Forks | Language | Open Issues | Description | Last Commit |
 | ------- | ------------ | ----- | ----- | -------- | ----------- | ----------- | ----------- |
-| 1 | [tensorflow](https://github.com/tensorflow/tensorflow) | 200174 | 76807 | C++ | 682 | An Open Source Machine Learning Framework for Everyone | 2026-09-18T22:23:06Z |
-| 2 | [prompts.chat](https://github.com/f/prompts.chat) | 170685 | 21934 | HTML | 27 | f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy. | 2026-09-09T10:27:05Z |
-| 3 | [transformers](https://github.com/huggingface/transformers) | 166302 | 34626 | Python | 797 | 🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training.  | 2026-09-18T20:31:39Z |
-| 4 | [LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch) | 105198 | 16132 | Jupyter Notebook | 2 | Implement a ChatGPT-like LLM in PyTorch from scratch, step by step | 2026-09-17T14:08:55Z |
-| 5 | [pytorch](https://github.com/pytorch/pytorch) | 103086 | 29756 | Python | 13999 | Tensors and Dynamic neural networks in Python with strong GPU acceleration | 2026-09-18T22:26:51Z |
-| 6 | [ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners) | 90656 | 22349 | Jupyter Notebook | 2 | 12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all | 2026-09-15T05:29:39Z |
-| 7 | [cs-video-courses](https://github.com/Developer-Y/cs-video-courses) | 83534 | 11490 | None | 0 | List of Computer Science courses with video lectures. | 2026-09-17T16:11:45Z |
-| 8 | [llm-course](https://github.com/mlabonne/llm-course) | 83018 | 9658 | None | 67 | Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks. | 2026-02-05T13:09:26Z |
-| 9 | [d2l-zh](https://github.com/d2l-ai/d2l-zh) | 80796 | 12390 | Python | 0 | 《动手学深度学习》：面向中文读者、能运行、可讨论。中英文版被70多个国家的500多所大学用于教学。 | 2024-07-30T09:32:19Z |
-| 10 | [netdata](https://github.com/netdata/netdata) | 80574 | 6629 | Go | 194 | The fastest path to AI-powered full stack observability, even for lean teams. | 2026-09-18T21:12:43Z |
+| 1 | [tensorflow](https://github.com/tensorflow/tensorflow) | 200195 | 76912 | C++ | 685 | An Open Source Machine Learning Framework for Everyone | 2026-09-19T21:29:14Z |
+| 2 | [prompts.chat](https://github.com/f/prompts.chat) | 170748 | 21938 | HTML | 27 | f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy. | 2026-09-09T10:27:05Z |
+| 3 | [transformers](https://github.com/huggingface/transformers) | 166385 | 34629 | Python | 797 | 🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training.  | 2026-09-19T15:42:37Z |
+| 4 | [LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch) | 105239 | 16140 | Jupyter Notebook | 2 | Implement a ChatGPT-like LLM in PyTorch from scratch, step by step | 2026-09-17T14:08:55Z |
+| 5 | [pytorch](https://github.com/pytorch/pytorch) | 103107 | 29872 | Python | 14001 | Tensors and Dynamic neural networks in Python with strong GPU acceleration | 2026-09-19T22:18:06Z |
+| 6 | [ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners) | 90729 | 22360 | Jupyter Notebook | 2 | 12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all | 2026-09-15T05:29:39Z |
+| 7 | [cs-video-courses](https://github.com/Developer-Y/cs-video-courses) | 83543 | 11490 | None | 0 | List of Computer Science courses with video lectures. | 2026-09-19T16:43:06Z |
+| 8 | [llm-course](https://github.com/mlabonne/llm-course) | 83026 | 9660 | None | 67 | Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks. | 2026-02-05T13:09:26Z |
+| 9 | [d2l-zh](https://github.com/d2l-ai/d2l-zh) | 80811 | 12391 | Python | 0 | 《动手学深度学习》：面向中文读者、能运行、可讨论。中英文版被70多个国家的500多所大学用于教学。 | 2024-07-30T09:32:19Z |
+| 10 | [netdata](https://github.com/netdata/netdata) | 80592 | 6629 | Go | 194 | The fastest path to AI-powered full stack observability, even for lean teams. | 2026-09-19T19:27:20Z |
 
 
 ### Deep Learning
@@ -764,16 +764,16 @@ This is top 10, for more click **[Top 100 Stars in Deep Learning](Top100/deep-le
 
 | Ranking | Project Name | Stars | Forks | Language | Open Issues | Description | Last Commit |
 | ------- | ------------ | ----- | ----- | -------- | ----------- | ----------- | ----------- |
-| 1 | [tensorflow](https://github.com/tensorflow/tensorflow) | 200174 | 76807 | C++ | 682 | An Open Source Machine Learning Framework for Everyone | 2026-09-18T22:23:06Z |
-| 2 | [transformers](https://github.com/huggingface/transformers) | 166302 | 34626 | Python | 797 | 🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training.  | 2026-09-18T20:31:39Z |
-| 3 | [stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) | 165007 | 31039 | Python | 2422 | Stable Diffusion web UI | 2026-03-02T07:00:53Z |
-| 4 | [LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch) | 105198 | 16132 | Jupyter Notebook | 2 | Implement a ChatGPT-like LLM in PyTorch from scratch, step by step | 2026-09-17T14:08:55Z |
-| 5 | [pytorch](https://github.com/pytorch/pytorch) | 103086 | 29756 | Python | 13999 | Tensors and Dynamic neural networks in Python with strong GPU acceleration | 2026-09-18T22:26:51Z |
-| 6 | [opencv](https://github.com/opencv/opencv) | 90889 | 57030 | C++ | 2534 | Open Source Computer Vision Library | 2026-09-18T11:56:16Z |
-| 7 | [cs-video-courses](https://github.com/Developer-Y/cs-video-courses) | 83534 | 11490 | None | 0 | List of Computer Science courses with video lectures. | 2026-09-17T16:11:45Z |
-| 8 | [d2l-zh](https://github.com/d2l-ai/d2l-zh) | 80796 | 12390 | Python | 0 | 《动手学深度学习》：面向中文读者、能运行、可讨论。中英文版被70多个国家的500多所大学用于教学。 | 2024-07-30T09:32:19Z |
-| 9 | [Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) | 78449 | 8628 | MDX | 180 | 🐙 Guides, papers, lessons, notebooks and resources for prompt engineering, context engineering, RAG, and AI Agents. | 2026-03-11T20:09:13Z |
-| 10 | [AI-For-Beginners](https://github.com/microsoft/AI-For-Beginners) | 68696 | 13270 | Jupyter Notebook | 0 | 12 Weeks, 24 Lessons, AI for All! | 2026-09-16T20:17:56Z |
+| 1 | [tensorflow](https://github.com/tensorflow/tensorflow) | 200195 | 76912 | C++ | 685 | An Open Source Machine Learning Framework for Everyone | 2026-09-19T21:29:14Z |
+| 2 | [transformers](https://github.com/huggingface/transformers) | 166385 | 34629 | Python | 797 | 🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training.  | 2026-09-19T15:42:37Z |
+| 3 | [stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) | 165027 | 31132 | Python | 2422 | Stable Diffusion web UI | 2026-03-02T07:00:53Z |
+| 4 | [LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch) | 105239 | 16140 | Jupyter Notebook | 2 | Implement a ChatGPT-like LLM in PyTorch from scratch, step by step | 2026-09-17T14:08:55Z |
+| 5 | [pytorch](https://github.com/pytorch/pytorch) | 103107 | 29872 | Python | 14001 | Tensors and Dynamic neural networks in Python with strong GPU acceleration | 2026-09-19T22:18:06Z |
+| 6 | [opencv](https://github.com/opencv/opencv) | 90895 | 57033 | C++ | 2535 | Open Source Computer Vision Library | 2026-09-19T11:33:43Z |
+| 7 | [cs-video-courses](https://github.com/Developer-Y/cs-video-courses) | 83543 | 11490 | None | 0 | List of Computer Science courses with video lectures. | 2026-09-19T16:43:06Z |
+| 8 | [d2l-zh](https://github.com/d2l-ai/d2l-zh) | 80811 | 12391 | Python | 0 | 《动手学深度学习》：面向中文读者、能运行、可讨论。中英文版被70多个国家的500多所大学用于教学。 | 2024-07-30T09:32:19Z |
+| 9 | [Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) | 78471 | 8626 | MDX | 180 | 🐙 Guides, papers, lessons, notebooks and resources for prompt engineering, context engineering, RAG, and AI Agents. | 2026-03-11T20:09:13Z |
+| 10 | [AI-For-Beginners](https://github.com/microsoft/AI-For-Beginners) | 68737 | 13279 | Jupyter Notebook | 0 | 12 Weeks, 24 Lessons, AI for All! | 2026-09-16T20:17:56Z |
 
 
 ### Large Language Model
@@ -782,16 +782,16 @@ This is top 10, for more click **[Top 100 Stars in Large Language Model](Top100/
 
 | Ranking | Project Name | Stars | Forks | Language | Open Issues | Description | Last Commit |
 | ------- | ------------ | ----- | ----- | -------- | ----------- | ----------- | ----------- |
-| 1 | [minimind](https://github.com/jingyaogong/minimind) | 61598 | 8011 | Python | 29 | 🧠 Train a 64M-parameter LLM from scratch in just 2h! | 2026-09-18T08:33:20Z |
-| 2 | [Scrapegraph-ai](https://github.com/ScrapeGraphAI/Scrapegraph-ai) | 31090 | 3132 | Python | 6 | Python scraper based on AI | 2026-09-07T13:49:52Z |
-| 3 | [PocketFlow-Tutorial-Codebase-Knowledge](https://github.com/The-Pocket/PocketFlow-Tutorial-Codebase-Knowledge) | 12670 | 1450 | Python | 55 | Pocket Flow: Codebase to Tutorial | 2026-05-31T01:26:41Z |
-| 4 | [PocketFlow](https://github.com/The-Pocket/PocketFlow) | 11179 | 1212 | Python | 60 | Pocket Flow: 100-line LLM framework. Let Agents build Agents! | 2026-07-26T16:13:20Z |
-| 5 | [KAG](https://github.com/OpenSPG/KAG) | 9062 | 722 | Python | 163 | KAG is a logical form-guided reasoning and retrieval framework based on OpenSPG engine and LLMs.  It is used to build logical reasoning and factual Q&A solutions for professional domain knowledge bases. It can effectively overcome the shortcomings of the traditional RAG vector similarity calculation model. | 2026-01-28T13:30:54Z |
-| 6 | [rig](https://github.com/0xPlaygrounds/rig) | 8664 | 971 | Rust | 58 | ⚙️🦀 Build modular and scalable LLM Applications in Rust | 2026-09-18T09:49:50Z |
-| 7 | [opencompass](https://github.com/open-compass/opencompass) | 7454 | 869 | Python | 290 | OpenCompass is an LLM evaluation platform, supporting a wide range of models (Llama3, Mistral, InternLM2,GPT-4,LLaMa2, Qwen,GLM, Claude, etc) over 100+ datasets. | 2026-09-18T11:52:08Z |
+| 1 | [minimind](https://github.com/jingyaogong/minimind) | 61701 | 8031 | Python | 29 | 🧠 Train a 64M-parameter LLM from scratch in just 2h! | 2026-09-18T08:33:20Z |
+| 2 | [Scrapegraph-ai](https://github.com/ScrapeGraphAI/Scrapegraph-ai) | 31128 | 3140 | Python | 6 | Python scraper based on AI | 2026-09-07T13:49:52Z |
+| 3 | [PocketFlow-Tutorial-Codebase-Knowledge](https://github.com/The-Pocket/PocketFlow-Tutorial-Codebase-Knowledge) | 12672 | 1450 | Python | 55 | Pocket Flow: Codebase to Tutorial | 2026-05-31T01:26:41Z |
+| 4 | [PocketFlow](https://github.com/The-Pocket/PocketFlow) | 11184 | 1212 | Python | 60 | Pocket Flow: 100-line LLM framework. Let Agents build Agents! | 2026-07-26T16:13:20Z |
+| 5 | [KAG](https://github.com/OpenSPG/KAG) | 9061 | 722 | Python | 163 | KAG is a logical form-guided reasoning and retrieval framework based on OpenSPG engine and LLMs.  It is used to build logical reasoning and factual Q&A solutions for professional domain knowledge bases. It can effectively overcome the shortcomings of the traditional RAG vector similarity calculation model. | 2026-01-28T13:30:54Z |
+| 6 | [rig](https://github.com/0xPlaygrounds/rig) | 8677 | 974 | Rust | 58 | ⚙️🦀 Build modular and scalable LLM Applications in Rust | 2026-09-19T18:29:46Z |
+| 7 | [opencompass](https://github.com/open-compass/opencompass) | 7457 | 869 | Python | 290 | OpenCompass is an LLM evaluation platform, supporting a wide range of models (Llama3, Mistral, InternLM2,GPT-4,LLaMa2, Qwen,GLM, Claude, etc) over 100+ datasets. | 2026-09-18T11:52:08Z |
 | 8 | [InternLM](https://github.com/InternLM/InternLM) | 7282 | 511 | Python | 8 | Official release of InternLM series (InternLM, InternLM2, InternLM2.5, InternLM3). | 2025-10-30T00:35:43Z |
-| 9 | [atomic-agents](https://github.com/Eigenwise/atomic-agents) | 6246 | 544 | Python | 4 | Building AI agents, atomically | 2026-08-24T12:20:08Z |
-| 10 | [enchanted](https://github.com/gluonfield/enchanted) | 6000 | 426 | Swift | 104 | Enchanted is iOS and macOS app for chatting with private self hosted language models such as Llama2, Mistral or Vicuna using Ollama. | 2026-07-07T19:34:55Z |
+| 9 | [atomic-agents](https://github.com/Eigenwise/atomic-agents) | 6251 | 544 | Python | 4 | Building AI agents, atomically | 2026-08-24T12:20:08Z |
+| 10 | [enchanted](https://github.com/gluonfield/enchanted) | 6002 | 426 | Swift | 104 | Enchanted is iOS and macOS app for chatting with private self hosted language models such as Llama2, Mistral or Vicuna using Ollama. | 2026-07-07T19:34:55Z |
 
 
 ### Natural Language Processing
@@ -800,16 +800,16 @@ This is top 10, for more click **[Top 100 Stars in Natural Language Processing](
 
 | Ranking | Project Name | Stars | Forks | Language | Open Issues | Description | Last Commit |
 | ------- | ------------ | ----- | ----- | -------- | ----------- | ----------- | ----------- |
-| 1 | [transformers](https://github.com/huggingface/transformers) | 166302 | 34626 | Python | 797 | 🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training.  | 2026-09-18T20:31:39Z |
-| 2 | [LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch) | 105198 | 16132 | Jupyter Notebook | 2 | Implement a ChatGPT-like LLM in PyTorch from scratch, step by step | 2026-09-17T14:08:55Z |
-| 3 | [d2l-zh](https://github.com/d2l-ai/d2l-zh) | 80796 | 12390 | Python | 0 | 《动手学深度学习》：面向中文读者、能运行、可讨论。中英文版被70多个国家的500多所大学用于教学。 | 2024-07-30T09:32:19Z |
-| 4 | [Made-With-ML](https://github.com/GokuMohandas/Made-With-ML) | 49540 | 7778 | Jupyter Notebook | 18 | Learn how to develop, deploy and iterate on production-grade ML applications. | 2026-03-04T23:44:21Z |
-| 5 | [bert](https://github.com/google-research/bert) | 40041 | 9670 | Python | 790 | TensorFlow code and pre-trained models for BERT | 2024-07-23T23:39:41Z |
-| 6 | [HanLP](https://github.com/hankcs/HanLP) | 36490 | 10901 | Python | 8 | Natural Language Processing for the next decade. Tokenization, Part-of-Speech Tagging, Named Entity Recognition, Syntactic & Semantic Dependency Parsing, Document Classification | 2026-09-15T06:50:15Z |
-| 7 | [spaCy](https://github.com/explosion/spaCy) | 33910 | 4723 | Python | 178 | 💫 Industrial-strength Natural Language Processing (NLP) in Python | 2026-08-24T08:26:10Z |
-| 8 | [applied-ml](https://github.com/eugeneyan/applied-ml) | 30324 | 3995 | None | 4 | 📚 Papers & tech blogs by companies sharing their work on data science & machine learning in production. | 2024-07-18T22:41:02Z |
-| 9 | [d2l-en](https://github.com/d2l-ai/d2l-en) | 29643 | 5129 | Python | 125 | Interactive deep learning book with multi-framework code, math, and discussions. Adopted at 500 universities from 70 countries including Stanford, MIT, Harvard, and Cambridge. | 2024-08-18T08:02:36Z |
-| 10 | [Resume-Matcher](https://github.com/srbhr/Resume-Matcher) | 28465 | 5044 | Python | 20 | The #1 AI Harness for Building Resumes, PDFs, Cover Letters & more, locally with 100+ LLMs support. | 2026-09-10T17:46:22Z |
+| 1 | [transformers](https://github.com/huggingface/transformers) | 166385 | 34629 | Python | 797 | 🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training.  | 2026-09-19T15:42:37Z |
+| 2 | [LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch) | 105239 | 16140 | Jupyter Notebook | 2 | Implement a ChatGPT-like LLM in PyTorch from scratch, step by step | 2026-09-17T14:08:55Z |
+| 3 | [d2l-zh](https://github.com/d2l-ai/d2l-zh) | 80811 | 12391 | Python | 0 | 《动手学深度学习》：面向中文读者、能运行、可讨论。中英文版被70多个国家的500多所大学用于教学。 | 2024-07-30T09:32:19Z |
+| 4 | [Made-With-ML](https://github.com/GokuMohandas/Made-With-ML) | 49546 | 7778 | Jupyter Notebook | 18 | Learn how to develop, deploy and iterate on production-grade ML applications. | 2026-03-04T23:44:21Z |
+| 5 | [bert](https://github.com/google-research/bert) | 40042 | 9670 | Python | 790 | TensorFlow code and pre-trained models for BERT | 2024-07-23T23:39:41Z |
+| 6 | [HanLP](https://github.com/hankcs/HanLP) | 36493 | 10900 | Python | 8 | Natural Language Processing for the next decade. Tokenization, Part-of-Speech Tagging, Named Entity Recognition, Syntactic & Semantic Dependency Parsing, Document Classification | 2026-09-15T06:50:15Z |
+| 7 | [spaCy](https://github.com/explosion/spaCy) | 33912 | 4723 | Python | 178 | 💫 Industrial-strength Natural Language Processing (NLP) in Python | 2026-08-24T08:26:10Z |
+| 8 | [applied-ml](https://github.com/eugeneyan/applied-ml) | 30351 | 3996 | None | 4 | 📚 Papers & tech blogs by companies sharing their work on data science & machine learning in production. | 2024-07-18T22:41:02Z |
+| 9 | [d2l-en](https://github.com/d2l-ai/d2l-en) | 29648 | 5130 | Python | 125 | Interactive deep learning book with multi-framework code, math, and discussions. Adopted at 500 universities from 70 countries including Stanford, MIT, Harvard, and Cambridge. | 2024-08-18T08:02:36Z |
+| 10 | [Resume-Matcher](https://github.com/srbhr/Resume-Matcher) | 28470 | 5049 | Python | 20 | The #1 AI Harness for Building Resumes, PDFs, Cover Letters & more, locally with 100+ LLMs support. | 2026-09-10T17:46:22Z |
 
 
 ### Computer Vision
@@ -818,16 +818,16 @@ This is top 10, for more click **[Top 100 Stars in Computer Vision](Top100/compu
 
 | Ranking | Project Name | Stars | Forks | Language | Open Issues | Description | Last Commit |
 | ------- | ------------ | ----- | ----- | -------- | ----------- | ----------- | ----------- |
-| 1 | [opencv](https://github.com/opencv/opencv) | 90889 | 57030 | C++ | 2534 | Open Source Computer Vision Library | 2026-09-18T11:56:16Z |
-| 2 | [cs-video-courses](https://github.com/Developer-Y/cs-video-courses) | 83534 | 11490 | None | 0 | List of Computer Science courses with video lectures. | 2026-09-17T16:11:45Z |
-| 3 | [d2l-zh](https://github.com/d2l-ai/d2l-zh) | 80796 | 12390 | Python | 0 | 《动手学深度学习》：面向中文读者、能运行、可讨论。中英文版被70多个国家的500多所大学用于教学。 | 2024-07-30T09:32:19Z |
-| 4 | [AI-For-Beginners](https://github.com/microsoft/AI-For-Beginners) | 68696 | 13270 | Jupyter Notebook | 0 | 12 Weeks, 24 Lessons, AI for All! | 2026-09-16T20:17:56Z |
-| 5 | [ultralytics](https://github.com/ultralytics/ultralytics) | 61758 | 11782 | Python | 37 | Ultralytics YOLO27, YOLO26, YOLO11, YOLOv8 — object detection, instance segmentation, semantic segmentation, image classification, pose estimation, object tracking | 2026-09-18T12:58:57Z |
-| 6 | [yolov5](https://github.com/ultralytics/yolov5) | 58041 | 17467 | Python | 31 | Ultralytics YOLOv5 in PyTorch for object detection, instance segmentation, classification, training, and export. | 2026-09-16T10:18:54Z |
-| 7 | [ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch) | 54966 | 9658 | Python | 23 | Learn it. Build it. Ship it for others. | 2026-09-07T11:42:35Z |
-| 8 | [supervision](https://github.com/roboflow/supervision) | 50920 | 4837 | Python | 40 | We write your reusable computer vision tools. 💜 | 2026-09-18T14:02:52Z |
-| 9 | [mediapipe](https://github.com/google-ai-edge/mediapipe) | 36998 | 6164 | C++ | 324 | Cross-platform, customizable ML solutions for live and streaming media. | 2026-09-18T18:16:35Z |
-| 10 | [500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code](https://github.com/ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code) | 36903 | 7482 | None | 51 | 500 AI Machine learning Deep learning Computer vision NLP Projects with code | 2025-08-01T11:54:09Z |
+| 1 | [opencv](https://github.com/opencv/opencv) | 90895 | 57033 | C++ | 2535 | Open Source Computer Vision Library | 2026-09-19T11:33:43Z |
+| 2 | [cs-video-courses](https://github.com/Developer-Y/cs-video-courses) | 83543 | 11490 | None | 0 | List of Computer Science courses with video lectures. | 2026-09-19T16:43:06Z |
+| 3 | [d2l-zh](https://github.com/d2l-ai/d2l-zh) | 80811 | 12391 | Python | 0 | 《动手学深度学习》：面向中文读者、能运行、可讨论。中英文版被70多个国家的500多所大学用于教学。 | 2024-07-30T09:32:19Z |
+| 4 | [AI-For-Beginners](https://github.com/microsoft/AI-For-Beginners) | 68737 | 13279 | Jupyter Notebook | 0 | 12 Weeks, 24 Lessons, AI for All! | 2026-09-16T20:17:56Z |
+| 5 | [ultralytics](https://github.com/ultralytics/ultralytics) | 61789 | 11782 | Python | 37 | Ultralytics YOLO27, YOLO26, YOLO11, YOLOv8 — object detection, instance segmentation, semantic segmentation, image classification, pose estimation, object tracking | 2026-09-19T21:08:01Z |
+| 6 | [yolov5](https://github.com/ultralytics/yolov5) | 58047 | 17469 | Python | 31 | Ultralytics YOLOv5 in PyTorch for object detection, instance segmentation, classification, training, and export. | 2026-09-16T10:18:54Z |
+| 7 | [ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch) | 55026 | 9674 | Python | 23 | Learn it. Build it. Ship it for others. | 2026-09-07T11:42:35Z |
+| 8 | [supervision](https://github.com/roboflow/supervision) | 50936 | 4844 | Python | 40 | We write your reusable computer vision tools. 💜 | 2026-09-19T01:53:17Z |
+| 9 | [mediapipe](https://github.com/google-ai-edge/mediapipe) | 37005 | 6165 | C++ | 325 | Cross-platform, customizable ML solutions for live and streaming media. | 2026-09-18T23:35:19Z |
+| 10 | [500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code](https://github.com/ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code) | 36917 | 7482 | None | 51 | 500 AI Machine learning Deep learning Computer vision NLP Projects with code | 2025-08-01T11:54:09Z |
 
 
 ### Reinforcement Learning
@@ -836,16 +836,16 @@ This is top 10, for more click **[Top 100 Stars in Reinforcement Learning](Top10
 
 | Ranking | Project Name | Stars | Forks | Language | Open Issues | Description | Last Commit |
 | ------- | ------------ | ----- | ----- | -------- | ----------- | ----------- | ----------- |
-| 1 | [cs-video-courses](https://github.com/Developer-Y/cs-video-courses) | 83534 | 11490 | None | 0 | List of Computer Science courses with video lectures. | 2026-09-17T16:11:45Z |
-| 2 | [unsloth](https://github.com/unslothai/unsloth) | 76387 | 6974 | Python | 759 | Local UI to run and train LLMs and diffusion models. Supports GGUF, MLX, Qwen3.8, DeepSeek-V4, MiniMax-H3, Gemma 4, FLUX and more. | 2026-09-18T22:25:42Z |
-| 3 | [annotated_deep_learning_paper_implementations](https://github.com/labmlai/annotated_deep_learning_paper_implementations) | 67457 | 6758 | Python | 29 | 🧑‍🏫 60+ Implementations/tutorials of deep learning papers with side-by-side notes 📝; including transformers (original, xl, switch, feedback, vit, ...), optimizers (adam, adabelief, sophia, ...), gans(cyclegan, stylegan2, ...), 🎮 reinforcement learning (ppo, dqn), capsnet, distillation, ... 🧠 | 2026-01-22T04:26:00Z |
-| 4 | [ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch) | 54966 | 9658 | Python | 23 | Learn it. Build it. Ship it for others. | 2026-09-07T11:42:35Z |
-| 5 | [ai-agent-book](https://github.com/bojieli/ai-agent-book) | 48533 | 5434 | Python | 21 | 《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码 | 2026-09-18T16:26:43Z |
-| 6 | [ray](https://github.com/ray-project/ray) | 43869 | 8057 | Python | 2913 | Ray is an AI compute engine. Ray consists of a core distributed runtime and a set of AI Libraries for accelerating ML workloads. | 2026-09-18T22:29:23Z |
-| 7 | [sglang](https://github.com/sgl-project/sglang) | 36148 | 8977 | Python | 921 | SGLang is a high-performance serving framework for large language models and multimodal models. | 2026-09-18T22:04:08Z |
-| 8 | [applied-ml](https://github.com/eugeneyan/applied-ml) | 30324 | 3995 | None | 4 | 📚 Papers & tech blogs by companies sharing their work on data science & machine learning in production. | 2024-07-18T22:41:02Z |
-| 9 | [d2l-en](https://github.com/d2l-ai/d2l-en) | 29643 | 5129 | Python | 125 | Interactive deep learning book with multi-framework code, math, and discussions. Adopted at 500 universities from 70 countries including Stanford, MIT, Harvard, and Cambridge. | 2024-08-18T08:02:36Z |
-| 10 | [FinGPT](https://github.com/AI4Finance-Foundation/FinGPT) | 21263 | 3014 | Jupyter Notebook | 35 | FinGPT: Open-Source Financial Large Language Models!  Revolutionize 🔥    We release the trained model on HuggingFace. | 2026-09-14T08:55:09Z |
+| 1 | [cs-video-courses](https://github.com/Developer-Y/cs-video-courses) | 83543 | 11490 | None | 0 | List of Computer Science courses with video lectures. | 2026-09-19T16:43:06Z |
+| 2 | [unsloth](https://github.com/unslothai/unsloth) | 76444 | 6980 | Python | 762 | Local UI to run and train LLMs and diffusion models. Supports GGUF, MLX, Qwen3.8, DeepSeek-V4, MiniMax-H3, Gemma 4, FLUX and more. | 2026-09-19T13:27:05Z |
+| 3 | [annotated_deep_learning_paper_implementations](https://github.com/labmlai/annotated_deep_learning_paper_implementations) | 67467 | 6757 | Python | 29 | 🧑‍🏫 60+ Implementations/tutorials of deep learning papers with side-by-side notes 📝; including transformers (original, xl, switch, feedback, vit, ...), optimizers (adam, adabelief, sophia, ...), gans(cyclegan, stylegan2, ...), 🎮 reinforcement learning (ppo, dqn), capsnet, distillation, ... 🧠 | 2026-01-22T04:26:00Z |
+| 4 | [ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch) | 55026 | 9674 | Python | 23 | Learn it. Build it. Ship it for others. | 2026-09-07T11:42:35Z |
+| 5 | [ai-agent-book](https://github.com/bojieli/ai-agent-book) | 48669 | 5451 | Python | 4 | 《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码 | 2026-09-19T15:06:44Z |
+| 6 | [ray](https://github.com/ray-project/ray) | 43873 | 8060 | Python | 2913 | Ray is an AI compute engine. Ray consists of a core distributed runtime and a set of AI Libraries for accelerating ML workloads. | 2026-09-19T18:52:15Z |
+| 7 | [sglang](https://github.com/sgl-project/sglang) | 36176 | 8992 | Python | 915 | SGLang is a high-performance serving framework for large language models and multimodal models. | 2026-09-19T21:42:04Z |
+| 8 | [applied-ml](https://github.com/eugeneyan/applied-ml) | 30351 | 3996 | None | 4 | 📚 Papers & tech blogs by companies sharing their work on data science & machine learning in production. | 2024-07-18T22:41:02Z |
+| 9 | [d2l-en](https://github.com/d2l-ai/d2l-en) | 29648 | 5130 | Python | 125 | Interactive deep learning book with multi-framework code, math, and discussions. Adopted at 500 universities from 70 countries including Stanford, MIT, Harvard, and Cambridge. | 2024-08-18T08:02:36Z |
+| 10 | [FinGPT](https://github.com/AI4Finance-Foundation/FinGPT) | 21270 | 3014 | Jupyter Notebook | 35 | FinGPT: Open-Source Financial Large Language Models!  Revolutionize 🔥    We release the trained model on HuggingFace. | 2026-09-14T08:55:09Z |
 
 
 ### Generative AI
@@ -854,16 +854,16 @@ This is top 10, for more click **[Top 100 Stars in Generative AI](Top100/generat
 
 | Ranking | Project Name | Stars | Forks | Language | Open Issues | Description | Last Commit |
 | ------- | ------------ | ----- | ----- | -------- | ----------- | ----------- | ----------- |
-| 1 | [langflow](https://github.com/langflow-ai/langflow) | 154985 | 10113 | Python | 235 | Langflow is a powerful tool for building and deploying AI-powered agents and workflows. | 2026-09-18T22:29:15Z |
-| 2 | [langchain](https://github.com/langchain-ai/langchain) | 146609 | 24516 | Python | 431 | The agent engineering platform. | 2026-09-18T19:10:39Z |
-| 3 | [generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners) | 120032 | 63188 | Jupyter Notebook | 1 | 21 Lessons, Get Started Building with Generative AI  | 2026-09-18T13:48:35Z |
-| 4 | [LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch) | 105198 | 16132 | Jupyter Notebook | 2 | Implement a ChatGPT-like LLM in PyTorch from scratch, step by step | 2026-09-17T14:08:55Z |
-| 5 | [Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) | 78449 | 8628 | MDX | 180 | 🐙 Guides, papers, lessons, notebooks and resources for prompt engineering, context engineering, RAG, and AI Agents. | 2026-03-11T20:09:13Z |
-| 6 | [ai-agents-for-beginners](https://github.com/microsoft/ai-agents-for-beginners) | 75099 | 24747 | Jupyter Notebook | 2 | 18 Lessons to Get Started Building AI Agents | 2026-09-10T17:41:19Z |
-| 7 | [system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) | 67465 | 10962 | JavaScript | 20 | Extracted system prompts from Anthropic - Claude Fable 5.1, Opus 5, Claude Design, Claude Code. OpenAI - ChatGPT GPT-6-Astra, Codex. Google - Gemini 3.8 Flash, 3.1 Pro, Antigravity. xAI - Grok, Grok Bot, Cursor, Kimi and more! Updated regularly. | 2026-09-17T22:06:05Z |
-| 8 | [ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch) | 54966 | 9658 | Python | 23 | Learn it. Build it. Ship it for others. | 2026-09-07T11:42:35Z |
-| 9 | [langgraph](https://github.com/langchain-ai/langgraph) | 41901 | 7077 | Python | 552 | Build resilient agents. | 2026-09-18T22:26:47Z |
-| 10 | [airllm](https://github.com/lyogavin/airllm) | 34531 | 3630 | Jupyter Notebook | 110 | AirLLM 70B inference with single 4GB GPU | 2026-09-18T06:25:07Z |
+| 1 | [langflow](https://github.com/langflow-ai/langflow) | 155018 | 10118 | Python | 236 | Langflow is a powerful tool for building and deploying AI-powered agents and workflows. | 2026-09-19T06:21:08Z |
+| 2 | [langchain](https://github.com/langchain-ai/langchain) | 146681 | 24527 | Python | 437 | The agent engineering platform. | 2026-09-19T20:27:37Z |
+| 3 | [generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners) | 120090 | 63223 | Jupyter Notebook | 1 | 21 Lessons, Get Started Building with Generative AI  | 2026-09-18T13:48:35Z |
+| 4 | [LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch) | 105239 | 16140 | Jupyter Notebook | 2 | Implement a ChatGPT-like LLM in PyTorch from scratch, step by step | 2026-09-17T14:08:55Z |
+| 5 | [Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) | 78471 | 8626 | MDX | 180 | 🐙 Guides, papers, lessons, notebooks and resources for prompt engineering, context engineering, RAG, and AI Agents. | 2026-03-11T20:09:13Z |
+| 6 | [ai-agents-for-beginners](https://github.com/microsoft/ai-agents-for-beginners) | 75160 | 24763 | Jupyter Notebook | 2 | 18 Lessons to Get Started Building AI Agents | 2026-09-19T06:16:49Z |
+| 7 | [system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) | 67658 | 10992 | JavaScript | 20 | Extracted system prompts from Anthropic - Claude Fable 5.1, Opus 5, Claude Design, Claude Code. OpenAI - ChatGPT GPT-6-Astra, Codex. Google - Gemini 3.8 Flash, 3.1 Pro, Antigravity. xAI - Grok, Grok Bot, Cursor, Kimi and more! Updated regularly. | 2026-09-17T22:06:05Z |
+| 8 | [ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch) | 55026 | 9674 | Python | 23 | Learn it. Build it. Ship it for others. | 2026-09-07T11:42:35Z |
+| 9 | [langgraph](https://github.com/langchain-ai/langgraph) | 41953 | 7082 | Python | 556 | Build resilient agents. | 2026-09-18T23:31:45Z |
+| 10 | [airllm](https://github.com/lyogavin/airllm) | 34556 | 3636 | Jupyter Notebook | 110 | AirLLM 70B inference with single 4GB GPU | 2026-09-19T06:20:50Z |
 
 
 ### Skills
@@ -872,14 +872,14 @@ This is top 10, for more click **[Top 100 Stars in Skills](Top100/skills.md)**
 
 | Ranking | Project Name | Stars | Forks | Language | Open Issues | Description | Last Commit |
 | ------- | ------------ | ----- | ----- | -------- | ----------- | ----------- | ----------- |
-| 1 | [skills](https://github.com/anthropics/skills) | 177040 | 20974 | Python | 354 | Public repository for Agent Skills | 2026-09-10T19:44:11Z |
-| 2 | [ponytail](https://github.com/DietrichGebert/ponytail) | 141995 | 7614 | JavaScript | 96 | Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote. | 2026-09-14T14:34:56Z |
-| 3 | [ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) | 128817 | 13734 | Python | 41 | An AI skill that provides design intelligence for building professional UI/UX across multiple platforms. | 2026-09-15T09:29:30Z |
-| 4 | [open-design](https://github.com/nexu-io/open-design) | 96946 | 11263 | TypeScript | 538 | 🎨 Best DeepSeek Harness Design Plugin. The open-source Claude Design alternative. 🖥️ Local-first desktop app. 🖼️ Your coding agent becomes the design engine: prototypes, landing pages, dashboards, slides, images & video — real files, HTML/PDF/PPTX/MP4 export. 🤖 Claude Code / Codex / Cursor / DeepSeek Harness / OpenCode & 20+ CLIs via BYOK. | 2026-09-18T18:17:36Z |
-| 5 | [agent-skills](https://github.com/addyosmani/agent-skills) | 96367 | 10185 | JavaScript | 53 | Production-grade engineering skills for AI coding agents. | 2026-09-18T03:32:22Z |
-| 6 | [claude-mem](https://github.com/thedotmack/claude-mem) | 94203 | 8315 | TypeScript | 36 | Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More | 2026-09-18T20:37:59Z |
-| 7 | [Understand-Anything](https://github.com/Egonex-AI/Understand-Anything) | 83245 | 7023 | TypeScript | 113 | Graphs that teach > graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more. | 2026-09-12T05:31:43Z |
-| 8 | [awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) | 75292 | 8724 | Python | 139 | A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows | 2026-09-18T07:16:11Z |
-| 9 | [ruflo](https://github.com/ruvnet/ruflo) | 72797 | 8627 | TypeScript | 667 | 🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, federation, vector RAG integration, and native Claude Code / Codex / Hermes and many more Integrated | 2026-09-18T07:11:49Z |
-| 10 | [oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) | 69192 | 5692 | TypeScript | 589 | OmO: Just type "mass ulw" keyword with your prompt. Now you are the master of graph engineering. | 2026-09-18T19:26:30Z |
+| 1 | [skills](https://github.com/anthropics/skills) | 177162 | 20990 | Python | 355 | Public repository for Agent Skills | 2026-09-10T19:44:11Z |
+| 2 | [ponytail](https://github.com/DietrichGebert/ponytail) | 142498 | 7646 | JavaScript | 97 | Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote. | 2026-09-14T14:34:56Z |
+| 3 | [ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) | 129050 | 13755 | Python | 39 | An AI skill that provides design intelligence for building professional UI/UX across multiple platforms. | 2026-09-19T00:58:38Z |
+| 4 | [open-design](https://github.com/nexu-io/open-design) | 97089 | 11283 | TypeScript | 541 | 🎨 Best DeepSeek Harness Design Plugin. The open-source Claude Design alternative. 🖥️ Local-first desktop app. 🖼️ Your coding agent becomes the design engine: prototypes, landing pages, dashboards, slides, images & video — real files, HTML/PDF/PPTX/MP4 export. 🤖 Claude Code / Codex / Cursor / DeepSeek Harness / OpenCode & 20+ CLIs via BYOK. | 2026-09-19T18:18:00Z |
+| 5 | [agent-skills](https://github.com/addyosmani/agent-skills) | 96976 | 10235 | JavaScript | 53 | Production-grade engineering skills for AI coding agents. | 2026-09-18T03:32:22Z |
+| 6 | [claude-mem](https://github.com/thedotmack/claude-mem) | 94269 | 8320 | TypeScript | 42 | Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More | 2026-09-19T18:14:21Z |
+| 7 | [Understand-Anything](https://github.com/Egonex-AI/Understand-Anything) | 83315 | 7037 | TypeScript | 113 | Graphs that teach > graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more. | 2026-09-12T05:31:43Z |
+| 8 | [awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) | 75335 | 8731 | Python | 139 | A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows | 2026-09-18T07:16:11Z |
+| 9 | [ruflo](https://github.com/ruvnet/ruflo) | 72863 | 8646 | TypeScript | 669 | 🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, federation, vector RAG integration, and native Claude Code / Codex / Hermes and many more Integrated | 2026-09-19T06:23:46Z |
+| 10 | [oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) | 69200 | 5700 | TypeScript | 596 | OmO: Just type "mass ulw" keyword with your prompt. Now you are the master of graph engineering. | 2026-09-19T16:45:00Z |
 
